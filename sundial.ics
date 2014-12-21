@@ -1,0 +1,2181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_72973@columbia.edu
+SUMMARY: Art Exhibit: THE BOOK                                                 
+DESCRIPTION: Exhibition can be viewed October 23-November 21, 12-5 p.m., and       
+ during evening events Opening reception Wednesday, October 22, 5-7    
+ p.m. Elisabeth Raphals fourteen sculptures exhibited at the Columbia  
+ Maison Franaise draw their inspiration from a reading of the Tanakh - 
+ the Hebrew Bible - but other books can be imagined too in these       
+ works. Each sculpture contains an ancient Hebrew text stamped on      
+ fragile leaves made of bone china. Some leaves are hidden between     
+ minimalist clay blocks. Other leaves are caressed by hands of wrapped 
+ textile. Elisabeth Raphal lives and works in Paris. Her works have    
+ been exhibited in France, Belgium, Israel, the United Kingdom and     
+ China. She won the Grand Prix of the International Biennale of        
+ Vallauris in 2012. Her sculptures and installations are represented   
+ in the Magnelli Museum of Vallauris, the Museum of Chteauroux and the 
+ Yad Vashem Museum of Jerusalem. Support for this exhibition is        
+ provided by the Knapp Family Foundation                               
+DTSTART;TZID=America/New_York:20141023T12000000
+DTEND;TZID=America/New_York:20141121T17000000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:ll2787@columbia.edu
+URL:http://maisonfrancaise.org/the-book
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74196@columbia.edu
+SUMMARY: Mujeres: Otro/Un Festival de Cine                                     
+DESCRIPTION: Dont miss this unique opportunity to discover the realities and       
+ fictions of women from three different continents and their           
+ representation in Spanish and Latin American films. This festival     
+ celebrates the achievements of women who fought for their             
+ lives#8232with passion and pride in the most hostile environments in  
+ Argentina, Chile, Mexico, the Sahara desert, and Spain.#8232The       
+ four-day festival includes presentations and panels that shed new     
+ light on an array#8232of resonant and inspirational stories. Featured 
+ are Spain- Saharas Wilaya (above cosponsored by the Barnard Forum on  
+ Migration) Spains Barefoot in the Kitchen Chiles Illiterates Mexicos  
+ After Lucia and Argentinas The Fish Child. All screenings will        
+ be subtitled in English. Check back for ticket and schedule           
+ information Information jperezza@barnard.edu                          
+DTSTART;TZID=America/New_York:20141113T18000000
+DTEND;TZID=America/New_York:20141116T18000000
+LOCATION:Columbia University Morningside Campus Barnard College
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/events/mujeres-otroun-festival-de-cine
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75234@columbia.edu
+SUMMARY: Screening of "IDA," a leading candidate for the Academy Award for     
+ Best Foreign Language Film                                            
+DESCRIPTION: We are delighted to invite you On behalf of Polish Filmmakers NYC,    
+ the Polish Club at Columbia University, East Central European Center  
+ and the Harriman Institute, I would like to invite you to a special   
+ screening of Pawe#322 Pawlikowskis acclaimed film Ida. The most       
+ celebrated Polish film of the past two decades, Pawe#322 Pawlikowskis 
+ Ida has opened to international acclaim  already the recipient        
+ of more than 40 international awards, the film is a leading candidate 
+ for the Academy Award for Best Foreign Language Film. Hailed as       
+ a masterpiece by The New York Times and The New Yorker, this          
+ beautifully shot, haunting film is truly unforgettable. Polish        
+ Filmmakers NYC is proud to cooperate with the Polish Club at Columbia 
+ University in showcasing this instant classic of storytelling and     
+ emotion. The screening will be followed by a panel discussion with    
+ Professor Stuart Liebman of CUNY, Matt Zoller Seitz, the              
+ editor-in-chief of RogerEbert.com, and Sheila OMalley of              
+ RogerEbert.com and other outlets, hosted by film critic Micha#322     
+ Oleszczyk, the Artistic Director of Gdynia Film Festival. We thank    
+ our partners The East Central European Center,nbsp The Harriman       
+ Institute at Columbia University, Ferris Reel Society and Metropolis  
+ Artists Agency. This event has been generously sponsored by the       
+ Polish Film Institute. To register, please RSVP to Bart Zelajtys      
+ (bsz2103@columbia.edu) with the total number of your guests and their 
+ names. Normal 0 false false false EN-US X-NONE X-NONE /* Style        
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin-top0in mso-para-margin-right0in                 
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141115T20300000
+DTEND;TZID=America/New_York:20141115T22300000
+LOCATION:Alfred Lerner Hall, Roone Arledge Cinema
+CONTACT:ft2439@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74937@columbia.edu
+SUMMARY: Heyman Center Workshops On Method: Introducing Paper Machines         
+DESCRIPTION: How do you summarize millions of books with a single tool? The        
+ question is relevant to literary scholars, but especially to          
+ historians of political institutions and the official mind. Paper     
+ Machines is a toolkit that works with minimal code on the texts that  
+ historians and other scholars are already using, visualizing them as  
+ their subjects change over time and space. This talk will foreground  
+ the role of big data, visualizations, and historians as the designers 
+ of tools in the future shape of training in history departments,      
+ topics taken up in Guldi and David Armitages new book, The History    
+ Manifesto (October 2014, Cambridge University Press). For more        
+ information, see the Paper Machines website and follow the project on 
+ Twitter@papermachines, or visit the website of Jo Guldi and follow    
+ her on Twitter@joguldi. The On Method Heyman Center workshop series   
+ will examine the range of methods, theoretical and practical, used by 
+ humanities scholars and critics, past and present. What are the       
+ overarching techniques (techn)--what John Unsworth calls our          
+ scholarly primitives--and epistemologies (epist#275m#275),            
+ or theoretical apparati, inherent to humanities research? How are the 
+ technological challenges and opportunities provided by new research   
+ methods (computational, quantitative), organizational structures      
+ (labs, workshops, co-working) tethered to epistemological shifts as   
+ well? Following Thomas Kuhn, can we outline paradigms of humanistic   
+ inquiry? Does it make sense to define method in the context of the    
+ humanities, and if so, what are the varieties that method has taken   
+ on? What are the national speicificities of these methods, and        
+ of descriptions of the humanities itself? While much time has been    
+ spent theorizing the digital in Digital Humanities, the workshop      
+ seeks to gain a greater understanding of the heritage and future of   
+ humanities methods in general, while contextualizing more precisely   
+ the contributions of computational approaches in the process. Event   
+ is free and open to the public. Seating is first come, first served.  
+ Normal 0 false false false EN-US X-NONE X-NONE /* Style Definitions   
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141117T12000000
+DTEND;TZID=America/New_York:20141117T14000000
+LOCATION:Columbia University Morningside Campus East Campus Heyman Center 2nd Floor Common Room
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/on-method-introducing-paper-machines/http://
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75101@columbia.edu
+SUMMARY: Implementation of Mexico's Energy Reforms                             
+DESCRIPTION: Please join the Center on Global Energy Policy and the New York       
+ Energy Forum for a presentation and discussion on the implementation  
+ of Mexicos historic reforms to open its hydrocarbons sector to        
+ private investment. The event will feature remarks from three senior  
+ Mexican government officials Lourdes Melgar, Deputy Minister of       
+ Hydrocarbons, Ministry of EnergyMiguel Messmacher, Deputy Minister of 
+ Income, Ministry of Finance andJuan Carlos Zepeda, Chair              
+ Commissioner, National Hydrocarbons Commission. After the remarks,    
+ Center Fellow Carlos Pascual, former US Ambassador to Mexico and      
+ Special Envoy and Coordinator for International Energy Affairs and at 
+ the US State Department, will moderate a discussion. Center Advisory  
+ Board Member Dr. Edward L. Morse, Managing Director, Global Head of   
+ Commodities Research, Citi and Chairman, New York Energy Forum, will  
+ join the discussion. This event is open to press. It will also        
+ be livestreamed at energypolicy.columbia.edu/watchnbsp(no             
+ registration is required to view the livestream).nbsp For more        
+ information contact energypolicy@columbia.edu                         
+DTSTART;TZID=America/New_York:20141117T15150000
+DTEND;TZID=America/New_York:20141117T17150000
+LOCATION:Columbia University Morningside Campus Low Library Rotunda
+CONTACT:jmm2352@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74884@columbia.edu
+SUMMARY: Silent Moon: On Leopardi's "Canto Notturno"                           
+DESCRIPTION: The great Romantic poet Giacomo Leopardis finest work was Night Song  
+ of a Wandering Shepherd in Asia. Join us as two experts offer a       
+ reading and discussion. As Helen Vendler says, Leopardis poetry is    
+ charged on the one hand with a helpless longing, both sexual and      
+ philosophical, and on the other hand by a bitterness that was both    
+ personal and political. Jonathan Galassi (the president and publisher 
+ of Farrar, Straus and Giroux) is the acclaimed translator of the 2012 
+ English edition of Leopardis poems. He has also translated the poetry 
+ and prose of Eugenio Montale and is the author of two volumes of      
+ poems, Morning Run and North Street. Giorgio Ficara is teaching       
+ a weekly graduate course in Columbias Italian Department he is the    
+ third annual Compagnia di San Paolo / Italian Academy Distinguished   
+ Visiting Professor. He is Professor of Italian Literature at the      
+ University of Turin and has been a Visiting Professor at Stanford     
+ University and UCLA. He has taught at the Sorbonne and the Collge de  
+ France, Paris. Among his books are Solitudini. Studi sulla            
+ letteratura italiana dal Duecento al Novecento (Garzanti, 1993        
+  Premio Lerici 1994), Il punto di vista della Natura. Saggio su       
+ Leopardi (Il Melangolo, 1996  runner-up Premio Viareggio 1997)        
+ Casanova e la malinconia (Einaudi, 1999) and Stile Novecento          
+ (Marsilio, 2007). In 1984 he won the Borgia Prize, Accademia          
+ Nazionale dei Lincei. He is co-Editor of Lettere italiane and is a    
+ regular contributor to La Stampa. The Compagnia di San Paolo /        
+ Italian Academy Distinguished Visiting Professorship This series      
+ focuses on Italian literature, art history, and musicology and        
+ is made possible by multi-year funding from the Compagnia di San      
+ Paolo. The Compagnia di San Paolo is working closely with the Italian 
+ Academy to bring to Columbia a series of renowned scholars to promote 
+ the knowledge of those areas of Italian learning which have           
+ contributed so greatly to the development of culture. Founded in      
+ 1563, the Compagnia di San Paolo is a private, non-governmental       
+ organization that generously and consistently supports education art  
+ and the preservation and development of cultural heritage             
+ and activities scientific, economic and juridical research health and 
+ assistance to the socially deprived. Columbia University has already  
+ benefited from the Compagnias international vision the School of      
+ Journalism has a chair for the San Paolo Professor of International   
+ Journalism as a result of an agreement developed in the 1990s by the  
+ founding director of the Italian Academy. Given its international     
+ scope and its long-standing commitment to all aspects of Italian      
+ culture and society, Columbias Italian Academy has since its birth    
+ maintained a dialogue with the Compagnia di San Paolo regarding the   
+ maintenance of academic excellence at home and abroad. This new       
+ Distinguished Visiting Professorship agreement confirms the           
+ foundations commitment to Columbia as its American partner in the     
+ promulgation of research and teaching done at the highest level. The  
+ Italian Academy welcomes this opportunity to bring eminent Italian    
+ scholars to the Columbia campus to interact with the promising        
+ researchers who make up the core of the Academys fellowship program,  
+ andin the larger communityto lecture and teach to a broader audience  
+ of students and fellow scholars across the University. Normal 0 false 
+ false false EN-US X-NONE X-NONE /* Style Definitions */               
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141117T18000000
+DTEND;TZID=America/New_York:20141117T20000000
+LOCATION:Columbia University Morningside Campus The Italian Academy
+CONTACT:aj211@columbia.edu
+URL:http://www.italianacademy.columbia.edu/event/silent-moon-leopardis-canto-notturno
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74787@columbia.edu
+SUMMARY: Book Launch for the The Kenneth J. Arrow Series                       
+DESCRIPTION: The Book Launch will celebrate the publication of the first four      
+ volumes within the Series and feature a roundtable discussion with    
+ Kenneth Arrow, Scott Barrett, Patrick Bolton, Bruce C. Greenwald,     
+ Geoffrey Heal, Eric Maskin, Paul Milgrom, Bernard Salanie, Jose A.    
+ Scheinkman, Jay Sethuraman, and Joseph E. Stiglitz, moderated by Jan  
+ Svejnar. With a welcome by David Madigan and a dedication to William  
+ Vickrey by Ronald Findlay.nbspBook signing and reception to follow.   
+ RegisternbspPlease also join us for the 7th Arrow Lecture Prices and  
+ Decentralization without Convexity on Tuesday, November 18.nbspnbsp   
+ Sponsored by the Center on Global Economic Governance, the Program    
+ for Economic Research, the Committee on Global Thought, Columbia      
+ University Press, and the Initiative for Policy Dialogue.             
+DTSTART;TZID=America/New_York:20141117T18000000
+DTEND;TZID=America/New_York:20141117T20000000
+LOCATION:Columbia University Morningside Campus Faculty House, Third Floor
+CONTACT:cgeg@columbia.edu
+URL:https://arrowbooklaunch.eventbrite.com
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74916@columbia.edu
+SUMMARY: A Roundtable on The History Manifesto: The Role of History and the    
+ Humanities in a Digital Age                                           
+DESCRIPTION: How should historians speak truth to power - and why does it matter?  
+ Why is five hundred years better than five months or five years as a  
+ planning horizon? And why is history -- especially long-term history  
+ -- so essential to understanding the multiple pasts which gave rise   
+ to our conflicted present? The History Manifesto is a call to arms to 
+ historians and everyone interested in the role of history in          
+ contemporary society. Leading historians David Armitage and Jo Guldi  
+ identify a recent shift back to longer-term narratives, following     
+ many decades of increasing specialization, which they argue is vital  
+ for the future of historical scholarship and how it is communicated.  
+ This provocative and thoughtful book makes an important intervention  
+ in the debate about the role of history and the humanities in a       
+ digital age. It will provoke discussion among policymakers, activists 
+ and entrepreneurs as well as ordinary listeners, viewers, readers,    
+ students and teachers. Armitage and Guldi will be in conversation     
+ with Matthew L. Jones, James R. Barker Associate Professor            
+ of Contemporary Civilization at Columbia University Dan Edelstein,    
+ Professor of French and History at Stanford University and Mark       
+ Mazower, Director of the Heyman Center for the Humanities. Event is   
+ free and open to the public. Seating is first come, first served.     
+ Normal 0 false false false EN-US X-NONE X-NONE /* Style Definitions   
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141117T18150000
+DTEND;TZID=America/New_York:20141117T20150000
+LOCATION:Columbia University Morningside Campus Heyman Center for the Humanities 2nd Floor Common Room
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/a-roundtable-on-the-history-manifesto-the-role-of-history-and-the-humanitie/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74902@columbia.edu
+SUMMARY: Media, Business, and Politics in Eastern Europe: Public Relations     
+ Development and its Power                                             
+DESCRIPTION: Please join us for an engaging Round table discussion Media, Business 
+ and Politics in Eastern Europe Public Relations Development and its   
+ Power. Three of the leading academics and business representatives    
+ will discuss the transformation of Public Relations industry in       
+ Eastern Europe, its overlap with politics and influence on those in   
+ power. Central and Eastern European countries witnessed complete      
+ restructuring of business, media and politics throughout the 1990s.   
+ Free press emerged and public relations have turned into a            
+ multimillion dollar business. Despite new ways of communications and  
+ legislative progress, journalists are still experiencing threats to   
+ their independency from (self)censorship, local media oligarchs and   
+ powerful politicians. Media, business and politics thus overlap in    
+ the region, with fascinating specifics in each country. Denisa        
+ Hejlova and Anastasiia Grynko are leading scholars focusing on Public 
+ Relations development and power in politics. They recently            
+ co-authored a book titled Eastern European Perspectives on the        
+ Development of Public Relations, the first reflection on the recent   
+ history of PR in the region. Milan Hejl is Co-Founder and Director    
+ AMI Communications, the biggest Non-Russian PR agency in Central and  
+ Eastern Europe. Filip Tucek, President of the Columbia University     
+ Central and Eastern European Club, will moderate the discussion. This 
+ event is sponsored by the East Central European Center and Columbia   
+ University Central and Eastern European (CUCEE) Club. Normal 0 false  
+ false false EN-US X-NONE X-NONE /* Style Definitions */               
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin-top0in mso-para-margin-right0in                 
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141118T12000000
+DTEND;TZID=America/New_York:20141118T14000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1219
+CONTACT:ft2439@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75240@columbia.edu
+SUMMARY: Measuring Digital Censorship: A Collaborative Path Forward            
+DESCRIPTION: What information is  or should  be censored online? How can we        
+ measure online censorship? And what challenges does online censorship 
+ present?Join Professor Anya Schiffrin for a presentation by Meredith  
+ Whittaker, Open Source Research Lead, Google Research Jordan          
+ McCarthy, Measurement Systems Manager, Open Technology Institute and  
+ Jason Q. Ng, Lecturer, School of International and Public Affairs for 
+ a presentation and discussion of cutting-edge work in this exciting   
+ new area of inquiry.                                                  
+DTSTART;TZID=America/New_York:20141118T16000000
+DTEND;TZID=America/New_York:20141118T17000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1512
+CONTACT:jac12@sipa.columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75342@columbia.edu
+SUMMARY: Music at St. Paul's featuring Julliard Chamber Music                  
+DESCRIPTION: Music at St. Pauls St. Pauls Chapel Offic of the University Chaplain  
+ Tuesday, November 18, 2014 @ 6PM Chamber Music from Juilliard Cello   
+ Sonata No. 5 in D Major, Op. 102, No. 2 Ludwig van Beethoven          
+ (1770-1827) I. Allegro con brio II. Adagio con molto sentimento       
+ daffetto III. Allegro JeongHyoun Lee, cello Alan Woo, piano David     
+ Finckel amp Sylvia Rosenberg, coaches Piano Trio No. 3, Op. 65 in F   
+ minor Antonin Dvo#345k (1841-1904) I. Allegro, ma non troppo II.      
+ Allegretto grazioso III. Poco Adagio IV. Finale. Allegro con brio     
+ Chelsea Kim, violin Issei Herr, cello Junhui Chen, piano Lara Lev,    
+ coach Normal 0 false false false EN-US X-NONE X-NONE /*               
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141118T18000000
+DTEND;TZID=America/New_York:20141118T19000000
+LOCATION:Columbia University Morningside Campus St. Paul's Chapel
+CONTACT:ajl2200@columbia.edu
+URL:http://ouc.columbia.edu/music-at-st-pauls/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75336@columbia.edu
+SUMMARY: Pop-Up Concerts: loadbang                                             
+DESCRIPTION: Bring a friend, grab a drink, and join some of todays most            
+ interesting performers onstage at Miller Theatre on select Tuesday    
+ evenings. loadbangs unique instrumentationbass clarinet, trumpet,     
+ trombone, and baritone voicemeans that each piece on the program was  
+ composed with the group in mind. Their Miller debut showcases the     
+ versatility of the inventive (New York Times) ensemble, from Pulitzer 
+ Prize-winner Charles Wuorinens Alphabetical Ashbery, whichdraws       
+ inspiration from the New York poet John Ashbery, to What Is The Word, 
+ in which Scott Wollschleger blends the text of Samuel Becketts last   
+ poem with whispers, trills, and slaps. All concerts start at 6 p.m.   
+ Admission is on a first-come, first-served basis, and doors open at   
+ 530 p.m.                                                              
+DTSTART;TZID=America/New_York:20141118T18000000
+DTEND;TZID=America/New_York:20141118T20000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:nsc2125@columbia.edu
+URL:http://www.millertheatre.com/events/loadbang
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74764@columbia.edu
+SUMMARY: East Asian Historical Thought in Comparative Perspective --- What     
+ History Is, Knows, Does: CHINA                                        
+DESCRIPTION: A lecture featuring Viren Murthy, Assistant Professor, Department of  
+ History, University of Wisconsin. No registration required. Sponsored 
+ by the Weatherhead East Asian Institute and the Department of History.
+DTSTART;TZID=America/New_York:20141118T18000000
+DTEND;TZID=America/New_York:20141118T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
+CONTACT:lem2111@columbia.edu
+URL:http://www.columbia.edu/cu/weai/Calendar/calendar_november14.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74917@columbia.edu
+SUMMARY: Great Exploitations: History and the NSA Debate                       
+DESCRIPTION: Matthew L. Jones, James R. Barker Associate Professor of Contemporary 
+ Civilization, Columbia University, hosts a talk on the NSA            
+ surveillance programs from a historical perspective. David Armitage,  
+ Lloyd C. Blankfein Professor of History, Harvard University, will be  
+ the respondent. Event is free and open to the public. Seating is      
+ first come, first served Normal 0 false false false EN-US X-NONE      
+ X-NONE /* Style Definitions */ table.MsoNormalTable                   
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin0in mso-para-margin-bottom.0001pt                      
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141118T18150000
+DTEND;TZID=America/New_York:20141118T20150000
+LOCATION:Columbia University Morningside Campus East Campus Heyman Center 2nd Floor Common Room
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/great-exploitations/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_69501@columbia.edu
+SUMMARY: Ergonomic Workshop                                                    
+DESCRIPTION: Environmental Health amp Safety offers regularly scheduled ergonomic  
+ workshops designed to offer tips and techniques for avoiding          
+ Work-Related Musculoskeletal Disorders (WMSDs) and receiving advise   
+ on making your workplace more ergonomically fit.nbsp Employees are    
+ encouraged to register for the workshop below.nbsp If you have any    
+ questions, please contact us at erg-ehrs@columbia.edu.                
+DTSTART;TZID=America/New_York:20141119T11000000
+DTEND;TZID=America/New_York:20141119T12000000
+LOCATION:Studebaker Building, 615 West 131 Street, 3rd Floor, Room 367
+CONTACT:occusafety@columbia.edu
+URL:http://ehs.columbia.edu/Ergonomics.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75244@columbia.edu
+SUMMARY: "New Perspectives on Globalization and Gender in Central Asia"        
+DESCRIPTION: Please join the Harriman Institute for a talk by Marina Kayumova and  
+ Natalia Zakharchenko (Central Asian Fellows at George Washington U)   
+ moderated by Alexander Cooley. Marina Kayumova (Uzbekistan) has       
+ worked for the GSM Association, European Parliament and Patent        
+ Office. She was also a strategy consultant for SMEs. Marina holds     
+ MPhil degree in Innovation, Strategy and Organisation from the        
+ University of Cambridge and BA from the University of Westminster,    
+ and a Masters in International Relations from the European Institute, 
+ where she explored EU-Russia and Central Asia relations in the domain 
+ of energy cooperation. Natalia Zakharchenko (Kyrgyzstan) is an alumna 
+ of the OSCE Academy in Bishkek, Kyrgyzstan. She is currently working  
+ as an analyst for the Norwegian Helsinki Committee. Previously,       
+ Natalia worked as a Junior Professional Officer at the Ministry of    
+ Foreign Affairs of the Kyrgyz Republic and completed her research     
+ fellowship at Norwegian Institute of International Affairs.           
+DTSTART;TZID=America/New_York:20141119T12000000
+DTEND;TZID=America/New_York:20141119T13000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1219
+CONTACT:zid2000@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75056@columbia.edu
+SUMMARY: Helping and Rebuilding Our Communities: Theoneste Bizimana            
+DESCRIPTION: Dont Miss Theoneste Bizimanas visi to Columbia School of Social Work  
+ to present on the work of Healing and Rebuilding Our Communities      
+ (HROC), the organization he co-founded in Rwanda in 2003 to provide   
+ trauma-healing workshops and anti-violence trainings to survivors or  
+ the 1994 genocide and other traumas such as sexual and domestic       
+ violence. The organization aims to rebuild and empower communities    
+ and individuals throughout Rwanda. Normal 0 false false false EN-US   
+ X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable            
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin0in mso-para-margin-bottom.0001pt                      
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141119T12150000
+DTEND;TZID=America/New_York:20141119T13450000
+LOCATION:Columbia University Morningside Campus School of Social Work Rm. C06 - Concourse Level
+CONTACT:ssw-iss@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73265@columbia.edu
+SUMMARY: Franz Boas Seminar by Barbara Voss, Anth Dept., Standford U           
+DESCRIPTION: Talk Titlenbsp Burn Layer The Archaeology of Anti-Immigrant Violence  
+DTSTART;TZID=America/New_York:20141119T16100000
+DTEND;TZID=America/New_York:20141119T18000000
+LOCATION:Columbia University Morningside Campus 963 Schermerhorn Extension
+CONTACT:mp20@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75341@columbia.edu
+SUMMARY: GIS Day 2014                                                          
+DESCRIPTION: A special presentation by Mr. Dave LaShell, ESRI Executive Manager,   
+ NYC, and Mr. Carlson, ESRI Government Services, Charlotte, NC. - A    
+ class project presentation by Professor Graziosi and the              
+ SDEVW3450-Spatial Analysis for Sustainable Development students       
+ working on a project with the City of Doral, Florida. There will be   
+ books, student GIS software licenses, and other ESRI donated          
+ materials for meeting participants. Please arrive early and check     
+ your registration with the security officers at the entrance of       
+ Butler Library. Class activity open to the public with                
+ pre-registration. To RSVP, please send an email with subject          
+ SUBSCRIBE to GIScience@columbia.edu For further information please    
+ contact Dr. Giovani Graziosi at gg2474@columbia.edu Normal 0 false    
+ false false EN-US X-NONE X-NONE /* Style Definitions */               
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141119T16300000
+DTEND;TZID=America/New_York:20141119T18300000
+LOCATION:Columbia University Morningside Campus Studio@Butler Butler Library
+CONTACT:gg2474@columbia.edu
+URL:https://studio.cul.columbia.edu/ai1ec_event/e3b-esri-gis-day-2014
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74926@columbia.edu
+SUMMARY: Artist Talk and Reception with Maya Hayuk                             
+DESCRIPTION: Come explore Maya Hayuks new site-specific mural, part of her Chem    
+ Trails series, now on view in the lobby of Columbias Miller Theatre.  
+ The evening begins with an intimate talk with the artist about her    
+ process and influences, moderated by curator Deborah Cullen of        
+ Columbias Wallach Art Gallery. A Brooklyn-based artist with a diverse 
+ practice, Hayuk creates art in and for a diverse range of contexts,   
+ from gallery exhibits to street art to museum commissions. She has    
+ painted her murals all over the world and has been the subject        
+ of exhibitions and commissions at The Hammer Museum in Los Angeles,   
+ Socrates Sculpture Park in Queens, and the Democratic National        
+ Convention in Denver, among many others. The talk will be followed by 
+ a reception celebrating this new work, held in the colorful shadow of 
+ Hayuks massive mural. This event is presented by the Arts Initiative  
+ as part of their series Creative Conversations Ideas into Form. Maya  
+ Hayuks site-specific work in the Miller Theatre lobby                 
+ was co-commissioned by the Miriam and Ira D. Wallach Art Gallery and  
+ Miller Theatre at Columbia University.                                
+DTSTART;TZID=America/New_York:20141119T17300000
+DTEND;TZID=America/New_York:20141119T18300000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:artsinitiative@columbia.edu
+URL:http://artsinitiative.columbia.edu/events/artist-talk-and-reception-maya-hayuk
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74869@columbia.edu
+SUMMARY: Statelessness in the United States: A Panel Discussion                
+DESCRIPTION: Join a panel of stateless people and experts for a discussion on the  
+ largely unknown challenge of statelessness in the United States.      
+ Thousands of people are stateless in this country. But because the    
+ United States does not recognize statelessness under its immigration  
+ law, many people are subject to arbitrary detainment and in some      
+ cases are never able to legalize their status or even gain travel     
+ documents to leave the country. Refreshments will be served.Sponsored 
+ by the International Organizations Specialization, the International  
+ Media Advocacy and Communications Specialization, the Human Rights    
+ Working Group, the Human Rights and Humanitarian Policy Concentration 
+ and the Migration Working Group.SpeakersJulia Harrington Reddy,       
+ Senior Legal Officer, Open Society Justice InitiativePamela Goldberg, 
+ Protection Officer, United Nations High Commissioner for              
+ RefugeesNatalia Jourbina, Stateless personAlex Shilov, Stateless      
+ person                                                                
+DTSTART;TZID=America/New_York:20141119T18000000
+DTEND;TZID=America/New_York:20141119T19300000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1501
+CONTACT:mdm2201@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74903@columbia.edu
+SUMMARY: The Dynamics of Gender: Women Writ,                                   
+ Women Writing in Seventeenth-Century France                           
+DESCRIPTION: Domna Stanton in conversation with Madeleine Dobie Domna Stanton      
+ discusses her new book that examines shifting notions of gender in    
+ 17th-century France and probes the specifics of conformity and        
+ resistance to gender norms from a feminist perspective. Her           
+ conversation with Madeleine Dobie will also expand to consider        
+ differing French and American perspectives on gender studies in the   
+ present day. Domna Stanton is Distinguished Professor of French at    
+ the Graduate Center, CUNY. A specialist of 17th-century French        
+ literature and culture, her research areas include women writers,     
+ feminist and critical theory, and human rights. She is now writing    
+ the 17th-century section of anbspmulti-authorednbspLes femmes en      
+ littrature (Gallimard 2017). Madeleine Dobie is Associate Professor   
+ of French at Columbia.                                                
+DTSTART;TZID=America/New_York:20141119T18000000
+DTEND;TZID=America/New_York:20141119T19000000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:ll2787@columbia.edu
+URL:http://maisonfrancaise.org/the-dynamics-of-gender-women-writ-women-writing-in-seventeenthcentury-france
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74202@columbia.edu
+SUMMARY: Gender, Power and Leadership: Aládurà Church Women in Nigeria and the 
+ U.S.                                                                  
+DESCRIPTION: Mojubaolu Olufunke Okome examines womens strategies of empowerment,   
+ both spiritual and material, in the Aldur church in the Nigerian      
+ homeland and #8232its immigrant communities in #8232the United        
+ States, especially since the 1980s. Scholars agree that womens roles  
+ in these churches are circumscribed by prohibitions against           
+ menstruation and women in the immediate postpartum period. Yet Okome  
+ shows how, despite these formal restraints, Aldur women find ways to  
+ exercise significant power in practice and why this is more           
+ pronounced in Nigeria than in the U.S. immigrant churches. Okome is   
+ professor of political science at Brooklyn College and the editor of  
+ the scholarly journals Africa Migration and Jenda Journal.            
+ Information fom.barnard.edu                                           
+DTSTART;TZID=America/New_York:20141119T18000000
+DTEND;TZID=America/New_York:20141119T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard College, Sulzberger Parlor 3rd Floor
+CONTACT:lstuffle@barnard.edu
+URL:http://fom.barnard.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74942@columbia.edu
+SUMMARY: On Penelope Fitzgerald: Roundtable with Hermione Lee, Margot Livesey, 
+ Alexander Chee, & Ellis Avery                                         
+DESCRIPTION: Called the finest British writer alive by The Los Angeles Times and   
+ the mistress of the hint of the sublime by The New York Times,        
+ Penelope Fitzgerald (1916-2000) began publishing at the age of        
+ fifty-eight and produced nine novels and three biographies by the     
+ time of her death at eighty-three. Her third novel, Offshore, won the 
+ Booker Prize in 1979, while her final novel, The Blue Flower, was     
+ named Book of the Year by ninete! en British newspapers in 1995 and   
+ won the National Book Critics Circle Award in 1997. #8232#8232 Please 
+ join Hermione Lee, the acclaimed biographer of Edith Wharton and      
+ Virginia Woolf, and award-winning novelists Ellis Avery, Alexander    
+ Chee, and Margot Livesey, in celebrating the life and writing of      
+ Penelope Fitzgerald at an event that showcases Lees masterful new     
+ biography, Penelope Fitzgerald A Life. Avery, Livesey, and Chee will  
+ also read and discuss their favorite selections from Fitzgeralds      
+ work. Event is free and open to the public. Seating is first come,    
+ first served basis. Normal 0 false false false EN-US X-NONE X-NONE /* 
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin Normal 0 false false false EN-US      
+ X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable            
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin0in mso-para-margin-bottom.0001pt                      
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141119T18150000
+DTEND;TZID=America/New_York:20141119T20000000
+LOCATION:Columbia University Morningside Campus The Schapiro Center, Davis Auditorium
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/penelope-fitzgerald-her-life-and-work-a-roundtable-with-hermione-lee-ellis/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74557@columbia.edu
+SUMMARY: The Veterinary Medical Profession: A Panel Discussion                 
+DESCRIPTION: Students are invited to join panelists working in many different      
+ areas of veterinary medicine for a discussion of how they chose and   
+ followed their varied career paths. The event will open with a        
+ presentation of the requirements and processes for applying to        
+ veterinary school led by Cornell College of Veterinary Medicine       
+ admissions officers and address the diversity of options available to 
+ veterinarians, from working with small and large animals, in city and 
+ rural settings, and for universities and private practices            
+DTSTART;TZID=America/New_York:20141119T18300000
+DTEND;TZID=America/New_York:20141119T20000000
+LOCATION:International Affairs Building, Room 411
+CONTACT:gspostbac@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74815@columbia.edu
+SUMMARY: Concert: Recital by pianist Benjamin Hochman                          
+DESCRIPTION: Columbia Universitys Italian Academy for Advanced Studies Presents    
+ Pianist Benjamin Hochman, performing a solo recital of works by       
+ Matthew Aucoin, Bach, Dallapiccola, Frescobaldi, Ligeti and Schumann. 
+ The concert is free and open to the public. Reservations are not      
+ required. Normal 0 false false false EN-US X-NONE X-NONE /* Style     
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141119T19000000
+DTEND;TZID=America/New_York:20141119T20300000
+LOCATION:Columbia University Morningside Campus Italian Academy
+CONTACT:rw2115@columbia.edu
+URL:www.italianacademy.columbia.edu/events
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75245@columbia.edu
+SUMMARY: The Beginning of the End of the Georgian Dream Coalition?             
+DESCRIPTION: Please join the Harriman Institute for a talk by Lincoln Mitchell,    
+ research scholar at Columbia Universitys Arnold A. Saltzman Institute 
+ of War and Peace Studies, who will analyze what Georgias most recent  
+ political developments mean for the future of its democratic          
+ development and foreign policy orientation.                           
+DTSTART;TZID=America/New_York:20141120T12000000
+DTEND;TZID=America/New_York:20141120T13000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1219
+CONTACT:zid2000@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75355@columbia.edu
+SUMMARY: Angela Davis, Gwendolyn Wright, and Amale Andraos in conversation     
+DESCRIPTION: Priority seating for Columbia-affiliated students with ID. It has     
+ become so much a part of our lives that it requires a great feat of   
+ the imagination to envision life beyond the prison, wrote Angela      
+ Davis in her call for prison abolition, Are Prisons Obsolete? In this 
+ conversation, the iconic activist and scholar is joined by Dean Amale 
+ Andraos and Gwendolyn Wright to discuss the physical structures of    
+ incarceration, and the myriad connections between militarized         
+ policing of everyday life in the USdisproportionately affecting       
+ low-income African Americans, women, and trans populationsand         
+ Occupied Palestine today. How has punishment in the US changed since  
+ the rise of the prison-industrial complex, which includes private and 
+ public prisons, juvenile facilities, military prisons, and            
+ interrogation centers? How has it changed since 9/11? Since Ferguson? 
+ How have borders in the US and Occupied Palestine been militarized    
+ and fortified, and who builds, maintains, and profits from this       
+ system? Finally, how can designers and planners address the many      
+ inequities of the prison system, and move from conversations of       
+ reform to the imagination of something new? Normal 0 false false      
+ false EN-US X-NONE X-NONE /* Style Definitions */                     
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141120T12000000
+DTEND;TZID=America/New_York:20141120T14000000
+LOCATION:Columbia University Morningside Campus Wood Auditorium, Avery Hall
+CONTACT:gdb2106@columbia.edu
+URL:http://events.gsapp.org/event/enclosures-quotidian-carceralities-in-the-us-and-occupied-palestine-angela-davis
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74516@columbia.edu
+SUMMARY: In Search of Froylán Turcios: The Life and Times of Armando Méndez    
+ Fuentes (1925-2003)                                                   
+DESCRIPTION: Dario A. Euraque (Trinity College) In Search of Froyln Turcios the    
+ Life and Times of Armando Mndez Fuentes (1925-2003) Discussant Diego  
+ Azurdia (Columbia University)                                         
+DTSTART;TZID=America/New_York:20141120T12100000
+DTEND;TZID=America/New_York:20141120T14000000
+LOCATION:Columbia University Morningside Campus Schermerhorn Extension, Room 457
+CONTACT:eaa2127@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74179@columbia.edu
+SUMMARY: South Korean Feminists' Bargain: Feminist Discourse and the Movement  
+ to Abolish Prostitution                                               
+DESCRIPTION: Colloquium Series on Korean Cultural StudiesSouth Korean Feminists    
+ Bargain Feminist Discourse and the Movement to Abolish                
+ ProstitutionSeung-kyung Kim, Professor of Womens Studies, University  
+ of Maryland918 International Affairs BuildingNo registration          
+ required.Co-sponsored by the Department of East Asian Languages and   
+ Cultures                                                              
+DTSTART;TZID=America/New_York:20141120T17300000
+DTEND;TZID=America/New_York:20141120T19000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
+CONTACT:jk2857@columbia.edu
+URL:http://www.columbia.edu/cu/ckr
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75291@columbia.edu
+SUMMARY: Colombia's Road to Peace/Camino hacia la paz                          
+DESCRIPTION: A conversation with journalist and author Patricia Lara about the     
+ peace negotiations being conducted between the Colombian government   
+ and the FARC guerrillas in Havana, Cuba. The conversation will be in  
+ Spanish and English. Patricia Lara Salive earned postgraduate degrees 
+ on commuication and journalism from the Universit de Paris II and     
+ Columbia University, and several prizes for her work as a journalist  
+ and writer. She is a correspondent for major Colombian newspapers,    
+ was a professor of journalism at the Universidad de los Andes in      
+ Bogota, and is the author of books and novels such as Siembra Vientos 
+ y Recogers Tempestades (1986), Las mujeres en la Guerra(2000), Amor   
+ enemigo (2010), and Hilo de sangre azul (2014). Sponsored by ILASs    
+ Center for Greater Caribbean Studies.                                 
+DTSTART;TZID=America/New_York:20141120T17300000
+DTEND;TZID=America/New_York:20141120T18300000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 802
+CONTACT:ilasrsvp@gmail.com
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75296@columbia.edu
+SUMMARY: The Han's Big Social Innovation Series: Presenting Bill Drayton,      
+ Founder & CEO of Ashoka                                               
+DESCRIPTION: According to Bill Drayton, the most powerful force in the world is a  
+ big idea--- if it is in the hands of a great entrepreneur. It is how  
+ a very small investment can make a huge difference. As the founder    
+ and CEO of Ashoka, Drayton and his organization have been making      
+ those investments on a global scale since 1980. By funding and        
+ supporting social entrepreneurs, Drayton has enabled over 3,000       
+ changemakers in over 70 countries. Join us for an informal            
+ conversation with a true pioneer of social entrepreneurship, the      
+ founder and CEO of Ashoka, Bill Drayton. Drayton will be joined by    
+ two Ashoka Fellows, Greg Van Kirk and SIPAs own Juan David            
+ Aristizabal Ospina. Reserve your ticket here.nbsp                     
+DTSTART;TZID=America/New_York:20141120T18000000
+DTEND;TZID=America/New_York:20141120T19300000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1501
+CONTACT:kls2190@columbia.edu
+URL:www.eventbrite.com/e/the-hans-big-social-innovation-speaker-series-presenting-bill-drayton-ceo-founder-of-ashoka-tickets-14225365451http://
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74920@columbia.edu
+SUMMARY: How to Enhance the European Public Sphere: A Talk with Christine      
+ Landfried                                                             
+DESCRIPTION: Speaker Christine Landfried, Max Weber Chair for German and European  
+ Studies at New York University The Europe Seminar brings scholars     
+ from North America, Europe, and the world to Columbia for intense     
+ talks on European history, politics, economics, and society. This     
+ talk is Part IV of The 2014-15 Europe Seminar on the European public  
+ sphere. View more Europe Seminar events                               
+DTSTART;TZID=America/New_York:20141120T18000000
+DTEND;TZID=America/New_York:20141120T19300000
+LOCATION:Columbia University Morningside Campus The Heyman Center 2nd floor Common Room
+CONTACT:sa3268@columbia.edu
+URL:http://europe.columbia.edu/events/beiseminar_christine_landfried/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74945@columbia.edu
+SUMMARY: Discourse Politeness Theory and Second Language Education             
+DESCRIPTION: Guest speaker USAMI Mayumi (Professor, Institute of Global Studies,   
+ Tokyo University of Foreign Studies) Normal 0 false false false EN-US 
+ X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable            
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin0in mso-para-margin-bottom.0001pt                      
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141120T18000000
+DTEND;TZID=America/New_York:20141120T19300000
+LOCATION:Columbia University Morningside Campus 403 Kent Hall
+CONTACT:donald-keene-center@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74905@columbia.edu
+SUMMARY: Cinema Thursday: J'accuse                                             
+DESCRIPTION: @font-face  font-family Calibri p.MsoNormal, li.MsoNormal,            
+ div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt font-family     
+ Times New Roman div.Section1  page Section1  p.MsoNormal,             
+ li.MsoNormal, div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt   
+ font-family Times New Roman ins  text-decoration none span.msoIns     
+ text-decoration underline color black span.msoDel  text-decoration    
+ line-through color red div.Section1  page Section1  nbspJaccuseAbel   
+ Gance, 1919, restored and reissued 2008, 166 min.Introduced by        
+ Professor Antoine Compagnon This French silent film released in 1919  
+ by director Abel Gance juxtaposes a romantic drama against the        
+ backdrop of the horrors of World War I, including some scenes filmed  
+ on real battlefields, and a climactic final sequence of the return of 
+ the dead. Gance referred to it asnbsp a human cry against             
+ the bellicose din of armies. It is considered to be among the most    
+ technically advanced films of the era and the first major pacifist    
+ film, and confirmed Gances international reputation as one of most    
+ important directors in Europe.nbsp This is the fourth film in a       
+ series of films on World War I presented this fall by The Maison      
+ Franaise and School of the Arts. Screening is free and open to the    
+ public. 12.00 Normal 0 false false false EN-US X-NONE X-NONE /* Style 
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi 12.00 Normal 0 false false false EN-US  
+ X-NONE X-NONE st1\*behaviorurl(#ieooui)  /* Style Definitions */      
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi                                         
+DTSTART;TZID=America/New_York:20141120T18300000
+DTEND;TZID=America/New_York:20141120T22000000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:ll2787@columbia.edu
+URL:http://maisonfrancaise.org/cinema-thursday-jaccuse
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74451@columbia.edu
+SUMMARY: Acting Homer: A Staged Reading of the Odyssey                         
+DESCRIPTION: Acting Homer will give audiences an opportunity to hear and see       
+ actors readings of key passages from the Odyssey, which originally    
+ involved intricate oral recitation and song. Hearing the              
+ word performed by actors in the gallery ringed by Romare Beardens     
+ paintings based on the epic raises the question of what happens to    
+ literature on a page when it is linked with visual art that includes  
+ the sounds and sights of the theater? Program ParticipantsDevyn Tyler 
+ is an actress, a Francophile, and an aspiring scholar. She graduated  
+ from Columbia University in 2013 with a BA.in French and Francophone  
+ Studies. She has been trained in theater and film and has been acting 
+ professionally since the age of 8. Her latest film credit is the role 
+ of Margaret Northup in Steve McQueens 12 Years A Slave. Her research  
+ interests include the francophone diaspora, free people of color in   
+ New Orleans in the 19th century, and the relationship                 
+ between Louisiana and France.Ty Jones is a writer and actor. He       
+ recently starred as Msgt. Jim Sweet in REDACTED, a feature by Brian   
+ DePalma. Witty, powerful, charming and sexy are just few of the many  
+ sentiments expressed about this forceful fixture on the New York      
+ acting scene. Jones appeared as Archibald in the Classical Theatre of 
+ Harlems revival of the critically acclaimed Off-Broadway production,  
+ The Blacks A Clown Show, for which he won an OBIE Award. His Broadway 
+ debut was in the role of Lt. Byers in Judgment at Nuremberg. He was   
+ seen in the Tony Award-Winning production of Henry IV with Ethan      
+ Hawke and Kevin Kline. He was recently in Julius Caesar, with Denzel  
+ Washington directed by Tony-Award winner, Daniel Sullivan. Notable    
+ credits include Macbeth - (Audelco Nomination Best Actor) Menalaus in 
+ Trojan Women (Audelco Nomination Best Supporting Actor) Sweet Daddy   
+ in Aint Supposed to Die... (Audelco Nomination Best Supporting Actor  
+ in a Musical) All at the award-winning Classical Theatre of Harlem.   
+ Others include Hamlet - American Shakespeare Theatre Company          
+ (Sundance) Paul in Six Degrees of Separation - Baltimore Center       
+ Stage/MSC and Cory in Fences - Guthrie. Film credits include Heavens  
+ Fall - with Timothy Hutton and Anthony Mackie Kiss it up to God       
+ - Winner at Cannes, UrbanWorld, Imagination and First Run Film        
+ Festivals. He also starred in Kairos, a short feature by              
+ award-winning director Shanti Thakur. Mr. Jones has stage, film and   
+ literary projects in the works. Emancipation, a screenplay based on   
+ the 1831 Nat Turner Rebellion, was selected in the following Sundance 
+ Feature Film Institute  Finalist, San Francisco Black Film Festival   
+ Winner, Southern Poverty Law Center  Endorsement, Writers Digest,     
+ American Screenwriters Association - Honorable Merit. Its theatrical  
+ adaptation was part of the Labyrinth Theatre Companys workshop        
+ reading series and will premiere at the Classical Theatre of Harlem.  
+ Mr. Jones produced the Off-Broadway hit, CREATION A Clown Show        
+ starring Lucas Caleb Rooney and directed by Orlando Pabotoy. Mr.      
+ Jones received his MFA from the University of Delaware and was named  
+ One of 25 to Watch in 2006 in TIME OUT NY Magazine.Richard Habersham  
+ was born on April 28, 1974 in New York City, New York, USA. He is an  
+ actor, known for Do the Right Thing (1989), The Long Walk Home (1990) 
+ and The Cabinet of Dr. Ramirez (1991). Sean Patrick Thomas was born   
+ on December 17, 1970 in Washington, District of Columbia, USA. He is  
+ an actor and producer, known for Save the Last Dance (2001), The      
+ Fountain (2006) and Cruel Intentions (1999). He has been married to   
+ Aonika Laurent since April 22, 2006. They have two children. Note The 
+ location of this event has been moved to the Auditorium in Earl       
+ Hall.Online registration is required and currently open.              
+DTSTART;TZID=America/New_York:20141120T18300000
+DTEND;TZID=America/New_York:20141120T20300000
+LOCATION:Auditorium, Earl Hall, Morningside Campus
+CONTACT:events-reply@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74944@columbia.edu
+SUMMARY: Bryonn Bain: Lyrics From Lockdown                                   
+DESCRIPTION: One man. One mic. 40 characters. Two unbelieveable true stories of    
+ wrongful imprisonment. This unbelievably true story begins when       
+ Brooklyns own hip hop theater innovator and spoken word champion,     
+ Bryonn Bain (60 Minutes, The Village Voice, BETs My Two Cents), is    
+ wrongly imprisoned in NYC jails  while studying law at Harvard.       
+ Weaving together the voices of over 40 characters into a one-man tour 
+ de force, Lyrics From Lockdown, executive produced by Gina and Harry  
+ Belafonte, is receiving extraordinary reviews around the world.       
+ A groundbreaking multimedia production, this critically acclaimed     
+ show uses a live band and video DJ, fusing hip hop, theater, spoken   
+ word poetry, rhythm and blues, calypso and classical music, to tell a 
+ provocative story exposing racial profiling and wrongful              
+ incarceration in a nation imprisoning more people than any other in   
+ the world. Written and performed by Bryonn Bain. Praise for Lyrics    
+ From Lockdown Every moment on stage was filled with a thing of        
+ beauty. --Anna Deavere Smith He has style and considerable talent,    
+ and his lyrics  a stirring mix of lament and demand  pack a punch.    
+ --The New York Times Tickets available through the Miller Theatre Box 
+ Office. Normal 0 false false false EN-US X-NONE X-NONE /* Style       
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141120T19000000
+DTEND;TZID=America/New_York:20141120T23000000
+LOCATION:Columbia University Morningside Campus Miller Theater
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/bryonn-bain-lyrics-from-lockdown/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74911@columbia.edu
+SUMMARY: "Lyrics From Lockdown"                                                
+DESCRIPTION: Join the Center for Justice at Columbia University and our colleagues 
+ and friends from across New York City for a performance of Bryonn     
+ Bains Lyrics from Lockdown.nbsp The show will be followed by a post   
+ performance discussion about arts and activism in the era of mass     
+ incarceration with Bryonn Bain and Academy Award Nominee Jamal        
+ Joseph. To purchase tickets please visit                              
+ http//www.millertheatre.com/events/lyrics-from-lockdown About Lyrics  
+ from Lockdown This unbelievably true story begins when Brooklyns own  
+ hip hop theater innovator and spoken word champion, Bryonn Bain (60   
+ Minutes, The Village Voice, BETs My Two Cents), is wrongly imprisoned 
+ in NYC jails  while studying law at Harvard. Weaving together the     
+ voices of over 40 characters into a one-man tour de force, Lyrics     
+ From Lockdown, executive produced by Gina and Harry Belafonte,        
+ is receiving extraordinary reviews around the world. A groundbreaking 
+ multimedia production, this critically acclaimed show uses a live     
+ band and video DJ, fusing hip hop, theater, spoken word poetry,       
+ rhythm and blues, calypso and classical music, to tell a provocative  
+ story exposing racial profiling and wrongful incarceration in a       
+ nation imprisoning more people than any other in the world. Lyrics    
+ from Lockdown at Miller Theatre is presented by the Center for        
+ Justice at Columbia University in collaboration with the Institute    
+ for Research in African American Studies, Sankofa Justice and Equity  
+ Fund, Center for NuLeadership, the Heyman Center for the Humanities   
+ at Columbia University, Office of Multicultural Affairs, Columbia     
+ College  Columbia Engineering, Human Rights Project at the Urban      
+ Justice Center, JustLeadershipUSA, Education from the Inside Out      
+ Coalition,nbspInstitute for Urban and Minority Education,nbspYouth    
+ Sentencing amp Reentry Project, CSSW Criminal Justice Caucus and the  
+ Association for Justice and Health Group tickets are available at a   
+ discounted rate through Miller Theatre.nbsp There are a limited       
+ number of sponsored tickets available for available for organized     
+ trips for young people and those directly impacted by mass            
+ incarceration.nbsp Please email cwr2116@columbia.edu for              
+ more information. nbsp                                                
+DTSTART;TZID=America/New_York:20141120T19000000
+DTEND;TZID=America/New_York:20141120T22000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:cwr2116@columbia.edu
+URL:http://www.millertheatre.com/events/lyrics-from-lockdown
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74621@columbia.edu
+SUMMARY: SAI: Film Screening and Discussion: "Zinda Bhaag" [Run for Your Life] 
+DESCRIPTION: Thursday, November 20, 2014Film Screening and DiscussionZinda Bhaag   
+ [Run for Your Life](2013, 180 minutes, Punjabi and Urdu with English  
+ subtitles)Followed by a discussion with director Meenu Gaur and       
+ producer Mazhar Zaidi.nbspCo-sponsored by the Film Program at the     
+ Columbia School of the Arts and the SIPA South Asia                   
+ AssociationTimenbsp 730 pm - 930 pmLocationnbsp Held Auditorium,      
+ Barnard Hall Room 304, Barnard College (entrance at 118th             
+ and Broadway)nbspZinda Bhaag, was co-directed by Meenu Gaur and       
+ Farjad Nabi, and features the award-winning actor Naseeruddin         
+ Shah.nbsp Zinda Bhaag was the second-highest grossing movie in        
+ Pakistan in 2013.nbsp It won four awards at the International South   
+ Asian Film Festival in Vancouver, and a Special Jury Award at the     
+ Jaipur International Film Festival.                                   
+DTSTART;TZID=America/New_York:20141120T19300000
+DTEND;TZID=America/New_York:20141120T21450000
+LOCATION:Columbia University Morningside Campus Barnard College Held Auditorium, Barnard Hall, Room 304
+CONTACT:wac2112@columbia.edu
+URL:http://sai.columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74277@columbia.edu
+SUMMARY: The Seagull                                                           
+DESCRIPTION: David Pauls production of a modern classic, Anton Chekhovs The        
+ Seagull, features scenic design by Assistant Professor                
+ of Professional Practice Sandra Goldmark. Famous as the inaugurating  
+ success of Constantin Stanislavskis Moscow Art Theatre, The Seagull   
+ undertakes a pinpoint anatomy of the brutality of artistic ambition,  
+ and a remarkably sensitive and self-reflexive examination of the      
+ realistic milieu of which Chekhov was an acknowledged                 
+ master. Reservations and information barnard.edu/theatre              
+DTSTART;TZID=America/New_York:20141120T20000000
+DTEND;TZID=America/New_York:20141120T22000000
+LOCATION:Columbia University Morningside Campus Barnard College Milbank Hall, Minor Latham Playhouse Room 118
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75356@columbia.edu
+SUMMARY: Architecture and Representation: The Arab City                        
+DESCRIPTION: Ashraf Abdallah, Senan Abdelqader, Nadia Abu-El-Haj, Lila Abu-Lughod, 
+ Mohammad al-Asad, Suad Amiry, George Arbid, Mohamed Elshahed, Yasser  
+ Elsheshtawy, Rania Ghosn! , Saba Innab, Ziad Jamaleddine, Ahmed       
+ Kanna, Bernard Khoury, Laura Kurgan, Adrian Lahoud, Ali Mangera,      
+ Safwan Masri, Reinhold Martin, Magda Mostafa, Nicolai Ouroussoff,     
+ Nasser Rabbat, Hashim Sarkis, Felicity Scott, Hala Warde, Enrique     
+ Walker, Mark Wasiuta, Eyal Weizman, Mabel Wilson, and Gwendolyn       
+ Wright Keynote by Timothy Mitchell Organized by Dean Amale Andraos    
+ and Nora Akawi, Studio-X Amman, with Columbia Global Centers  Middle  
+ East, Middle East Institute, and Studio-X Istanbul, with supporting   
+ partners Qatar Foundation and Aramex. Normal 0 false false false      
+ EN-US X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable      
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin0in mso-para-margin-bottom.0001pt                      
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141121T00000000
+DTEND;TZID=America/New_York:20141121T23590000
+LOCATION:Columbia University Morningside Campus Wood Auditorium, Avery Hall
+CONTACT:gdb2106@columbia.edu
+URL:http://events.gsapp.org/event/architecture-and-representation-the-arab-city
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73915@columbia.edu
+SUMMARY: Korea/Japan Music Symposium                                           
+DESCRIPTION: Korea/Japan Music SymposiumMichael Bourdaghs, University of Chicago   
+ Katherine Lee, University of California Davis Eun-Young               
+ Jung, University of California San Diego Christine Yano, University   
+ of Hawaii Kevin Fellezs, Columbia University Nicholas Harkness,       
+ Harvard University Noriko Manabe, Princeton UniversityFriday,         
+ November 21, 2014403 Kent HallCo-sponsored by the Donald Keene        
+ Center, the Weatherhead East Asian Institute, and the Department of   
+ East Asian Languages and Cultures                                     
+DTSTART;TZID=America/New_York:20141121T10000000
+DTEND;TZID=America/New_York:20141121T17150000
+LOCATION:Columbia University Morningside Campus Kent Hall, Room 403
+CONTACT:jk2857@columbia.edu
+URL:http://columbia.edu/cu/ckr
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74935@columbia.edu
+SUMMARY: Korea/Japan Music Symposium                                           
+DESCRIPTION: The Japan/Korea Music Symposium will explore interconnections in      
+ Korean and Japanese popular music in the latter half of the 20th      
+ century. This symposium is the first in what will be a series of      
+ events at Columbia over the next several years aimed at exploring     
+ connections in scholarly work on Korea and Japan. The symposium will  
+ feature introductory and concluding remarks by Michael Bourdaghs and  
+ three panels, each composed of two scholars working on music and      
+ sound in Korea/Japan. Speakers Michael Bourdaghs (University of       
+ Chicago) Katherine Lee (University of California Davis) Eun-Young     
+ Jung (University of California San Diego) Christine Yano (University  
+ of Hawaii) Kevin Fellezs (Columbia University) Nicholas Harkness      
+ (Harvard University) Noriko Manabe (Princeton University) Normal 0    
+ false false false EN-US X-NONE X-NONE /* Style Definitions            
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141121T10000000
+DTEND;TZID=America/New_York:20141121T17150000
+LOCATION:Columbia University Morningside Campus 403 Kent Hall
+CONTACT:donald-keene-center@columbia.edu
+URL:http://www.keenecenter.org/joint_symposium.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75213@columbia.edu
+SUMMARY: Syria: From Revolution to Civil War                                   
+DESCRIPTION: The Arnold A. Saltzman Institute of War and Peace Studies, Columbia   
+ University presents Adam Baczko, an Order, Conflict and Violence      
+ Fellow at Yale University, a PhD Student in Political Science at the  
+ EHESS in Paris and General Editor at Noria ResearchGilles Dorronsoro, 
+ professor of political science at the Sorbonne and non-resident       
+ scholar at the Carnegie Endowment for International Peace, author     
+ ofnbsp Afghanistan, Unending Revolution, Hurst and Columbia, 2005 and 
+ Arthur Quesnay is a PhD Student in Political Science at the Sorbonne, 
+ a Research Fellow at the French Institute for Near East (Ifpo) and an 
+ analyst at Noria Research. Together, they are currently finishing a   
+ forthcoming book on the Syrian Revolution and Civil War.              
+ They authored several article among which, Building a State in Time   
+ of Civil War, Carnegie Endowment for International Peace, 2013 and    
+ Between Al Qaeda and the Syrian Regime, New America Foundation, 2013. 
+DTSTART;TZID=America/New_York:20141121T12150000
+DTEND;TZID=America/New_York:20141121T14000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1302
+CONTACT:ml3408@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75375@columbia.edu
+SUMMARY: Film Fridays: Which Way is the Front Line From Here                   
+DESCRIPTION: Sebastian Junger (The Perfect Storm, Restrepo) and his partner Tim    
+ Hetherington won a 2009 duPont Award for their hardhitting reporting  
+ in Restrepo. Two years later, Hetherington was killed by shrapnel     
+ while covering the 2011 Libyan civil war. Which Way is the Front Line 
+ From Here is Jungers loving tribute to his friend and colleague. Join 
+ Director Sebastian Junger for this special screening and talkback to  
+ hear about the life of conflict reporting in general, and the life of 
+ one extraordinary conflict reporter in particular. As always, PIZZA   
+ amp PRIZES. Normal 0 false false false EN-US X-NONE X-NONE /* Style   
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141121T18000000
+DTEND;TZID=America/New_York:20141121T20000000
+LOCATION:Columbia University Morningside Campus Pulitzer Hall, 3rd Floor Lecture Hall
+CONTACT:mt2523@columbia.edu
+URL:http://www.journalism.columbia.edu/event/1193/-1/14
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74454@columbia.edu
+SUMMARY: Inspired by the Classics: A Poetry Reading by Rosanna Warren          
+DESCRIPTION: A poetry reading centered on a sequence of prose poems entitled       
+ Odyssey. These poems are inspired partly by Homer, and partly by a    
+ series of monotypes entitled Orbiana Oliveto by the artist James      
+ McGarrell. The images will accompany the reading. The reading will    
+ include other short lyrics inspired by Homer and Virgil. Program      
+ Participants Rosanna Warren is the Hanna Holborn Gray Distinguished   
+ Service Professor in the Committee on Social Thought at the           
+ University of Chicago. Her book of criticism Fables of the Self       
+ Studies in Lyric Poetry, came out in 2008. Her most recent books of   
+ poems are Departure (2003) and Ghost in a Red Hat (2011). She is the  
+ recipient of awards from the Academy of American Poets, The American  
+ Academy of Arts amp Letters, the Lila Wallace Foundation,             
+ the Guggenheim Foundation, and the New England Poetry Club, among     
+ others. She was a Chancellor of the Academy of American Poets from    
+ 1999 to 2005, and is a member of the American Academy of Arts and     
+ Letters, and the American Academy of Arts and Sciences. Mary Gordons  
+ most recent work is The Liars Wife, a collection of four novellas,    
+ published by Pantheon in August 2014. She is the author of six        
+ novels, including Final Payments, Pearl, and The Love of My Youth the 
+ memoirs The Shadow Man and Circling My Mother and The Stories of Mary 
+ Gordon, which was awarded the Story Prize. She has received numerous  
+ other honors, including a Lila Wallace-Reader#8242s Digest            
+ Writers#8242 Award, a Guggenheim Fellowship, and an Academy Award for 
+ Literature from the American Academy of Arts and Letters. She teaches 
+ at Barnard College and lives in New York City. Online registration is 
+ required and currently open.                                          
+DTSTART;TZID=America/New_York:20141121T18300000
+DTEND;TZID=America/New_York:20141121T20300000
+LOCATION:Columbia University Morningside Campus Library, Italian Academy
+CONTACT:events-reply@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74278@columbia.edu
+SUMMARY: The Seagull                                                           
+DESCRIPTION: David Pauls production of a modern classic, Anton Chekhovs The        
+ Seagull, features scenic design by Assistant Professor                
+ of Professional Practice Sandra Goldmark. Famous as the inaugurating  
+ success of Constantin Stanislavskis Moscow Art Theatre, The Seagull   
+ undertakes a pinpoint anatomy of the brutality of artistic ambition,  
+ and a remarkably sensitive and self-reflexive examination of the      
+ realistic milieu of which Chekhov was an acknowledged                 
+ master. Reservations and information barnard.edu/theatre              
+DTSTART;TZID=America/New_York:20141121T20000000
+DTEND;TZID=America/New_York:20141121T22000000
+LOCATION:Columbia University Morningside Campus Barnard College Milbank Hall, Minor Latham Playhouse Room 118
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74281@columbia.edu
+SUMMARY: The Seagull                                                           
+DESCRIPTION: David Pauls production of a modern classic, Anton Chekhovs The        
+ Seagull, features scenic design by Assistant Professor                
+ of Professional Practice Sandra Goldmark. Famous as the inaugurating  
+ success of Constantin Stanislavskis Moscow Art Theatre, The Seagull   
+ undertakes a pinpoint anatomy of the brutality of artistic ambition,  
+ and a remarkably sensitive and self-reflexive examination of the      
+ realistic milieu of which Chekhov was an acknowledged                 
+ master. Reservations and information barnard.edu/theatre              
+DTSTART;TZID=America/New_York:20141122T15000000
+DTEND;TZID=America/New_York:20141122T17000000
+LOCATION:Columbia University Morningside Campus Barnard College Milbank Hall, Minor Latham Playhouse Room 118
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74279@columbia.edu
+SUMMARY: The Seagull                                                           
+DESCRIPTION: David Pauls production of a modern classic, Anton Chekhovs The        
+ Seagull, features scenic design by Assistant Professor                
+ of Professional Practice Sandra Goldmark. Famous as the inaugurating  
+ success of Constantin Stanislavskis Moscow Art Theatre, The Seagull   
+ undertakes a pinpoint anatomy of the brutality of artistic ambition,  
+ and a remarkably sensitive and self-reflexive examination of the      
+ realistic milieu of which Chekhov was an acknowledged                 
+ master. Reservations and information barnard.edu/theatre              
+DTSTART;TZID=America/New_York:20141122T20000000
+DTEND;TZID=America/New_York:20141122T22000000
+LOCATION:Columbia University Morningside Campus Barnard College Milbank Hall, Minor Latham Playhouse Room 118
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74185@columbia.edu
+SUMMARY: The Changing Face of Romania: 25 Years After the Fall of Communism    
+DESCRIPTION: Please join the Harriman Institute and the East Central European      
+ Center for a discussion with Dr. Iona Gabriela Costache, Consul       
+ General of Romania in New York City. Dr. Costache will elaborate on   
+ the Changing Face of Romania 25 years after the fall of Communism in  
+ the country. 800x600 Normal 0 false false false EN-US X-NONE X-NONE   
+ MicrosoftInternetExplorer4 /* Style Definitions */                    
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size10.0pt font-familyTimes New       
+ Roman,serif A career diplomat, Ioana Gabriela Costache was appointed  
+ Consul General Romania in New York in September 2013. Prior to this,  
+ she served as Charg dAffaires a.i. at the Romanian Embassy in the     
+ Republic of Poland. From 2007 to 2010,                                
+ she worked as counselor/minister counselor with the UN and            
+ International Organizations Department, in the Ministry of Foreign    
+ Affairs, and previously, from 2005 to 2007, served as Deputy Head of  
+ Mission with the Romanian Embassy in Ireland.                         
+DTSTART;TZID=America/New_York:20141124T18000000
+DTEND;TZID=America/New_York:20141124T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1512
+CONTACT:ft2439@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74203@columbia.edu
+SUMMARY: Serving Paris, Serving the World: Gender, Domestics, and Migration    
+DESCRIPTION: Young Breton women were for#8232 a long time the stereotypical        
+ domestic servants in Paris.#8232 In this lecture, Leslie              
+ Moch explores their migratory path from rural Brittany to settlement  
+ in the French capital, and looks at the roles that work and religion, 
+ strategies of adaptation, and the organizations they create play in   
+ defending their interests and helping them to claim their rights.     
+ Professor of history at Michigan State University, Moch specializes   
+ in European migration. Trained as a historian of France, she has      
+ written extensively on France and Western Europe and the history of   
+ migration in Russia. She is the author of The Pariahs of Yesterday    
+ Breton Migrants in Paris Moving Europeans Migration in Western Europe 
+ since 1650 and, most recently, Broad is My Native Land Repertories    
+ and Regimes of Migration in Russias 20th Century, coauthored with     
+ Lewis Siegelbaum. Information fom.barnard.edu                         
+DTSTART;TZID=America/New_York:20141124T18000000
+DTEND;TZID=America/New_York:20141124T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard Hall, Sulzberger Parlor
+CONTACT:lstuffle@barnard.edu
+URL:http://fom.barnard.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75124@columbia.edu
+SUMMARY: Forests of Memory, A Public Lecture by Eduardo Cadava                 
+DESCRIPTION: The School of the Arts, the Department of Art History                 
+ amp Archaeology, and Global Cultural Studies Welcome you to a public  
+ lecture by Eduardo Cadava, Department of English, Princeton           
+ University The tree crosses global boundaries. In its dealings with   
+ the sun, it is a natural photograph. Reading Argentine photographer   
+ Marcelo Brodskys memory-work on trees, this essay explores the        
+ braided relationship between photography, writing , literature and    
+ the question of how to read in a time of political and environmental  
+ catastrophe. Normal 0 false false false EN-US X-NONE X-NONE /* Style  
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141124T18000000
+DTEND;TZID=America/New_York:20141124T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1501
+CONTACT:ker2152@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74996@columbia.edu
+SUMMARY: The Lionel Trilling Seminar with Katharine Park                       
+DESCRIPTION: Katharine Park, Samuel Zemurray, Jr. and Doris Zemurray               
+ Stone Radcliffe Professor of the History of Science, will deliver the 
+ Fall 2014 Lionel Trilling Seminar. Parks research and teaching        
+ focuses on the history of science and medicine in medieval and early  
+ modern Europe, with special attention to gender, sexuality, and the   
+ history of the body. Her work stresses the interconnection            
+ of knowledge and practice and the importance of relating both to the  
+ social, institutional, and cultural contexts that produced them.      
+ Event is free and open to the public. Seating is first come, first    
+ served. Normal 0 false false false EN-US X-NONE X-NONE /* Style       
+ Definitions */ table.MsoNormalTable mso-style-nameTable Normal        
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141124T18100000
+DTEND;TZID=America/New_York:20141124T20300000
+LOCATION:Columbia University Morningside Campus East Campus Heyman Center 2nd Floor Common Room
+CONTACT:heymancenter@columbia.org
+URL:http://heymancenter.org/events/the-lionel-trilling-seminar-with-katharine-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75366@columbia.edu
+SUMMARY: Leonard Hastings Schoff Memorial Lectures                             
+DESCRIPTION: Coherence and Resonance How to Read Film Openings III.                
+ Opening-as-Action Monday, (including clips from The Graduate, The     
+ Player, Three Colors Red, Aguirre, Hiroshima Mon Amour) Normal 0      
+ false false false EN-US X-NONE X-NONE /* Style Definitions            
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin Annette Insdorfs criteria of valuefor 
+ the past few decades of teaching cinema at Yale and Columbiahave been 
+ internal coherence of the cinematic text, and the films resonance     
+ (whether cultural, political or aesthetic) beyond the frame. Her      
+ point of departure is close analysis of the opening sequences of      
+ motion pictures. Using clips, she explores how the introduction is    
+ the anchor of a rich audio-visual experience. Normal 0 false false    
+ false EN-US X-NONE X-NONE /* Style Definitions */                     
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141124T20000000
+DTEND;TZID=America/New_York:20141124T22000000
+LOCATION:Columbia University Morningside Campus Faculty House, 2nd Floor
+CONTACT:an2113@columbia.edu
+URL:http://universityseminars.columbia.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75103@columbia.edu
+SUMMARY: IEA World Energy Outlook 2014                                         
+DESCRIPTION: Please join the Center on Global Energy Policy for a discussion of    
+ the International Energy Agencys World Energy Outlook 2014 (WEO-2014) 
+ with Dr. Fatih Birol, Chief Economist and Director of Global Energy   
+ Economics, International Energy Agency (IEA). The global energy       
+ landscape is evolving at a rapid pace, reshaping long-held            
+ expectations for our energy future. The WEO-2014 (to be released on   
+ November 12) presents analyses and projections of medium-             
+ and longer-term energy trends and the potential impact of these       
+ developments on energy security, the economy, and the environment.    
+ Dr. Birol will discuss the main findings from the WEO-2014, as well   
+ as the special topics covered in-depth in this years edition,         
+ includingTrends in energy sector investment, including an examination 
+ of the scale of investment required and financing optionsEnergy       
+ outlook for Africa, with a focus on the prospects for improving       
+ access to modern energy services and developing the regions resource  
+ potentialOutlook for nuclear power, including policy trends,          
+ financing options, and competitiveness versus other generation        
+ sources Center Director Jason Bordoff will moderate the discussion    
+ following the presentation. Registration is required for in-person    
+ attendance. This event is open to press. It will also be livestreamed 
+ at energypolicy.columbia.edu/watch (no registration is required to    
+ view the livestream). For more information contact                    
+ energypolicy@columbia.edu                                             
+DTSTART;TZID=America/New_York:20141125T12300000
+DTEND;TZID=America/New_York:20141125T13450000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1501
+CONTACT:kwei@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75047@columbia.edu
+SUMMARY: Screening of "Once My Mother," An Award-Winning Wartime Drama         
+DESCRIPTION: Please join us for the screening ofnbspOnce My Mother,                
+ an award-winning film by Polish filmmakernbspSophia Turkiewicz. The   
+ film will be presented by Columbia Senior                             
+ LecturernbspAnnanbspFerensnbspand the event will be moderated         
+ bynbspSophia Turkiewicznbspand the films producernbspRod Freedman.    
+ When Australian filmmaker Sophia Turkiewicz was seven years old, her  
+ Polish mother, Helen, abandoned her in an Adelaide orphanage. Sophia  
+ never forgot this maternal act of betrayal. Now in middle age,        
+ as Sophia examines her troubled relationship with Helen, she          
+ discovers the story behind Helens miraculous wartime escape from a    
+ Siberian gulag, her subsequentnbspsurvivalnbspagainst the odds and    
+ the truth about an historic betrayal involving Stalin and the Allies. 
+ With Helen sliding into dementia, Sophia must confront her own        
+ demons. Did she ever truly know this woman who became                 
+ her mother?nbspDoes she have it in her heart to forgive her? And is   
+ it too late? Polish dinner will be served. The screening is free and  
+ open to the public and sponsored by the Harriman Institute, East      
+ Central European Center, and Columbia University Central and eastern  
+ European (CUCEE) Club Please RSVP to Anna Nejedla                     
+ atnbspan2559@columbia.edu The awards include BEST                     
+ FEATUREnbspDOCUMENTARY,nbspAustralian Directors GuildnbspAwards       
+ AUDIENCE AWARD,nbspKrakow Film Festival AUDIENCE AWARDnbspBEST        
+ DOCUMENTARY,nbspAdelaide FilmnbspFestival AUDIENCE AWARDnbspBEST      
+ FILM, CanberranbspInternational Film Festival BEST                    
+ DOCUMENTARYnbspBIOGRAPHY, ATOM Awards BEST                            
+ FEATUREnbspDOCUMENTARYnbspNomination,nbspAACTA Awards BEST SOUND      
+ Nomination,nbspAACTA Awards FINALIST, Sydney FilmnbspFestival         
+ DocumentarynbspCompetition FINALIST, FIPA FestivalnbspBiarritz,       
+ InnbspCompetition Normal 0 false false false EN-US X-NONE X-NONE /*   
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin-top0in mso-para-margin-right0in                 
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141125T18000000
+DTEND;TZID=America/New_York:20141125T21000000
+LOCATION:International Affairs Building, Room 707
+CONTACT:ft2439@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74457@columbia.edu
+SUMMARY: Improvisation in the Arts: A Symposium                                
+DESCRIPTION: Romare Bearden constantly made the color he constantly looked for.    
+ His collages mirrored and enacted what critic Laura Harris calls the  
+ aesthetics of black social life, moving against the brutalities of    
+ removal and enclosure that structure global black experience and,     
+ therefore, the modern world. A Black Odyssey refers, though, not only 
+ to Afro-diasporic travel and travail but also to an anoriginary       
+ movement of in the art of the West that blackness has                 
+ come to signifythe polyrhythmic, oral-formulaic, insurgent innovation 
+ that was also Homers home away from home.In this panel,               
+ a multi-disciplinary group of artists and scholars will sit in with   
+ Bearden, gathering with and around his Odyssean practice,             
+ his restless, wandering devotion to the scrap, the fragment, the      
+ musical moment, and his abiding in and with the imagination, whose    
+ enduring philosophical racialization renders it both disposable and   
+ appropriable. The intensity of Beardens commitment to the aesthetic   
+ contact and content of black social life in its broadest dimensions   
+ will serve as an impetus for a wide-ranging discussion                
+ of the protocols and implications of improvisation in music,          
+ literature, theology, cinema, dance and critical theory. Along with   
+ Bearden and, most importantly, the audience, the panel hopes to form  
+ a new experimental band. Program ParticipantsFred Moten is author of  
+ In the Break The Aesthetics of the Black Radical Tradition, Hughsons  
+ Tavern, B. Jenkins, The Undercommons Fugitive Planning and Black      
+ Study (with Stefano Harney), The Feel Trio and The Little Edges.      
+ Moten lives in Los Angeles and teaches at the University of           
+ California, Riverside. John Akomfrah OBE, is a seminal figure in      
+ Black British Cinema and forerunner in digital cinematography. He has 
+ a body of work that is considered one of the most distinctive and     
+ innovative in contemporary Britain. Born in Ghana, to politically     
+ active parents he moved to London at an early age. He was a founding  
+ figure in the influential cine cultural group Black Audio Film        
+ Collective which was dedicated to exploring questions of Black        
+ British identity, race and class through film and media. In 1999, he  
+ set up Smoking Dogs Films - which simultaneously cohabits the worlds  
+ of broadcast, cinema and the arts - with his long term producing      
+ partners, David Lawson and Lina Gopaul. John has served on numerous   
+ boards as a governor, including the British Film Institute and Film   
+ London and has taught at a number of institutions around the world    
+ including MIT, Yale and the University of Westminster. John Akomfrah  
+ is a director, writer and theorist who creates documentaries, feature 
+ films and exhibitions that have garnered international critical       
+ acclaim. J. Kameron Carternbsp is a professor and teaches courses in  
+ both theology and black church studies. Working as a theologian, he   
+ addresses the basic areas of Christian thought, especially attending  
+ to Christology (the person and work of Jesus Christ) and theological  
+ anthropology (the human being in Christian perspective). But in       
+ engaging such matters, he does so with a view not just to the church  
+ or to Christian believers. He does so with a view to the broader      
+ humanities, particularly, with an eye toward such fields as cultural  
+ studies, gender studies, and philosophy and literature. His book Race 
+ A Theological Account (New York Oxford University Press, 2008) has    
+ recently appeared. He is presently working on a new book on the       
+ ideological uses of Jesus in the modern invention of the human, and   
+ thus in the making and sustaining of the present. Addressing this in  
+ its religious, secular, and now arguably post-secular forms,          
+ Professor Carter calls this the problem of the cultural Jesus. The    
+ project provides a theological, which at the same time is a cultural, 
+ archaeology of the present by getting inside of this problem. But     
+ beyond this, and having gotten inside of this problem, Professor      
+ Carter reimagines the identity of Jesus and the politics of his       
+ identity in light of the new, global realities of the 21st century.   
+ Danielle Goldman In her research, she analyzes the social, cultural,  
+ and historical conditions that affect how people move.                
+ She is fascinated by critical theories of the body, andnbsp tendd to  
+ think about dance as an arena for experimental relations between self 
+ and other. These interests are informed by her experience as a dancer 
+  taking class, rehearsing, and performing (most recently for the      
+ choreographers DD Dorvillier and Beth Gill). Persistent shuttling     
+ between dance practice and academic work  two worlds that she has     
+ been trying to bridge for as long as she can remember  has shown her  
+ that dance and critical theory inform each other in significant ways, 
+ revealing much about embodiment, subjectivity, and notions            
+ of identity. M. NourbeSe Philips is an unembedded poet, essayist,     
+ novelist and playwright who lives in the space-time of the City of    
+ Toronto. She practiced law in the City of Toronto for seven years     
+ before becoming a poet and writer. She has published four books of    
+ poetry including the seminal She Tries Her Tongue Her Silence Softly  
+ Breaks, one novel and three collections of essays. Her most recent    
+ work is the conceptually innovative, book-length poem Zong!, which    
+ explodes the legal archive as it relates to slavery. Among her awards 
+ are numerous Canada Council and Ontario Arts Council grants, as well  
+ as the Pushcart Prize (USA, 1981), the Casa de las Americas Prize     
+ (Cuba, 1988), the Lawrence Foundation Prize (USA, 1994), and the Arts 
+ Foundation of Toronto Writing and Publishing Award                    
+ (Toronto,1995),nbsp Dora Award finalist (1999). Her fellowships       
+ include Guggenheim (1990), McDowell (1991), and Rockefeller           
+ (Bellagio) (2005). She has been Writer-in-Residence at several        
+ universities. Matana Robertsnbsp internationally documented and       
+ Chicago-born, Matana (m (a)-ta-Nah\) Roberts is a musician, her main  
+ instrument is the alto saxophone and she works in many                
+ performance/sound mediums including improvisation, dance, poetry, and 
+ theater. She aims to expose the mystical roots and the intuitive      
+ spirit-raising traditions of American creative expression in her      
+ music. Her innovative work has forged new conceptual approaches to    
+ considering narrative, history, and political expression within       
+ improvisatory structures. Past member of the BRC Black Rock Coalition 
+ and the AACM Association for the Advancement of Creative Musicians.   
+ She holds two degrees in music performance. She is based in New York  
+ City.Online registration is required and currently open.              
+DTSTART;TZID=America/New_York:20141202T10000000
+DTEND;TZID=America/New_York:20141202T16000000
+LOCATION:Columbia University Morningside Campus Faculty Room, Low Memorial Library
+CONTACT:events-reply@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74206@columbia.edu
+SUMMARY: The Case Of China: How Migration Shapes Political Attitudes and       
+ Participation in Origin Communities                                   
+DESCRIPTION: This presentation examines the consequences of migration for          
+ political transformation in origin communities in China. Lu broadens  
+ previous scholarly focus on the transnational activism of politically 
+ conscious migrants to include unselfconscious transnationalism that   
+ is more common and potentially more influential. Yao Lu is assistant  
+ professor of sociology at Columbia University. Her research focuses   
+ on how migration and immigration intersect with social, economic, and 
+ political processes across diverse contexts. She is especially        
+ interested in understanding the role of migration in social and       
+ political change in migrant-sending areas. Information fom.barnard.edu
+DTSTART;TZID=America/New_York:20141202T18000000
+DTEND;TZID=America/New_York:20141202T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard Hall, Sulzberger Parlor
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/events/case-china-how-migration-shapes-political-attitudes-and-participation-origin-communities
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75387@columbia.edu
+SUMMARY: Old Masters: Art Spiegelman, Jules Feiffer, Alex Melamid              
+DESCRIPTION: Legendary artists and authors Jules Feiffer, Art Spiegelman, and Alex 
+ Melamid will discuss the history and achievements of aging artists,   
+ with a focus on artists whose best-known works were completed in the  
+ later years of their lives. The discussion will use as its starting   
+ point what renown critic Barbara Hernstein Smith called the senile    
+ sublime. From Michelangelo, to Willem de Kooning, to Chester Gould,   
+ all of whom lived into their 80s, these are artists whose later works 
+ reflect a higher state of mental freedom. It is these late works that 
+ have gained recognition at the turn of! the 21st Century.             
+ The discussion will also turn to Feiffer, an Old Master who has       
+ re-invented himself as an 85-year-old young graphic novelist, having  
+ just published Kill My Mother to great acclaim. Normal 0 false false  
+ false EN-US X-NONE X-NONE /* Style Definitions */                     
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin The event will be Livestreamed        
+ at                                                                    
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ umbia.edu/event/old-masters-art-spiegelman-jules-feiffer-alex-melamid 
+ Normal 0 false false false EN-US X-NONE X-NONE /* Style Definitions   
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141202T18150000
+DTEND;TZID=America/New_York:20141202T20300000
+LOCATION:Columbia University Morningside Campus The Teatro at The Italian Academy for Advanced Studies 1161 Amsterdam Avenue New York, NY 10027
+CONTACT:heymancenter@columbia.edu
+URL:http://heymancenter.org/events/old-masters/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74458@columbia.edu
+SUMMARY: A Recital for Terry Adkins (2014)                                     
+DESCRIPTION: George Lewis A Recital for Terry Adkins (2014) Ensemble Pamplemousse  
+ George Lewis, interactive media World Premiere A Recital for Terry    
+ Adkins is a large-scale open-form ritual with live interaction        
+ between instruments, electronic sounds, and digitized still and       
+ moving images drawn from the work of Romare Bearden and Terry Adkins. 
+ Program Participants George E. Lewis is the Edwin H. Case Professor   
+ of American Music at Columbia University. A 2002 MacArthur Fellow and 
+ a member of the Association for the Advancement of Creative Musicians 
+ (AACM) since 1971, Lewiss compositions are documented on more than    
+ 140 recordings, and have been presented by the BBC Scottish Symphony  
+ Orchestra, Boston Modern Orchestra Project, Talea Ensemble, Dinosaur  
+ Annex, Ensemble Pamplemousse, Wet Ink, Ensemble Erik Satie, Eco       
+ Ensemble, and others, with commissions from American Composers        
+ Orchestra, International Contemporary Ensemble, Harvestworks,         
+ Ensemble Either/Or, Orkestra Futura, Turning Point Ensemble, San      
+ Francisco Contemporary Music Players, 2010 Vancouver Cultural         
+ Olympiad, IRCAM, Glasgow Improvisers Orchestra, and others. Most      
+ recently, Lewis has served as Ernest Bloch Visiting Professor,        
+ University of California, Berkeley Paul Fromm Composer in Residence,  
+ American Academy in Rome and Resident Scholar, Center                 
+ for Disciplinary Innovation, University of Chicago. Lewis received    
+ the 2012 SEAMUS Award from the Society for Electro-Acoustic Music in  
+ the United States, and his widely acclaimed book, A Power Stronger    
+ Than Itself The AACM and American Experimental Music (University of   
+ Chicago Press, 2008) received the American Book Award                 
+ and the American Musicological Societys first Music in American       
+ Culture Award. Lewis and Benjamin Piekut are co-editors of the        
+ forthcoming two-volume Oxford Handbook of Critical Improvisation      
+ Studies. Composer/performer collective Ensemble Pamplemousse was      
+ founded in 2003 to provide a focal point for like-minded creators     
+ with a thirst for sonic exploration. The ensemble is a close-knit     
+ group of divergent artistic personalities, emergent from training in  
+ disparate musical fields. Their collective love for the exquisite in  
+ all sonic realms leads the ensemble to persistently discover new      
+ vistas of sound at the frayed edges of dissective instrumental        
+ performance technique. Compositions aggregate each members unique     
+ virtuosic talents into extraordinary magical moments. In the flexible 
+ moments of performance, the ensemble weaves together shapes of        
+ resonance, clusters of glitch, skitters of hyper action, and masses   
+ of absurdity into impeccable structures of unified beauty. For more   
+ information on this ensemble, please visit                            
+ http//www.ensemblepamplemousse.org/ Online registration is required   
+ and currently open.                                                   
+DTSTART;TZID=America/New_York:20141202T20000000
+DTEND;TZID=America/New_York:20141202T22000000
+LOCATION:Columbia University Morningside Campus St. Paul's Chapel
+CONTACT:events-reply@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74904@columbia.edu
+SUMMARY: Marcel Proust et les arts décoratifs: Art nouveau, cosmopolitisme et  
+ antisémitisme dans À la recherche du temps perdu                      
+DESCRIPTION: Sophie Basch, introduced by Elisabeth Ladenson Lecture in French The  
+ French coined anglicism modern style refers to the international      
+ revival of the decorative arts in the early 20th century, a blend of  
+ aesthetics and social ideas. Sophie Basch tackles for the first time  
+ the whole question of decorative arts in  la recherche in all its     
+ ramifications, in a fascinating instance of the network of            
+ connections at the heart of Prousts system. Sophie Basch              
+ is a professor of 19th and 20th century French literature at the      
+ University of Paris-Sorbonne. Her book on Proust and the decorative   
+ arts was just published by Brepols, in the collection Le Champ        
+ proustien directed by Nathalie Mauriac Dyer.                          
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T19300000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:ll2787@columbia.edu
+URL:http://maisonfrancaise.org/marcel-proust-et-les-arts-deacutecoratifs-art-nouveau-cosmopolitisme-et-antiseac
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74766@columbia.edu
+SUMMARY: East Asian Historical Thought in Comparative Perspective: What        
+ History Is, Knows, Does: THE WEST                                     
+DESCRIPTION: Lecture with Eelco Runia, author of Moved by the Past.                
+ No registration required. Sponsored by Weatherhead East               
+ Asian Institute and the Department of History.                        
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
+CONTACT:lem2111@columbia.edu
+URL:http://www.columbia.edu/cu/weai/Calendar/calendar_december14.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75388@columbia.edu
+SUMMARY: Public Humanities Initiative The Justice Forum: Paradigms             
+ for Justice: Beyond Punishment                                        
+DESCRIPTION: There is a growing consensus across the country about the devastating 
+ consequences of mass incarceration and criminal justice policy.       
+ Increasingly, scholars, clinicians, educators, politicians and        
+ activists are examining the ways in which punishment is used in many  
+ facets of our society including schools, courts, jails and prisons.   
+ Many have found that the use of punishment as the core                
+ of the criminal justice system is more damaging tha! n useful. There  
+ is also a focus on the disproportionate use of punitive polices and   
+ practices in Black communities and low-income communities of color.   
+ This punishment paradigm needs to be replaced and people are          
+ exploring alternative approaches to harm done, discipline             
+ and conflict. This roundtable will bring together scholars,           
+ educators, clinicians, activists and community members to critically  
+ examine the utility of punishment in our society and discuss          
+ alternative approaches to justice, accountability and                 
+ safety. Speakers will discuss alternative frameworks and responses    
+ including restorative justice theory and practice in different        
+ contexts a public health approach to analyzing the causes             
+ and consequences of behavior that is currently criminalized,          
+ decarceration, and finally, the theory and work of prison             
+ abolitionists. Normal 0 false false false EN-US X-NONE X-NONE /*      
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141203T18300000
+DTEND;TZID=America/New_York:20141203T20300000
+LOCATION:Columbia Law School, Columbia University Morningside Campus Jerome Greene 104
+CONTACT:heymancenter@columbia.edu
+URL:http://heymancenter.org/events/the-justice-forum-paradigms-for-justice-beyond-punishment/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75340@columbia.edu
+SUMMARY: Research Without Borders Panel: Big Open Data                         
+DESCRIPTION: Please join the Center for Digital Research and Scholarships          
+ Scholarly Communication Program for Research Without Borders Big Open 
+ Data, our second event of the academic year in our Research Without   
+ Borders panel discussion series. This event is free and open to the   
+ public. If you plan to attend, please RSVP to lwilliams@columbia.edu. 
+ How are large amounts of data managed, made sense of, and made        
+ accessible? What are the challenges of working with large open        
+ datasets, and how are different academic disciplines making use of    
+ them? In this panel discussion, researchers will explore big open     
+ data from three perspectives the humanities, journalism, and the      
+ social web.Our panelistsnbsp- David Wrisley, Associate Professor in   
+ the Department of English and the Civilization Sequence Program at    
+ the American University of Beirut Medieval Fellow at Fordham          
+ Universitys Center for Medieval Studies.nbsp- Jonathan Stray, Fellow  
+ at Columbia Universitys Tow School for Digital Journalism lead on the 
+ development of the Associated Press and the Knight Foundation         
+ Overview Project, an open-source document archive analysis system for 
+ investigative journalists.nbsp- Alice Marwick, Assistant Professor at 
+ Fordham Universitys Communications and Media Studies Department       
+ academic affiliate at the Center on Law and Information Policy (CLIP) 
+ at Fordham Law School.Our moderatornbsp- David Park, Dean of          
+ Strategic Initiatives at Columbia University senior advisor to the    
+ Executive Vice President and Dean of Faculty of the Arts and Sciences 
+ member of Columbia Universitys Institute for Data Sciences and        
+ Engineering New Media Center Director of Special Projects at the      
+ Applied Statistics Center founding member of Columbia Universitys     
+ Digital Storytelling Lab.                                             
+DTSTART;TZID=America/New_York:20141204T14000000
+DTEND;TZID=America/New_York:20141204T16000000
+LOCATION:Columbia University Morningside Campus Faculty House, Presidential Rooms 2 & 3
+CONTACT:lwilliams@columbia.edu
+URL:http://cdrs.columbia.edu/cdrsmain/2014/11/research-without-borders-panel-to-discuss-big-open-data-on-december-4th/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75343@columbia.edu
+SUMMARY: Cultural Resentment and Valorization in Postwar Japanese Literary     
+ Criticism: Nakamura Mitsuo's Spirit of Literature                   
+DESCRIPTION: Guest speaker Atsuko Ueda (Associate Professor of Japanese            
+ Literature, Princeton University) Free and open to the public. Normal 
+ 0 false false false EN-US X-NONE X-NONE /* Style Definitions */       
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+DTSTART;TZID=America/New_York:20141204T18000000
+DTEND;TZID=America/New_York:20141204T19300000
+LOCATION:Columbia University Morningside Campus 403 Kent Hall
+CONTACT:donald-keene-center@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74459@columbia.edu
+SUMMARY: From Chios to 125th Street: Toward a Black Odysseus                   
+DESCRIPTION: By painting a black Odyssey, Romare Bearden connected the desire of   
+ African American people to return home with Homers epic. In Beardens  
+ art, the Odyssey is linked to the Freedom Riders, the Underground     
+ Railroad, Marcus Garveys steamship line, and Rosa Parks on a Mobile   
+ bus. Regardless of whether or not they knew Bearden, filmmakers have  
+ also united Homer and American blacks. In John Sayles The Brother     
+ from Another Planet (1984), an alien played by the African American   
+ actor Joe Morton lands in Harlem and spends the rest of the film      
+ trying to return to his home planet. Joel and Ethan Coens O Brother,  
+ Where Art Thou? (2000), directly based on the Odyssey, has key black  
+ characters, one of whom resembles Homer himself. There are also       
+ Homeric references in the Coens Inside Llewyn Davis (2013), including 
+ a black cat named Ulysses. To ground a black Odyssey within larger    
+ cinematic traditions, we will also watch scenes from Godards Le mpris 
+ (Contempt) (1963), in which a director seeks to make a film of the    
+ Odyssey, Joseph Stricks Ulysses (1967), based on James Joyces novel,  
+ and of course, 2001 A Space Odyssey (1968).Program ParticipantKrin    
+ Gabbard is Professor Emeritus of Comparative Literature and Cultural  
+ Studies at Stony Brook University.nbsp Since 1971, he has taught      
+ courses in cinema studies, the cultures of jazz, and the history of   
+ literature.nbsp He is the author of Hotter than That The Trumpet,     
+ Jazz, and American Culture (Farrar, Straus amp Giroux, 2009), Black   
+ Magic White Hollywood and African American Culture (Rutgers U Press,  
+ 2004), Jammin at the Margins Jazz and the American Cinema (U of       
+ Chicago Press, 1996) and Psychiatry and the Cinema (2nd ed.,          
+ 1999).nbsp He is currently writing an interpretive biography of jazz  
+ artist Charles Mingus. Online registration is required.               
+DTSTART;TZID=America/New_York:20141204T18300000
+DTEND;TZID=America/New_York:20141204T20300000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:events-reply@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74952@columbia.edu
+SUMMARY: Cinema Thursday: Aya de Yopougon (Aya of Yop City)                    
+DESCRIPTION: @font-face  font-family Calibri p.MsoNormal, li.MsoNormal,            
+ div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt font-family     
+ Times New Roman div.Section1  page Section1  p.MsoNormal,             
+ li.MsoNormal, div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt   
+ font-family Times New Roman ins  text-decoration none span.msoIns     
+ text-decoration underline color black span.msoDel  text-decoration    
+ line-through color red div.Section1  page Section1  Marguerite Abouet 
+ amp Clment Oubrerie, 2010, 84 min. Location 2nd floor, Buell Hall     
+ (Maison Franaise) nbsp Based on Marguerite Abouets popular graphic    
+ novel series, this animated film follows 19-year old Aya, who would   
+ like to become a doctor one day, and her two friends, who prefer to   
+ party, through life in their Ivory Coast, working class neighborhood  
+ in the 1970s. 12.00 Normal 0 false false false EN-US X-NONE X-NONE /* 
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi 12.00 Normal 0 false false false EN-US  
+ X-NONE X-NONE st1\*behaviorurl(#ieooui)  /* Style Definitions */      
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi                                         
+DTSTART;TZID=America/New_York:20141204T19300000
+DTEND;TZID=America/New_York:20141204T22000000
+LOCATION:Columbia University Morningside Campus 2nd floor, Buell Hall
+CONTACT:ll2787@columbia.edu
+URL:http://maisonfrancaise.org/cinema-thursday-aya-de-yopougon-aya-of-yop-city
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73785@columbia.edu
+SUMMARY: Composer Portraits: Keeril Makan                                      
+DESCRIPTION: An arrestingly gifted young American composer (The New Yorker),       
+ Keeril Makan is an artist who delves deep, engaging with and          
+ reflecting human struggles and emotions in his work. His early        
+ compositions explored the violence of the war in Afghanistan as well  
+ as his own personal struggle with depression. In more recent works,   
+ Makan has embraced stillness, celebrating sound in and of itself, and 
+ demonstrating an elegant control of timbre and color.                 
+DTSTART;TZID=America/New_York:20141205T20000000
+DTEND;TZID=America/New_York:20141205T22000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:miller-arts@columbia.edu
+URL:http://www.millertheatre.com/events/keeril-makan
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75235@columbia.edu
+SUMMARY: Tell Me a Story: Family Day                                           
+DESCRIPTION: Tell Me A Story! FREE Romare Bearden A Black Odyssey Family Day!!     
+ nbsp Join us at the Miriam and Ira D. Wallach Art Gallery at Columbia 
+ University on Saturday 6th December from 10am  1pm for a morning of   
+ readings on Bearden themed children books, interactive jazz musical   
+ performances and family gallery tours of the Romare Bearden A Black   
+ Odyssey exhibition every 30 minutes! nbsp Our readers                 
+ are the award-wining poet Mervyn Taylor, Broadway actress Sheria      
+ Irving and movie actress Devyn Tyler!                                 
+DTSTART;TZID=America/New_York:20141206T10000000
+DTEND;TZID=America/New_York:20141206T13000000
+LOCATION:Columbia University Morningside Campus Miriam and Ira D. Wallach Art Gallery Schermerhorn Hall, 8th Floor
+CONTACT:wallach@columbia.edu
+URL:http://www.columbia.edu/cu/wallach/exhibitions/Romare-Bearden.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75276@columbia.edu
+SUMMARY: CUMC Symphony Orchestra presents: Messiah Sing!                       
+DESCRIPTION: The CUMC Symphony Orchestra will be performing selections from        
+ Handels Messiah with soloists and choir. Musical scores will be       
+ provided for you to sing along. Start your holiday season on the      
+ right note with an afternoon of beautiful, traditional                
+ music! Refreshments will be provided.nbsp Normal 0 false false false  
+ EN-US X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable      
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin-top0in mso-para-margin-right0in                       
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin About the OrchestraThe CUMC Symphony  
+ Orchestra is composed of students, faculty, and staff from the many   
+ schools and departments of Columbia University Medical Center,        
+ including GSAS, Public Health, Nursing, Dental, the College of        
+ Physicians and Surgeons, NYPH and more. Our mission is                
+ to use orchestral music and symphonic concerts to bring together the  
+ diverse population of the CUMC community, including students,         
+ teachers, researchers, clinicians, healthcare workers, staff, and     
+ patients and their families. Normal 0 false false false EN-US X-NONE  
+ X-NONE                                                                
+DTSTART;TZID=America/New_York:20141206T18000000
+DTEND;TZID=America/New_York:20141206T20000000
+LOCATION:Columbia University Medical Center Bard Hall Student Lounge
+CONTACT:cumc.symphony@gmail.com
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75337@columbia.edu
+SUMMARY: Pop-Up Concerts: Mivos Quartet                                        
+DESCRIPTION: Bring a friend, grab a drink, and join some of todays most            
+ interesting performers onstage at Miller Theatre on select Tuesday    
+ evenings. One of Americas most daring and ferocious new-music         
+ ensembles (The Chicago Reader) makes their Miller debut with          
+ imaginative works from three composers from across the globe. The     
+ evening includes New York guitarist and composer Patrick Higgins      
+ darkly dramatic Aletheia and twelve microludes from Romanian-born     
+ composer Gyrgy Kurtg  passionate, serene, and haunting in turns  that 
+ demonstrate the breadth of this young quartets talent. All concerts   
+ start at 6 p.m. Admission is on a first-come, first-served basis, and 
+ doors open at 530 p.m.                                                
+DTSTART;TZID=America/New_York:20141209T18000000
+DTEND;TZID=America/New_York:20141209T20000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:nsc2125@columbia.edu
+URL:http://www.millertheatre.com/events/mivos-quartet-popup
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74468@columbia.edu
+SUMMARY: Concert: Berio in NYC (1965-1972)                                     
+DESCRIPTION: SAI REMOVED DESCRIPTION                                               
+DTSTART;TZID=America/New_York:20141210T19000000
+DTEND;TZID=America/New_York:20141210T20300000
+LOCATION:Columbia University Morningside Campus Italian Academy
+CONTACT:rw2115@columbia.edu
+URL:www.italianacademy.columbia.edu/events
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_66212@columbia.edu
+SUMMARY: Pulmonary, Allergy, and Critical Care Medicine 2014                   
+DESCRIPTION: Title Pulmonary, Allergy, amp Critical Care Medicine 2014 Course      
+ Director(s) Neil Schluger MD Byron Thomashow, MD Scope Dates December 
+ 12, 2014 Description amp Objectives To address both common and        
+ uncommon challenges that medical practitioners face nbspin a one-day  
+ ACCME accredited course Registration Space is Limited. Early          
+ Registration is Encouraged. By Mail Complete the registration form    
+ and mail with full payment to Columbia University Department of       
+ Medicine ATTN Karen Wisdom 622 West 168th Street, PH8 East 105 New    
+ York, NY 10032 By Fax Registrants may fax the registration form with  
+ credit card information to (212) 305.8466 On-Line Registration        
+ http//columbiamedicine.org/ By Telephone (212) 342 - 2107 Additional  
+ Information Contact Department of Medicine Columbia University        
+ College of Physicians amp Surgeons nbspnbspnbspnbspnbspnbsp 622 West  
+ 168th Street, PH8 East, room 105 nbspnbspnbspnbspnbspnbsp New York,   
+ NY 10032 nbspnbspnbspnbspnbspnbsp Telephone (212) 342 - 2107          
+ nbspnbspnbspnbspnbspnbsp Fax (212) 305                                
+ - 8466 E-mail khm2101@columbia.edu http//columbiamedicinecme.org      
+DTSTART;TZID=America/New_York:20141212T08300000
+DTEND;TZID=America/New_York:20141212T17300000
+LOCATION:Columbia University Morningside Campus Vivian & Seymour Milstein Family Heart Center Myrna Daniels Auditorium
+CONTACT:khm2101@columbia.edu
+URL:http://www.columbiamedicinecme.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74273@columbia.edu
+SUMMARY: Barnard in the City                                                   
+DESCRIPTION: Join us for a talk that explores Barnards multifaceted relationship   
+ to the city it calls home. Panelists consider a variety of topics,    
+ from real-estate history and how Barnard became a campus, to student  
+ activism in the progressive era, and how Barnard became a cultural    
+ presence and a patron of the arts. Whether were tracing how Barnards  
+ onetime remoteness in the former fortress of Morningside Heights gave 
+ way to its influence on its changing and developing neighborhood, or  
+ the unionization drive of the 1980s and the Colleges subsequent       
+ reputation as an employer, youll gain a rare and nuanced perspective  
+ on the countrys most sought-after womens college. Information         
+ 212.854.5938                                                          
+DTSTART;TZID=America/New_York:20141216T18000000
+DTEND;TZID=America/New_York:20141216T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard Hall, Sulzberger Parlor
+CONTACT:lstuffle@barnard.edu
+URL:http://barnard.edu/events/barnard-city
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73612@columbia.edu
+SUMMARY: South Asia Institute: Atul Kohli, "Corporate Imperialism & East India 
+ Company"                                                              
+DESCRIPTION: A talk by Atul Kohli (Princeton) Corporate Imperialismnbsp East India 
+ Company RevisitednbspAtul Kohli is the David K.E. Bruce Professor of  
+ International Affairs and Professor of Politics and International     
+ Affairs at Princeton University. His principal research interests are 
+ in the areas of comparative political economy with a focus on the     
+ developing countries. He is the author of Poverty amid Plenty in the  
+ New India (2012) (a Foreign Affairs Best Book of 2012 on Asia and the 
+ Pacific) State-Directed Development Political Power and               
+ Industrialization in the Global Periphery (winner of the Charles      
+ Levine Award (2005) of the International Political Science            
+ Association) Democracy and Discontent Indias Growing Crisis of        
+ Governability (1991) and The State and Poverty in India (1987).       
+DTSTART;TZID=America/New_York:20150420T16000000
+DTEND;TZID=America/New_York:20150420T17300000
+LOCATION:Columbia University Morningside Campus Knox Hall, Room 208
+CONTACT:wac2112@columbia.edu
+URL:http://sai.columbia.edu
+END:VEVENT
+END:VCALENDAR
