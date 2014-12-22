@@ -872,9 +872,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75399@columbia.edu
 SUMMARY: sai uni event                                                         
-DESCRIPTION:                                                                       
+DESCRIPTION: sai univ full description or summary                                  
 DTSTART;TZID=America/New_York:20141222T10000000
-DTEND;TZID=America/New_York:20141228T10000000
+DTEND;TZID=America/New_York:20141227T10000000
 LOCATION:dev location
 CONTACT:sc3846@columbia.edu
 URL:
