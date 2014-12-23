@@ -26,11 +26,11 @@ var bwJsWidgetOptions = {
   insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
 </script>
 
-<div id="bwOutput"></div>
+<div id="bwOutputNew"></div>
 <script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
 <script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=10"> </script>
 <script type="text/javascript">
-var bwJsWidgetOptions = {
+var bwJsWidgetOptionsNew = {
   title: "Columbia Bedeworks DEV UpcomingEvents",
   showTitle: true,
   displayDescription: false,
@@ -43,7 +43,7 @@ var bwJsWidgetOptions = {
   displayLocationInList: false,
   listMode: "byTitle",
 };
-  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
+  insertBwEventsNew("bwOutputNew",bwObject,bwJsWidgetOptionsNew);
 </script>
 
 
