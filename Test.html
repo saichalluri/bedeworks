@@ -26,7 +26,25 @@ var bwJsWidgetOptions = {
   insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
 </script>
 
-
+<div id="bwOutput"></div>
+<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
+<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=10"> </script>
+<script type="text/javascript">
+var bwJsWidgetOptions = {
+  title: "Columbia Bedeworks DEV UpcomingEvents",
+  showTitle: true,
+  displayDescription: false,
+  calendarServer: "http://bedeworkdev01.cc.columbia.edu",
+  resourcesRoot: "undefined",
+  limitList: false,
+  limit: 5,
+  displayStartDateOnlyInList: true,
+  displayTimeInList: true,
+  displayLocationInList: false,
+  listMode: "byTitle",
+};
+  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
+</script>
 
 
 <a href="http://events.library.nashville.org/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/Exhibits%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-rss&count=10#sthash.VSlbayM7.dpuf"> Feed URL</a></a>
