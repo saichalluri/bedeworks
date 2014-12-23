@@ -1,0 +1,816 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_72267@columbia.edu
+SUMMARY: Master of Public Administration in Environmental Science and Policy   
+ (MPA ESP) Online Information Session                                  
+DESCRIPTION: The Earth Institute and the School of International and Public        
+ Affairs present an online information session for their Master        
+ of Public Administration in Environmental Science and Policy (ESP)    
+ program.nbsp Interested students will have the opportunity to learn   
+ about this intensive 12-month program and explore how this degree can 
+ help start a career in environmental management, environmental policy 
+ or sustainable development. Application DeadlinesNovember 1, 2014     
+ Early Decision with fellowship considerationnbspJanuary 15, 2015      
+ Regular Decision with fellowship considerationOpen to the public.For  
+ more information on the ESP program please click MPA ESPFor more      
+ information on the Earth Institute please click EARTH nbsp            
+DTSTART;TZID=America/New_York:20150106T12000000
+DTEND;TZID=America/New_York:20150106T13000000
+LOCATION:online
+CONTACT:st2745@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74550@columbia.edu
+SUMMARY: SIPA's 39th Annual Washington, D.C. Career Conference                 
+DESCRIPTION: Tuesday, January 13, 2015 All Day Career Panels and Discussion        
+ nbspFrom 845am to 425pm, there will be 16 career panels taking place  
+ on various topics featuring SIPA alumni and other professionals based 
+ in the DC area.nbspThe current schedule is as follows                 
+ nbsp845am-930amnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp       
+ Breakfast                                                             
+ nbsp930am-945amnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp       
+ Opening Address nbsp950am-1050amnbspnbspnbspnbspnbspnbspnbspnbspnbsp  
+ Economic Development and Microfinance nbspnbspnbsp                    
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ nbsp Foreign and Civil Service                                        
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Human Rights and Humanitarian Affairs                                 
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Urban and Social Policy and Planning                                  
+ nbsp1115am-1215pmnbspnbspnbspnbspnbspnbspnbsp Corporate Social        
+ Responsibility, Philanthropy, and Foundations nbspnbspnbsp            
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Environmental and Sustainable Development nbspnbspnbsp                
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ nbsp Federal Government/Capitol Hill                                  
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Multilateral Organizations nbsp200pm-300pmnbspnbspnbspnbspnbsp        
+ nbspnbspnbspnbspnbsp Conflict Resolution and Peacebuilding nbsp       
+ nbspnbspnbsp nbspnbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp              
+ nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp Energy Policy        
+ nbspnbspnbsp                                                          
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Defense, Intelligence, and Security                                   
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Public Sector Consulting                                              
+ nbsp325pm-425pmnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp           
+ Development Consulting nbspnbspnbsp                                   
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ International Media and Communications nbspnbspnbsp nbspnbsp nbsp     
+ nbsp nbsp nbsp nbsp nbsp nbsp                                         
+ nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp              
+ International Trade and                                               
+ Financenbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ International Security Policy and Political Risk Analysis Wednesday,  
+ January 14, 2015 Morning and Afternoon Employer Site Visits From      
+ 900am to 500pm, the Conference will offer employer site visits with a 
+ variety of companies, agencies, and organizations in the Washington,  
+ D.C. area. The employer site visits are organized by OCS and will run 
+ throughout the day. These site visits allow students to acquaint      
+ themselves with the working environment of potential employers and    
+ speak with employers in a more intimate setting. Generally, SIPA      
+ alumni and human resources (HR) representatives are present at these  
+ site visits, providing an excellent networking opportunity for        
+ students. Past site visits have included Booz Allen Hamilton,         
+ Deloitte Consulting, Grameen Bank, Inter-American Development Bank    
+ (IDB), Millennium Challenge Corporation (MCC), Population Services    
+ International, Save the Children, US Agency for International         
+ Development (USAID), US Department of the Treasury, US Environmental  
+ Protection Agency, and the World Bank. Evening Alumni/Student         
+ Networking Reception From 600pm to 800pm, there will be an            
+ Alumni/Student Networking Reception for both alumni working in the    
+ D.C. area and students who are registered for the Conference. This    
+ reception, to which approximately 150 alumni attend each year, will   
+ be held at the Four Seasons Hotel in Georgetown. Thursday, January    
+ 15, 2015 All Day Alumni Informational Interviews A list of alumni who 
+ have made themselves available for informational interviewsnbspon the 
+ final day ofnbspthe D.C. Conference will be provided to students who  
+ have registered for the Conference. Students will then independently  
+ scheduled pre-arranged, informationalnbspinterviews with these alumni 
+ any time from 900am to 500pm on Friday, January 17. This is an        
+ opportunity for students to design their own interview, learn about   
+ their career and organizational interests, and develop contacts.      
+ nbspThroughout the fall, OCS contacts D.C. metro region alumni        
+ tonbspencourage them to make themselves available for interviews with 
+ students on January 15. The list of available alumni will be provided 
+ tonbspstudents upon registering for the Conference. nbsp              
+ Accommodationsnbspand Travel Students are responsible for their own   
+ accommodations and travel. You should make arrangements that are most 
+ convenient for you some students stay with friends or family, while   
+ others book a hotel. OCS negotiates discounted group rates at hotels  
+ in Washington, D.C. on behalf of the Conference participants.         
+DTSTART;TZID=America/New_York:20150113T08450000
+DTEND;TZID=America/New_York:20150115T18000000
+LOCATION:Various locations in Washington, D.C. (a full schedule will be sent to registered participants)
+CONTACT:sipa.dc.conference@gmail.com
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_72268@columbia.edu
+SUMMARY: Master of Public Administration in Environmental Science and Policy   
+ (MPA ESP) Online Information Session                                  
+DESCRIPTION: The Earth Institute and the School of International and Public        
+ Affairs present an online information session for their Master        
+ of Public Administration in Environmental Science and Policy (ESP)    
+ program.nbsp Interested students will have the opportunity to learn   
+ about this intensive 12-month program and explore how this degree can 
+ help start a career in environmental management, environmental policy 
+ or sustainable development. Application DeadlinesNovember 1, 2014     
+ Early Decision with fellowship considerationnbspJanuary 15, 2015      
+ Regular Decision with fellowship considerationOpen to the public.For  
+ more information on the ESP program please click MPA ESPFor more      
+ information on the Earth Institute please click EARTH nbsp            
+DTSTART;TZID=America/New_York:20150205T14000000
+DTEND;TZID=America/New_York:20150205T15000000
+LOCATION:online
+CONTACT:st2745@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75251@columbia.edu
+SUMMARY: Georgia and its World Bank Ease of Business Rankings                  
+DESCRIPTION: Please join us for a talk bynbspDr. Samuel Schuethnbspon his work on  
+ increasing Georgias ranking on the World Banks Business Index.nbspDr. 
+ Samuel Schuethnbspis a professional social scientist based at the     
+ University of Minnesota whonbspleads the design, implementation, and  
+ analysis of quantitative and qualitative research on international    
+ development projects and programs. He has                             
+ implementednbspmixed-methods research to evaluate the impact of       
+ stability and governance initiatives, measure economic growth, and    
+ construct and deconstruct indices of good governance, business        
+ confidence and competitiveness innbspEthiopia, Somalia, Jordan,       
+ Georgia (Caucasus Republic), and Afghanistan. He is an expert in the  
+ design of indicators and indices for measuring governance quality and 
+ economic development. In Georgia he evaluated a USAID project that    
+ worked with the revolutionary government of Mikhail Saakashvili to    
+ dramatically increase the countrys ranking on the World Banks Doing   
+ Business Index. This rankings ascension was used to recast the        
+ country as an emerging market instead of a post-Soviet failed state.  
+ Since completing this work in Georgia, Dr. Schueth has engaged in the 
+ evaluation, construction, and interpretation of global rankings and   
+ ratings in a variety of contexts and through different international  
+ development initiatives and publications.                             
+DTSTART;TZID=America/New_York:20150212T12000000
+DTEND;TZID=America/New_York:20150212T13000000
+LOCATION:International Affairs Building, Room 1219
+CONTACT:zid2000@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73612@columbia.edu
+SUMMARY: South Asia Institute: Atul Kohli, "Corporate Imperialism & East India 
+ Company"                                                              
+DESCRIPTION: A talk by Atul Kohli (Princeton) Corporate Imperialismnbsp East India 
+ Company RevisitednbspAtul Kohli is the David K.E. Bruce Professor of  
+ International Affairs and Professor of Politics and International     
+ Affairs at Princeton University. His principal research interests are 
+ in the areas of comparative political economy with a focus on the     
+ developing countries. He is the author of Poverty amid Plenty in the  
+ New India (2012) (a Foreign Affairs Best Book of 2012 on Asia and the 
+ Pacific) State-Directed Development Political Power and               
+ Industrialization in the Global Periphery (winner of the Charles      
+ Levine Award (2005) of the International Political Science            
+ Association) Democracy and Discontent Indias Growing Crisis of        
+ Governability (1991) and The State and Poverty in India (1987).       
+DTSTART;TZID=America/New_York:20150420T16000000
+DTEND;TZID=America/New_York:20150420T17300000
+LOCATION:Columbia University Morningside Campus Knox Hall, Room 208
+CONTACT:wac2112@columbia.edu
+URL:http://sai.columbia.edu
+END:VEVENT
+END:VCALENDAR
