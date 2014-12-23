@@ -40,6 +40,16 @@ CONTACT:st2745@columbia.edu
 URL:
 END:VEVENT
 BEGIN:VEVENT
+UID:sundial_75400@columbia.edu
+SUMMARY: SIPA event by SAI                                                     
+DESCRIPTION: SIPA event by SAI Full Description/Summary                            
+DTSTART;TZID=America/New_York:20150107T10000000
+DTEND;TZID=America/New_York:20150107T12000000
+LOCATION:Columbia Morning side campus
+CONTACT:sc3846@columbia.edu
+URL:
+END:VEVENT
+BEGIN:VEVENT
 UID:sundial_74550@columbia.edu
 SUMMARY: SIPA's 39th Annual Washington, D.C. Career Conference                 
 DESCRIPTION: Tuesday, January 13, 2015 All Day Career Panels and Discussion        
