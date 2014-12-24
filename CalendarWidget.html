@@ -9,18 +9,21 @@
     
     <script type='text/javascript' src='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.min.js'></script>
     <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
+    <script>
+    $(document).ready(function() {
+
+    // page is now ready, initialize the calendar...
+
+    $('#calendar').fullCalendar({
+        // put your options and callbacks here
+    })
+
+});
+        </script>
+    </script>
 </head> 
 <body> 
-    <div data-role="page" id="index">
+    <div id='calendar'></div>
     
-        <div data-role="header">
-            <h1>My Team</h1>
-        </div><!-- /header -->
-        
-        <div data-role="content">       
-            <div id='calendar' style="width:100%;"></div>
-        </div><!-- /content -->
-    
-    </div><!-- /page -->
 </body>
 </html>
