@@ -5,26 +5,26 @@ Widget from Rockefeller College website
  <!--begin public policy calendar code-->
 
 <div id="bwOutput"></div>
-<script type="text/javascript" src="http://events.albany.edu/3.8/urlbuilder/javascript/bedework/listEvents.js"> </script>
-<script type="text/javascript" src="http://events.albany.edu/webcache/v1.0/jsonDays/10/list-json/%28catuid%3D%272962ac9d-3021b4cc-0130-2c96f754-00000d2e%27%29/bwObject.json"> </script>
+<script type="text/javascript" src="http://calendar.msm.edu/3.9/urlbuilder/javascript/bedework/listEvents.js"> </script>
+<script type="text/javascript" src="http://calendar.msm.edu/webcache/v1.0/jsonDays/7/list-json/no--filter/bwObject.json"> </script>
 <script type="text/javascript">
-bwJsWidgetOptions.title = "Public Policy Calendar";
-bwJsWidgetOptions.showTitle = true;
-bwJsWidgetOptions.displayEventDetailsInline = false;
-bwJsWidgetOptions.displayStartDateOnlyInList = true;
-bwJsWidgetOptions.displayTimeInList = true;
-bwJsWidgetOptions.displayLocationInList = true;
-bwJsWidgetOptions.listMode = "byDate";
-bwJsWidgetOptions.displayContactInDetails = undefined;
-bwJsWidgetOptions.displayCostInDetails = undefined;
-bwJsWidgetOptions.displayTagsInDetails = true;
-bwJsWidgetOptions.displayTimezoneInDetails = true;
+  bwJsWidgetOptions.title = "Upcoming Events";
+  bwJsWidgetOptions.showTitle = true;
+  bwJsWidgetOptions.displayDescription = false;
+  bwJsWidgetOptions.displayEventDetailsInline = false;
+  bwJsWidgetOptions.displayStartDateOnlyInList = true;
+  bwJsWidgetOptions.displayTimeInList = true;
+  bwJsWidgetOptions.displayLocationInList = false;
+  bwJsWidgetOptions.limitList = false;
+  bwJsWidgetOptions.limit = 5;
+  bwJsWidgetOptions.listMode = "byTitle";
+  bwJsWidgetOptions.displayContactInDetails = true;
+  bwJsWidgetOptions.displayCostInDetails = true;
+  bwJsWidgetOptions.displayTagsInDetails = true;
+  bwJsWidgetOptions.displayTimezoneInDetails = true;
 
-insertBwEvents("bwOutput");
+  insertBwEvents("bwOutput");
 </script>
-
-<div>&nbsp;</div>
-
 <!--end public policy calendar code-->
 
 
