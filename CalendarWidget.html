@@ -1,25 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-Nashville Widget display
 <div id="bwOutput"></div>
-<script type="text/javascript" src="http://events.library.nashville.org/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
-<script type="text/javascript" src="http://events.library.nashville.org/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/Exhibits%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=10"> </script>
+<script type="text/javascript" src="http://calendar.virginia.edu/urlbuilder/javascript/bedework/listEvents.js"> </script>
+<script type="text/javascript" src="http://calendar.virginia.edu/webcache/v1.0/jsonDays/7/list-json-Students/%28catuid%21%3D%278a7a83f4-3a110d79-013a-1ea6fa11-00007e3d%27%29/bwObject.json"> </script>
 <script type="text/javascript">
-var bwJsWidgetOptions = {
-  title: "$bwStr-exSu-UpcomingEvents",
-  showTitle: true,
-  displayDescription: false,
-  calendarServer: "http://events.library.nashville.org",
-  resourcesRoot: "undefined",
-  limitList: false,
-  limit: 5,
-  displayStartDateOnlyInList: true,
-  displayTimeInList: true,
-  displayLocationInList: false,
-  listMode: "byTitle",
-};
-  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
+  bwJsWidgetOptions.title = "Upcoming Events";
+  bwJsWidgetOptions.showTitle =  true;
+  bwJsWidgetOptions.listMode = false;
+  bwJsWidgetOptions.displayEndDateInList = true;
+  bwJsWidgetOptions.displayTimeInList = true;
+  bwJsWidgetOptions.displayLocationInList = false;
+  bwJsWidgetOptions.displayDateOrTitle = byTitle;
+  bwJsWidgetOptions.displayContactInDetails = true;
+  bwJsWidgetOptions.displayCostInDetails = true;
+  bwJsWidgetOptions.displayTagsInDetails = true;
+  bwJsWidgetOptions.displayTimezoneInDetails = true;
+
+  insertBwEvents("bwOutput");
 </script>
 </body>
 </html>
