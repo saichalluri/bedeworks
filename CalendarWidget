@@ -51,5 +51,28 @@ insertBwEvents("bwOutput");
 <!--end public policy calendar code-->
 
 
+Nashville Widget display
+<div id="bwOutput"></div>
+<script type="text/javascript" src="http://events.library.nashville.org/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
+<script type="text/javascript" src="http://events.library.nashville.org/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/Exhibits%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=10"> </script>
+<script type="text/javascript">
+var bwJsWidgetOptions = {
+  title: "$bwStr-exSu-UpcomingEvents",
+  showTitle: true,
+  displayDescription: false,
+  calendarServer: "http://events.library.nashville.org",
+  resourcesRoot: "undefined",
+  limitList: false,
+  limit: 5,
+  displayStartDateOnlyInList: true,
+  displayTimeInList: true,
+  displayLocationInList: false,
+  listMode: "byTitle",
+};
+  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
+</script>
+
+
+
 </body>
 </html>
