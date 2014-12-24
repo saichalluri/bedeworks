@@ -72,6 +72,28 @@ var bwJsWidgetOptions = {
   insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
 </script>
 
+More House school of medicine
+<div id="bwOutput"></div>
+<script type="text/javascript" src="http://calendar.msm.edu/3.9/urlbuilder/javascript/bedework/listEvents.js"> </script>
+<script type="text/javascript" src="http://calendar.msm.edu/webcache/v1.0/jsonDays/7/list-json/no--filter/bwObject.json"> </script>
+<script type="text/javascript">
+  bwJsWidgetOptions.title = "Upcoming Events";
+  bwJsWidgetOptions.showTitle = true;
+  bwJsWidgetOptions.displayDescription = false;
+  bwJsWidgetOptions.displayEventDetailsInline = false;
+  bwJsWidgetOptions.displayStartDateOnlyInList = true;
+  bwJsWidgetOptions.displayTimeInList = true;
+  bwJsWidgetOptions.displayLocationInList = false;
+  bwJsWidgetOptions.limitList = false;
+  bwJsWidgetOptions.limit = 5;
+  bwJsWidgetOptions.listMode = "byTitle";
+  bwJsWidgetOptions.displayContactInDetails = true;
+  bwJsWidgetOptions.displayCostInDetails = true;
+  bwJsWidgetOptions.displayTagsInDetails = true;
+  bwJsWidgetOptions.displayTimezoneInDetails = true;
+
+  insertBwEvents("bwOutput");
+</script>
 
 
 </body>
