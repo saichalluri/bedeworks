@@ -1,33 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-
-This is what widget code does out of the box:
-<div id="bwOutput"></div>
-<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
-<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=5"> </script>
-<script type="text/javascript">
-var bwJsWidgetOptions = {
-  title: "Columbia Bedeworks DEV UpcomingEvents Widget",
-  showTitle: true,
-  displayDescription: false,
-  calendarServer: "http://bedeworkdev01.cc.columbia.edu",
-  resourcesRoot: "undefined",
-  limitList: false,
-  limit: 5,
-  displayStartDateOnlyInList: true,
-  displayTimeInList: true,
-  displayLocationInList: false,
-  listMode: "byTitle",
-};
-  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
-</script>
-
-
 Widget from Rockefeller College website
  <!--begin public policy calendar code-->
 
-<div id="bwOutputOne"></div>
+<div id="bwOutput"></div>
 <script type="text/javascript" src="http://events.albany.edu/3.8/urlbuilder/javascript/bedework/listEvents.js"> </script>
 <script type="text/javascript" src="http://events.albany.edu/webcache/v1.0/jsonDays/10/list-json/%28catuid%3D%272962ac9d-3021b4cc-0130-2c96f754-00000d2e%27%29/bwObject.json"> </script>
 <script type="text/javascript">
@@ -43,57 +20,13 @@ bwJsWidgetOptions.displayCostInDetails = undefined;
 bwJsWidgetOptions.displayTagsInDetails = true;
 bwJsWidgetOptions.displayTimezoneInDetails = true;
 
-insertBwEvents("bwOutputOne");
+insertBwEvents("bwOutput");
 </script>
 
 <div>&nbsp;</div>
 
 <!--end public policy calendar code-->
 
-
-Nashville Widget display
-<div id="bwOutput"></div>
-<script type="text/javascript" src="http://events.library.nashville.org/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
-<script type="text/javascript" src="http://events.library.nashville.org/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/Exhibits%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=10"> </script>
-<script type="text/javascript">
-var bwJsWidgetOptions = {
-  title: "$bwStr-exSu-UpcomingEvents",
-  showTitle: true,
-  displayDescription: false,
-  calendarServer: "http://events.library.nashville.org",
-  resourcesRoot: "undefined",
-  limitList: false,
-  limit: 5,
-  displayStartDateOnlyInList: true,
-  displayTimeInList: true,
-  displayLocationInList: false,
-  listMode: "byTitle",
-};
-  insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
-</script>
-
-More House school of medicine
-<div id="bwOutput"></div>
-<script type="text/javascript" src="http://calendar.msm.edu/3.9/urlbuilder/javascript/bedework/listEvents.js"> </script>
-<script type="text/javascript" src="http://calendar.msm.edu/webcache/v1.0/jsonDays/7/list-json/no--filter/bwObject.json"> </script>
-<script type="text/javascript">
-  bwJsWidgetOptions.title = "Upcoming Events";
-  bwJsWidgetOptions.showTitle = true;
-  bwJsWidgetOptions.displayDescription = false;
-  bwJsWidgetOptions.displayEventDetailsInline = false;
-  bwJsWidgetOptions.displayStartDateOnlyInList = true;
-  bwJsWidgetOptions.displayTimeInList = true;
-  bwJsWidgetOptions.displayLocationInList = false;
-  bwJsWidgetOptions.limitList = false;
-  bwJsWidgetOptions.limit = 5;
-  bwJsWidgetOptions.listMode = "byTitle";
-  bwJsWidgetOptions.displayContactInDetails = true;
-  bwJsWidgetOptions.displayCostInDetails = true;
-  bwJsWidgetOptions.displayTagsInDetails = true;
-  bwJsWidgetOptions.displayTimezoneInDetails = true;
-
-  insertBwEvents("bwOutput");
-</script>
 
 
 </body>
