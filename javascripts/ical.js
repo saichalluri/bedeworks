@@ -1,7 +1,7 @@
 $.ajax({
             type: 'POST',
             contentType: "application/json",
-            url: *****ics file*****,
+            url: 'https://raw.githubusercontent.com/saichalluri/bedeworks/master/SundialDev.ics',
             dataType: "json",
             async: false,
             success: function(result) {
