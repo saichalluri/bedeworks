@@ -45,8 +45,8 @@
                                 for (var i = 0; i < info.length; i++) {
                                     var ev = info[i];
                                     var title = ev.summary;
-                                    var evtstart = $.fullCalendar.formatDate(new Date(ev.start.datetime), 'yyyy-MM-dd HH:mm:ss');
-                                    var evtend = $.fullCalendar.formatDate(new Date(ev.end.datetime), 'yyyy-MM-dd HH:mm:ss');
+                                    var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate).toISOString(), 'yyyy-MM-dd HH:mm:ss');
+                                    var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate).toISOString(), 'yyyy-MM-dd HH:mm:ss');
                                     var evid = ev.guid;
                                     var evurl = ev.eventlink
                                     events.push({
