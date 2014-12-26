@@ -1,0 +1,616 @@
+
+        {"bwEventList": {
+      
+        "resultSize": "89",
+        "paged": "true",
+        "events": [
+           
+          {
+            "summary" : "Christmas Day",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FBerkley",
+            "guid" : "20141225_60o30dr56go30c1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FBerkley&guid=20141225_60o30dr56go30c1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Thursday, December 25, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/25/14",
+              "longdate" : "December 25, 2014",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141225T050000Z",
+              "datetime" : "20141225",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/25/14",
+              "longdate" : "December 25, 2014",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141225T050000Z",
+              "datetime" : "20141225",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "Berkley",
+              "displayName" : "Berkley",
+              "path" : "/public/cals/Berkley",
+              "encodedPath" : "%2Fpublic%2Fcals%2FBerkley"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20140109T033259Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "Christmas Day",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FGHolidays",
+            "guid" : "20141225_60o30dr56go30c1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FGHolidays&guid=20141225_60o30dr56go30c1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Thursday, December 25, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/25/14",
+              "longdate" : "December 25, 2014",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141225T050000Z",
+              "datetime" : "20141225",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/25/14",
+              "longdate" : "December 25, 2014",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141225T050000Z",
+              "datetime" : "20141225",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "GHolidays",
+              "displayName" : "GHolidays",
+              "path" : "/public/cals/GHolidays",
+              "encodedPath" : "%2Fpublic%2Fcals%2FGHolidays"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20140109T033259Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "Day After Christmas Day",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FGHolidays",
+            "guid" : "20141226_60o30o9l74o3ac1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FGHolidays&guid=20141226_60o30o9l74o3ac1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Friday, December 26, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/26/14",
+              "longdate" : "December 26, 2014",
+              "dayname" : "Friday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141226T050000Z",
+              "datetime" : "20141226",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/26/14",
+              "longdate" : "December 26, 2014",
+              "dayname" : "Friday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141226T050000Z",
+              "datetime" : "20141226",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "GHolidays",
+              "displayName" : "GHolidays",
+              "path" : "/public/cals/GHolidays",
+              "encodedPath" : "%2Fpublic%2Fcals%2FGHolidays"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20141208T234453Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "Day After Christmas Day",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FBerkley",
+            "guid" : "20141226_60o30o9l74o3ac1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FBerkley&guid=20141226_60o30o9l74o3ac1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Friday, December 26, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/26/14",
+              "longdate" : "December 26, 2014",
+              "dayname" : "Friday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141226T050000Z",
+              "datetime" : "20141226",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/26/14",
+              "longdate" : "December 26, 2014",
+              "dayname" : "Friday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141226T050000Z",
+              "datetime" : "20141226",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "Berkley",
+              "displayName" : "Berkley",
+              "path" : "/public/cals/Berkley",
+              "encodedPath" : "%2Fpublic%2Fcals%2FBerkley"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20141208T234453Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "Columbia University Men's Basketball vs. COLGATE - 2:00 PM ET",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FMainCal",
+            "guid" : "CAL.5690466.20141228",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FMainCal&guid=CAL.5690466.20141228&recurrenceId=",
+            "status" : "",
+            "formattedDate" : "Sunday, December 28, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/28/14",
+              "longdate" : "December 28, 2014",
+              "dayname" : "Sunday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141228T050000Z",
+              "datetime" : "20141228",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/28/14",
+              "longdate" : "December 28, 2014",
+              "dayname" : "Sunday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141228T050000Z",
+              "datetime" : "20141228",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "LEVIEN GYMNASIUM",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "gocolumbialions.com The Official Athletics Website of Columbia University in the City of New York",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "MainCal",
+              "displayName" : "MainCal",
+              "path" : "/public/cals/MainCal",
+              "encodedPath" : "%2Fpublic%2Fcals%2FMainCal"
+            },
+            "categories" : [
+              "Athletics/Varsity Sports/Men"
+            ],
+            "description" : "Home",
+            "cost" : "",
+            "xproperties" : [
+              
+
+            ]
+         },
+          {
+            "summary" : "Columbia University Men's Basketball vs. St. Francis Brooklyn - 7:00 PM ET",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FMainCal",
+            "guid" : "CAL.5690180.20141231",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FMainCal&guid=CAL.5690180.20141231&recurrenceId=",
+            "status" : "",
+            "formattedDate" : "Tuesday, December 30, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/30/14",
+              "longdate" : "December 30, 2014",
+              "dayname" : "Tuesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141230T050000Z",
+              "datetime" : "20141230",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/30/14",
+              "longdate" : "December 30, 2014",
+              "dayname" : "Tuesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141230T050000Z",
+              "datetime" : "20141230",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "Brooklyn  N.Y.",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "gocolumbialions.com The Official Athletics Website of Columbia University in the City of New York",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "MainCal",
+              "displayName" : "MainCal",
+              "path" : "/public/cals/MainCal",
+              "encodedPath" : "%2Fpublic%2Fcals%2FMainCal"
+            },
+            "categories" : [
+              "Athletics/Varsity Sports/Men"
+            ],
+            "description" : "Away",
+            "cost" : "",
+            "xproperties" : [
+              
+
+            ]
+         },
+          {
+            "summary" : "New Year's Eve",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FGHolidays",
+            "guid" : "20141231_60o30dr4coo30c1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FGHolidays&guid=20141231_60o30dr4coo30c1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Wednesday, December 31, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/31/14",
+              "longdate" : "December 31, 2014",
+              "dayname" : "Wednesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141231T050000Z",
+              "datetime" : "20141231",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/31/14",
+              "longdate" : "December 31, 2014",
+              "dayname" : "Wednesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141231T050000Z",
+              "datetime" : "20141231",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "GHolidays",
+              "displayName" : "GHolidays",
+              "path" : "/public/cals/GHolidays",
+              "encodedPath" : "%2Fpublic%2Fcals%2FGHolidays"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20140109T033259Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "New Year's Eve",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FBerkley",
+            "guid" : "20141231_60o30dr4coo30c1g60o30dr4ck%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FBerkley&guid=20141231_60o30dr4coo30c1g60o30dr4ck%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Wednesday, December 31, 2014 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "12/31/14",
+              "longdate" : "December 31, 2014",
+              "dayname" : "Wednesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141231T050000Z",
+              "datetime" : "20141231",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "12/31/14",
+              "longdate" : "December 31, 2014",
+              "dayname" : "Wednesday",
+              "time" : "12:00 AM",
+              "utcdate" : "20141231T050000Z",
+              "datetime" : "20141231",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "Berkley",
+              "displayName" : "Berkley",
+              "path" : "/public/cals/Berkley",
+              "encodedPath" : "%2Fpublic%2Fcals%2FBerkley"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20140109T033259Z"
+                  }
+                }
+              }
+
+            ]
+         },
+          {
+            "summary" : "2015 Astro Calendar Coming Soon!",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FAstronomy",
+            "guid" : "99486E49-00DA-4D90-9C63-1E5E3790C727",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FAstronomy&guid=99486E49-00DA-4D90-9C63-1E5E3790C727&recurrenceId=",
+            "status" : "",
+            "formattedDate" : "Thursday, January 1, 2015 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "1/1/15",
+              "longdate" : "January 1, 2015",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20150101T050000Z",
+              "datetime" : "20150101",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "1/1/15",
+              "longdate" : "January 1, 2015",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20150101T050000Z",
+              "datetime" : "20150101",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "Astronomy",
+              "displayName" : "Astronomy",
+              "path" : "/public/cals/Astronomy",
+              "encodedPath" : "%2Fpublic%2Fcals%2FAstronomy"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "Hello, and HAPPY NEW YEAR!\nCanton (canton@gmail.com) will be adding your 2015 calendar events during the last week of 2014. Feel free to email him any suggestions. \n\nIf you added this ICS calendar feed as a \"subscription\" instead of a one-time import, then new events should automatically flow into your calendar once they are made available.",
+            "cost" : "",
+            "xproperties" : [
+              
+
+            ]
+         },
+          {
+            "summary" : "New Year's Day",
+            "subscriptionId" : "",
+            "calPath" : "%2Fpublic%2Fcals%2FBerkley",
+            "guid" : "20150101_60o30dr46oo30c1g60o30dr4co%40google.com",
+            "recurrenceId" : "",
+            "link" : "",
+            "eventlink" : "http://bedeworkdev01.cc.columbia.edu/feeder/feeder/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FBerkley&guid=20150101_60o30dr46oo30c1g60o30dr4co%40google.com&recurrenceId=",
+            "status" : "CONFIRMED",
+            "formattedDate" : "Thursday, January 1, 2015 (all day)",
+            "start" : {
+              "allday" : "true",
+              "shortdate" : "1/1/15",
+              "longdate" : "January 1, 2015",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20150101T050000Z",
+              "datetime" : "20150101",
+              "timezone" : ""
+            },
+            "end" : {
+              "allday" : "true",
+              "shortdate" : "1/1/15",
+              "longdate" : "January 1, 2015",
+              "dayname" : "Thursday",
+              "time" : "12:00 AM",
+              "utcdate" : "20150101T050000Z",
+              "datetime" : "20150101",
+              "timezone" : ""
+            },
+            "location" : {
+              "address" : "",
+              "link" : ""
+            },
+            "contact" : {
+              "name" : "",
+              "phone" : "",
+              "link" : ""
+            },
+            "calendar" : {
+              "name" : "Berkley",
+              "displayName" : "Berkley",
+              "path" : "/public/cals/Berkley",
+              "encodedPath" : "%2Fpublic%2Fcals%2FBerkley"
+            },
+            "categories" : [
+              
+            ],
+            "description" : "",
+            "cost" : "",
+            "xproperties" : [
+              
+              {
+                "LAST_MODIFIED" : {
+                  "values" : {
+                     
+                       "text" : "20140109T033259Z"
+                  }
+                }
+              }
+
+            ]
+         }
+        ]
+    }}
+  
