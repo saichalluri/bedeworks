@@ -24,7 +24,22 @@
            },
            'dataType': 'jsonp',
            'success': function(response) {
-             console.log(response.query.results.bwEventList.events);
+               var events = [];
+               var info = response.query.results.bwEventList.events;
+               console.log(response.query.results.bwEventList.events);
+               for (var i = 0; i < info.length; i++) {
+                     var ev = info[i];
+                     var title = ev.summary;
+                     var evtstart = new Date(Date.parse(ev.start.shortdate));
+                     var evtend = new Date(Date.parse(ev.end.shortdate));
+                     var evid = ev.guid;
+                     events.push({
+                         title: title,
+                         start: evtstart,
+                         end: evtend,
+                         id: evid
+                     });
+                 }
              
            },
          });
