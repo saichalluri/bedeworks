@@ -17,10 +17,10 @@ $('#calendar').fullCalendar({
             cache: false,
             crossDomain: true,
             dataType: 'jsonp',
-            callbackParameter: "callback",
+            //callbackParameter: "callback",
             success: function (doc) {
                 eval("var j=" + doc);
-                console.log(j)
+                //console.log(j)
                 var events = [];
                 var info = j.events;
                 for (var i = 0; i < info.length; i++) {
