@@ -19,7 +19,7 @@
              crossDomain: true,
              dataType: 'jsonp',
              success: function (doc) {
-                 eval("var j=" + doc);
+                 //eval("var j=" + doc);
                  var events = [];
                  var info = j.events;
                  for (var i = 0; i < info.length; i++) {
