@@ -10,44 +10,31 @@
  <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
  <script>
     $(document).ready(function() {
-       $('#calendar').fullCalendar({
-     events: function (start, end, callback) {
+       events: function (start, end, callback) {
+         var url = 'http://google.com/calendar/feeds/test@group.calendar.google.com/public/full?alt=json';
          $.ajax({
-             url: "https://raw.githubusercontent.com/saichalluri/bedeworks/master/SundialDevJSON.html",
-             cache: false,
-             crossDomain: true,
+             url: url,
              dataType: 'jsonp',
-             callbackParameter: "callback",
-             success: function (doc) {
-                 eval("var j=" + doc);
-                 console.log(j)
-                 var events = [];
-                 var info = j.events;
-                 for (var i = 0; i < info.length; i++) {
-                     var ev = info[i];
-                     var title = ev.summary;
-                     var evtstart = ev.start.shortdate;
-                     var evtend = ev.end.shortdate;
-                     var evid = ev.guid;
-                     events.push({
-                         title: title,
-                         start: evtstart,
-                         end: evtend,
-                         id: evid
-                     });
+             success: function(response){
+                 var googleEvents = new Array();
+                 for(var i = 0; i < response.feed.entry.length; i ++){
+                     googleEvents[i] = {
+                         title : response.feed.entry[i].title.$t,
+                         start: response.feed.entry[i].gd$when[0].startTime,
+                         end: response.feed.entry[i].gd$when[0].endTime
+                     };
                  }
-               
-             },
-             error: function () {
-                 alert('sdf')
+                 //init events
+                 calendar = $('#calendar-container').fullCalendar({
+                     events: googleEvents
+                 });
              }
-         })
+         });
      }
- })
 });
 </script>
 </head>
 <body>
-<div id='calendar'></div>
+<div id='calendar-container'></div>
 </body>
 </html>
