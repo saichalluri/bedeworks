@@ -17,7 +17,7 @@
              cache: false,
              crossDomain: true,
              dataType: 'jsonp',
-             
+             callbackParameter: "callback",
              success: function (doc) {
                  eval("var j=" + doc);
                  console.log(j)
