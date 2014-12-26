@@ -1,61 +1,62 @@
 <!DOCTYPE html>
- <html>
- <head>
- <title>My Page</title>
- <meta name="viewport" content="width=device-width, initial-scale=1"/>
- <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
- <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
- <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
- <script type='text/javascript' src='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.min.js'></script>
- <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
- <script>
-    $(document).ready(function() {
-       $('#calendar').fullCalendar({
-        	header: {
-           left: 'prev,next today',
-           center: 'title',
-           right: 'month,basicWeek,basicDay'
-           }, 
-      events: function (start, end, callback) {
-      var yql_url = 'https://query.yahooapis.com/v1/public/yql';
-      var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=10';
-      
-      $.ajax({
-           'url': yql_url,
-           'data': {
-             'q': 'SELECT * FROM json WHERE url="'+url+'"',
-             'format': 'json',
-             'jsonCompat': 'new',
-           },
-           'dataType': 'jsonp',
-           'success': function(response) {
-               var events = [];
-               var info = response.query.results.bwEventList.events;
-               console.log(response.query.results.bwEventList.events);
-               for (var i = 0; i < info.length; i++) {
-                     var ev = info[i];
-                     var title = ev.summary;
-                     var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
-                     var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
-                     var evid = ev.guid;
-                     events.push({
-                         title: title,
-                         start: evtstart,
-                         end: evtend,
-                         id: evid
-                     });
-                 }
-                 console.log(events);
-             callback(events);
-           },
-         });
-         
-     }
- })
-});
-</script>
+<html>
+
+<head>
+    <title>My Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+    <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+    <script type='text/javascript' src='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.min.js'></script>
+    <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
+    <script>
+        $(document).ready(function() {
+            $('#calendar').fullCalendar({
+                header: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'month,basicWeek,basicDay'
+                },
+                events: function(start, end, callback) {
+                    var yql_url = 'https://query.yahooapis.com/v1/public/yql';
+                    var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=10';
+                    $.ajax({
+                        'url': yql_url,
+                        'data': {
+                            'q': 'SELECT * FROM json WHERE url="' + url + '"',
+                            'format': 'json',
+                            'jsonCompat': 'new',
+                        },
+                        'dataType': 'jsonp',
+                        'success': function(response) {
+                            var events = [];
+                            var info = response.query.results.bwEventList.events;
+                            console.log(response.query.results.bwEventList.events);
+                            for (var i = 0; i < info.length; i++) {
+                                var ev = info[i];
+                                var title = ev.summary;
+                                var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
+                                var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
+                                var evid = ev.guid;
+                                events.push({
+                                    title: title,
+                                    start: evtstart,
+                                    end: evtend,
+                                    id: evid
+                                });
+                            }
+                            console.log(events);
+                            callback(events);
+                        },
+                    });
+                }
+            })
+        });
+    </script>
 </head>
+
 <body>
-<div id='calendar'></div>
+    <div id='calendar'></div>
 </body>
+
 </html>
