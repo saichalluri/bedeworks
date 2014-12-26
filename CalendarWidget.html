@@ -24,7 +24,8 @@
            },
            'dataType': 'jsonp',
            'success': function(response) {
-             console.log(response.events);
+             eval("var j=" + doc);
+             console.log(j.events);
            },
          });
          
