@@ -38,17 +38,25 @@
                                 var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
                                 var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
                                 var evid = ev.guid;
+                                var evurl = ev.eventlink
                                 events.push({
                                     title: title,
                                     start: evtstart,
                                     end: evtend,
-                                    id: evid
+                                    id: evid,
+                                    url: evurl
                                 });
                             }
                             console.log(events);
                             callback(events);
                         },
                     });
+                },
+                eventClick: function(event) {
+                    if (event.url) {
+                        window.open(event.url);
+                        return false;
+                    }
                 }
             })
         });
