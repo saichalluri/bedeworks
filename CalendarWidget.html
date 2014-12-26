@@ -30,26 +30,30 @@
                         },
                         'dataType': 'jsonp',
                         'success': function(response) {
-                            var events = [];
-                            var info = response.query.results.bwEventList.events;
-                            console.log(response.query.results.bwEventList.events);
-                            for (var i = 0; i < info.length; i++) {
-                                var ev = info[i];
-                                var title = ev.summary;
-                                var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
-                                var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
-                                var evid = ev.guid;
-                                var evurl = ev.eventlink
-                                events.push({
-                                    title: title,
-                                    start: evtstart,
-                                    end: evtend,
-                                    id: evid,
-                                    url: evurl
-                                });
+                            if (response.error) {
+                                console.log(response.error.description);
+                            } else {
+                                var events = [];
+                                var info = response.query.results.bwEventList.events;
+                                console.log(response.query.results.bwEventList.events);
+                                for (var i = 0; i < info.length; i++) {
+                                    var ev = info[i];
+                                    var title = ev.summary;
+                                    var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
+                                    var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
+                                    var evid = ev.guid;
+                                    var evurl = ev.eventlink
+                                    events.push({
+                                        title: title,
+                                        start: evtstart,
+                                        end: evtend,
+                                        id: evid,
+                                        url: evurl
+                                    });
+                                }
+                                console.log(events);
+                                callback(events);
                             }
-                            console.log(events);
-                            callback(events);
                         },
                     });
                 },
