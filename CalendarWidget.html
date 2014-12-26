@@ -10,12 +10,18 @@
  <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
  <script src='../javascripts/ical.js'></script>
  <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
     $('#calendar').fullCalendar({
+        theme: true,
+        header: {
+            left: 'prev,next today',
+            center: 'title',
+            right: 'month,agendaWeek,agendaDay'
+        },
         defaultDate: '2014-11-13',
         editable: true,
         eventLimit: true, // allow "more" link when too many events
-        events: function (start, end, timezone, callback) {
+        events:function (start, end, timezone, callback) {
             $.ajax({
                 url: "http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=10",
                 dataType: 'json',
@@ -37,8 +43,9 @@
                     alert('Failed!');
                 },
             });
-        }});
+        };
     });
+});
 </script>
 </head>
 <body>
