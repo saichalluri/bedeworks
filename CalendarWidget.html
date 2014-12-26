@@ -30,8 +30,8 @@
                for (var i = 0; i < info.length; i++) {
                      var ev = info[i];
                      var title = ev.summary;
-                     var evtstart = new Date(Date.parse(ev.start.shortdate));
-                     var evtend = new Date(Date.parse(ev.end.shortdate));
+                     var evtstart = ev.start.shortdate;
+                     var evtend = ev.end.shortdate;
                      var evid = ev.guid;
                      events.push({
                          title: title,
