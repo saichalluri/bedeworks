@@ -10,8 +10,7 @@
  <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
  <script>
     $(document).ready(function() {
-       events: function (start, end, callback) {
-         var url = 'http://google.com/calendar/feeds/test@group.calendar.google.com/public/full?alt=json';
+       var url = 'http://google.com/calendar/feeds/test@group.calendar.google.com/public/full?alt=json';
          $.ajax({
              url: url,
              dataType: 'jsonp',
@@ -30,7 +29,6 @@
                  });
              }
          });
-     }
 });
 </script>
 </head>
