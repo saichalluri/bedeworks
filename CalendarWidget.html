@@ -20,7 +20,7 @@
                 },
                 events: function(start, end, callback) {
                     var yql_url = 'https://query.yahooapis.com/v1/public/yql';
-                    var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=200&start=20141201&end=20150630';
+                    var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=%28categories.href!=%22/public/.bedework/categories/sys/Ongoing%22%29%20and%20%28entity_type=%22event%22|entity_type=%22todo%22%29&skinName=list-json&count=200&start=20141201&end=20150303';
                     $.ajax({
                         'url': yql_url,
                         'data': {
