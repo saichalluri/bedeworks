@@ -9,10 +9,40 @@
  <script type='text/javascript' src='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.min.js'></script>
  <link rel='stylesheet' type='text/css' href='http://arshaw.com/js/fullcalendar-1.5.4/fullcalendar/fullcalendar.css' />
  <script>
-    
-$('#calendar').fullCalendar({
-    
-})
+    $(document).ready(function() {
+       $('#calendar').fullCalendar({
+     events: function (start, end, callback) {
+         $.ajax({
+             url: "http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=10",
+             cache: false,
+             crossDomain: true,
+             dataType: 'jsonp',
+             success: function (doc) {
+                 //eval("var j=" + doc);
+                 var events = [];
+                 var info = j.events;
+                 for (var i = 0; i < info.length; i++) {
+                     var ev = info[i];
+                     var title = ev.summary;
+                     var evtstart = new Date(Date.parse(ev.start.shortdate));
+                     var evtend = new Date(Date.parse(ev.end.shortdate));
+                     var evid = ev.guid;
+                     events.push({
+                         title: title,
+                         start: evtstart,
+                         end: evtend,
+                         id: evid
+                     });
+                 }
+                 callback(events);
+             },
+             error: function () {
+                 alert('sdf')
+             }
+         })
+     }
+ })
+});
 </script>
 </head>
 <body>
