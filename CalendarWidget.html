@@ -30,8 +30,8 @@
                for (var i = 0; i < info.length; i++) {
                      var ev = info[i];
                      var title = ev.summary;
-                     var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyyy');
-                     var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyyy');
+                     var evtstart = $.fullCalendar.formatDate(new Date(ev.start.longdate), 'MM-dd-yyyy');
+                     var evtend = $.fullCalendar.formatDate(new Date(ev.end.longdate), 'MM-dd-yyyy');
                      var evid = ev.guid;
                      events.push({
                          title: title,
