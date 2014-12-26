@@ -24,12 +24,8 @@
            },
            'dataType': 'jsonp',
            'success': function(response) {
-             console.log(response);
-             var events = [];
-             var info = response.events;
-                 for (var i = 0; i < info.length; i++) {
-                 console.log(info[i]);
-                 }
+             console.log(response.query);
+             
            },
          });
          
