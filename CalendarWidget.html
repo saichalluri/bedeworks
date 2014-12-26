@@ -16,6 +16,7 @@
          $.ajax({
              url: "https://raw.githubusercontent.com/saichalluri/bedeworks/master/SundialDevJSON",
              cache: false,
+             crossDomain: true,
              success: function (doc) {
                  eval("var j=" + doc);
                  var events = [];
