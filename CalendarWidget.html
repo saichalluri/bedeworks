@@ -63,9 +63,10 @@
                                 console.log(events);
                                 
                             }
-                            callback(events);
+                            
                         },
                     });
+                    callback(events);
                 },
                 eventRender: function(event, element, view) {
                         var ntoday = new Date().getTime();
