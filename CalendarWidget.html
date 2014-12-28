@@ -19,11 +19,11 @@
                     right: 'month,basicWeek,basicDay'
                 },
                 // add event name to title attribute on mouseover
-                eventMouseover: function(event, jsEvent, view) {
-                    if (view.name !== 'agendaDay') {
-                        $(jsEvent.target).attr('title', event.title);
-                    }
-                },
+                //eventMouseover: function(event, jsEvent, view) {
+                //    if (view.name !== 'agendaDay') {
+                //        $(jsEvent.target).attr('title', event.title);
+                //    }
+                //},
                 events: function(start, end, timezone, callback) {
                     var yql_url = 'https://query.yahooapis.com/v1/public/yql';
                     var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=101&start=20141201&end=20150226';
@@ -44,14 +44,14 @@
                                 console.log(response.query.results.bwEventList.events);
                                 for (var i = 0; i < info.length; i++) {
                                     var ev = info[i];
-                                    var title = ev.summary;
+                                    var evtitle = ev.summary;
                                     var evtstart = new Date(ev.start.longdate).toISOString();
                                     var evtend = new Date(ev.end.longdate).toISOString();
                                     var evid = ev.guid;
                                     var evurl = ev.eventlink;
                                     var evallday = ev.start.allDay;
                                     events.push({
-                                        title: title,
+                                        title: evtitle,
                                         start: evtstart,
                                         end: evtend,
                                         id: evid,
