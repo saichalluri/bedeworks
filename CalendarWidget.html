@@ -36,10 +36,11 @@
                         },
                         'dataType': 'jsonp',
                         'success': function(response) {
+                            var events = [];
                             if (response.error) {
                                 console.log(response.error.description);
                             } else {
-                                var events = [];
+                                
                                 var info = response.query.results.bwEventList.events;
                                 console.log(response.query.results.bwEventList.events);
                                 for (var i = 0; i < info.length; i++) {
@@ -60,8 +61,9 @@
                                     });
                                 }
                                 console.log(events);
-                                //callback(events);
+                                
                             }
+                            callback(events);
                         },
                     });
                 },
