@@ -48,12 +48,14 @@
                                     var evtstart = new Date(ev.start.longdate).toISOString();
                                     var evtend = new Date(ev.end.longdate).toISOString();
                                     var evid = ev.guid;
-                                    var evurl = ev.eventlink
+                                    var evurl = ev.eventlink;
+                                    var evallday = ev.allDay;
                                     events.push({
                                         title: title,
                                         start: evtstart,
                                         end: evtend,
                                         id: evid,
+                                        allDay:evallday,
                                         //url: evurl
                                     });
                                 }
