@@ -49,7 +49,7 @@
                                     var evtend = new Date(ev.end.longdate).toISOString();
                                     var evid = ev.guid;
                                     var evurl = ev.eventlink;
-                                    var evallday = ev.allDay;
+                                    var evallday = ev.start.allDay;
                                     events.push({
                                         title: title,
                                         start: evtstart,
