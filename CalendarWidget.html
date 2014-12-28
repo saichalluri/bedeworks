@@ -8,7 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.js"></script>
     <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
-    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.js'></script>
     <link rel='stylesheet' type='text/css' href='http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.css' />
     <script>
         $(document).ready(function() {
@@ -27,7 +27,6 @@
                 events: function(start, end, callback) {
                     var yql_url = 'https://query.yahooapis.com/v1/public/yql';
                     var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=101&start=20141201&end=20150226';
-                    var events = [];
                     $.ajax({
                         'url': yql_url,
                         'data': {
@@ -37,11 +36,10 @@
                         },
                         'dataType': 'jsonp',
                         'success': function(response) {
-                            
                             if (response.error) {
                                 console.log(response.error.description);
                             } else {
-                                
+                                var events = [];
                                 var info = response.query.results.bwEventList.events;
                                 console.log(response.query.results.bwEventList.events);
                                 for (var i = 0; i < info.length; i++) {
@@ -62,12 +60,11 @@
                                     });
                                 }
                                 console.log(events);
-                                
+                                callback(events);
                             }
-                            
                         },
                     });
-                    callback(events);
+                    
                 },
                 eventRender: function(event, element, view) {
                         var ntoday = new Date().getTime();
