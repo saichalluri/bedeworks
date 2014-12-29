@@ -19,29 +19,24 @@
     </style>
   </head>
   <body>
-<div id="bwOutput" class="calendar" style="min-height: 101%;"></div>
-<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
-<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=5"> </script>
+<div id="bwOutput"></div>
+<script type="text/javascript" src="undefined/javascript/eventListWidget.js"> </script>
+<script type="text/javascript" src="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&setappvar=dl(false)&setappvar=details(true)&count=170"> </script>
 <script type="text/javascript">
 var bwJsWidgetOptions = {
-  title: "Columbia Bedeworks DEV UpcomingEvents Widget",
+  title: "$bwStr-exSu-UpcomingEvents",
   showTitle: true,
-  displayDescription: false,
+  displayDescription: true,
   calendarServer: "http://bedeworkdev01.cc.columbia.edu",
   resourcesRoot: "undefined",
   limitList: false,
   limit: 5,
   displayStartDateOnlyInList: true,
   displayTimeInList: true,
-  displayLocationInList: false,
+  displayLocationInList: true,
   listMode: "byTitle",
 };
   insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
 </script>
-
-
-<a href="http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-rss&count=90"><strong>Columbia Dev Upcoming Events RSS Feed URL</strong></a>
-
-
 </body>
 </html>
