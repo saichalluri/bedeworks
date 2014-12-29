@@ -67,29 +67,9 @@
                     });
                     
                 },
-                eventRender: function(event, element, view) {
-                        var ntoday = new Date().getTime();
-                        var eventEnd = moment(event.end).valueOf();
-                        var eventStart = moment(event.start).valueOf();
-                        if (!event.end) {
-                            if (eventStart < ntoday) {
-                                element.addClass("past-event");
-                                element.children().addClass("past-event");
-                                //console.log("past-event");
-                            }
-                        } else {
-                            if (eventEnd < ntoday) {
-                                element.addClass("past-event");
-                                element.children().addClass("past-event");
-                                //console.log("past-event");
-                            }
-                        }
-                        if (event.allDay === true) {
-                            element.addClass("allday-event");
-                            element.children().addClass("allday-event");
-                            //console.log("allday-event");
-                        }
-                    }
+                eventRender: function (event, element) {
+		    element.find('.fc-event-title').html(event.title);
+		}
                     // The URL provided by Bedework JSON feed does not work
                     //eventClick: function(event) {
                     //    if (event.url) {
