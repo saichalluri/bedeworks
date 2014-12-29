@@ -540,7 +540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75400@columbia.edu
 SUMMARY: SIPA event by SAI                                                     
-DESCRIPTION: SIPA event by SAI Full Description/Summary changed                    
+DESCRIPTION: SIPA event by SAI Full Description/Summary changed AGAIN                    
 DTSTART;TZID=America/New_York:20150108T10000000
 DTEND;TZID=America/New_York:20150108T12000000
 LOCATION:Columbia Morning side campus
