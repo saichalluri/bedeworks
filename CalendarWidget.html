@@ -44,22 +44,21 @@
                                 console.log(response.query.results.bwEventList.events);
                                 for (var i = 0; i < info.length; i++) {
                                     var ev = info[i];
-                                    var evtitle = ev.summary;
-                                    console.log("Title received : " + evtitle);
+                                    var title = ev.summary;
                                     var evtstart = new Date(ev.start.longdate).toISOString();
                                     var evtend = new Date(ev.end.longdate).toISOString();
                                     var evid = ev.guid;
                                     var evurl = ev.eventlink;
                                     var evallday = Boolean(ev.start.allDay);
                                     events.push({
-                                        title: evtitle,
+                                        title: title,
                                         start: evtstart,
                                         end: evtend,
                                         id: evid,
                                         allDay:evallday,
                                         //url: evurl
                                     });
-                                    console.log("Title set : " + events[i].title);
+									console.log("Title set : " + events[i].title);
                                 }
                                 console.log(events);
                                 callback(events);
@@ -67,8 +66,30 @@
                         },
                     });
                     
-                }//,
-                
+                },
+                eventRender: function(event, element, view) {
+                        var ntoday = new Date().getTime();
+                        var eventEnd = moment(event.end).valueOf();
+                        var eventStart = moment(event.start).valueOf();
+                        if (!event.end) {
+                            if (eventStart < ntoday) {
+                                element.addClass("past-event");
+                                element.children().addClass("past-event");
+                                //console.log("past-event");
+                            }
+                        } else {
+                            if (eventEnd < ntoday) {
+                                element.addClass("past-event");
+                                element.children().addClass("past-event");
+                                //console.log("past-event");
+                            }
+                        }
+                        if (event.allDay === true) {
+                            element.addClass("allday-event");
+                            element.children().addClass("allday-event");
+                            //console.log("allday-event");
+                        }
+                    }
                     // The URL provided by Bedework JSON feed does not work
                     //eventClick: function(event) {
                     //    if (event.url) {
@@ -80,7 +101,12 @@
         });
     </script>
     <style>
-       
+        body {
+            margin: 40px 10px;
+            padding: 0;
+            font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+            
+        }
         #calendar {
             max-width: 900px;
             margin: 0 auto;
