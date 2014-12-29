@@ -53,7 +53,6 @@
                                     var evallday = Boolean(ev.start.allDay);
                                     events.push({
                                         title: evtitle,
-                                        console.log("Title set : " + title);
                                         start: evtstart,
                                         end: evtend,
                                         id: evid,
@@ -62,6 +61,9 @@
                                     });
                                 }
                                 console.log(events);
+                                 $(events).each(function() {
+                                     console.log("Title set : " + $(this).attr('title'));
+                                 }
                                 callback(events);
                             }
                         },
