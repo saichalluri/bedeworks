@@ -18,12 +18,12 @@
                     center: 'title',
                     right: 'month,basicWeek,basicDay'
                 },
-                // add event name to title attribute on mouseover
-                //eventMouseover: function(event, jsEvent, view) {
-                //    if (view.name !== 'agendaDay') {
-                //        $(jsEvent.target).attr('title', event.title);
-                //    }
-                //},
+                 add event name to title attribute on mouseover
+                eventMouseover: function(event, jsEvent, view) {
+                    if (view.name !== 'agendaDay') {
+                        $(jsEvent.target).attr('title', event.title);
+                    }
+                },
                 events: function(start, end, timezone, callback) {
                     var yql_url = 'https://query.yahooapis.com/v1/public/yql';
                     var url = 'http://bedeworkdev01.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=101&start=20141201&end=20150226';
@@ -78,12 +78,7 @@
         });
     </script>
     <style>
-        body {
-            margin: 40px 10px;
-            padding: 0;
-            font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
-            
-        }
+       
         #calendar {
             max-width: 900px;
             margin: 0 auto;
