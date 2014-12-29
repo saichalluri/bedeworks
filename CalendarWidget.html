@@ -59,11 +59,9 @@
                                         allDay:evallday,
                                         //url: evurl
                                     });
+                                    console.log("Title set : " + events[i].title);
                                 }
                                 console.log(events);
-                                 $(events).each(function() {
-                                     console.log("Title set : " + $(this).attr('title'));
-                                 )};
                                 callback(events);
                             }
                         },
