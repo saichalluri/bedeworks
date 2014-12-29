@@ -45,6 +45,7 @@
                                 for (var i = 0; i < info.length; i++) {
                                     var ev = info[i];
                                     var evtitle = ev.summary;
+                                    console.log("Title received : " + evtitle);
                                     var evtstart = new Date(ev.start.longdate).toISOString();
                                     var evtend = new Date(ev.end.longdate).toISOString();
                                     var evid = ev.guid;
@@ -52,6 +53,7 @@
                                     var evallday = Boolean(ev.start.allDay);
                                     events.push({
                                         title: evtitle,
+                                        console.log("Title set : " + title);
                                         start: evtstart,
                                         end: evtend,
                                         id: evid,
