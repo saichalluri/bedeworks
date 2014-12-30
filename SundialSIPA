@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:sundial_75320@columbia.edu
 SUMMARY: IFEP Annual Gala - faculty/staff/guests                               
-DESCRIPTION: You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75320': You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotos Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -32,12 +32,11 @@ DTEND;TZID=America/New_York:20141201T22000000
 LOCATION:The Lotos Club, 5 East 66th Street, New York, NY 10065
 CONTACT:cc3662@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75320','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75316@columbia.edu
 SUMMARY: IFEP Annual Gala -- students                                          
-DESCRIPTION: You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75316': You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotos Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -50,12 +49,11 @@ DTEND;TZID=America/New_York:20141201T22000000
 LOCATION:The Lotos Club, 5 East 66th Street, New York, NY 10065
 CONTACT:cc3662@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75316','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75319@columbia.edu
 SUMMARY: IFEP Annual Gala -- alumni                                            
-DESCRIPTION: You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75319': You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotus Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -66,7 +64,6 @@ DTEND;TZID=America/New_York:20141201T22000000
 LOCATION:The Lotus Club, 5 East 66th Street, New York, NY 10065
 CONTACT:cc3662@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75319','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74659@columbia.edu
@@ -96,12 +93,11 @@ DTEND;TZID=America/New_York:20141202T18000000
 LOCATION:Columbia University Morningside Campus Union Theological Seminary, Room 207
 CONTACT:nrudder@ei.columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74611@columbia.edu
 SUMMARY: PEPM Online Information Session                                       
-DESCRIPTION: Please join us for our online information session on December 3,      
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74611': Please join us for our online information session on December 3,      
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -121,13 +117,12 @@ DTEND;TZID=America/New_York:20141203T10000000
 LOCATION:Online
 CONTACT:pepm@columbia.edu
 URL:http://sipa.adobeconnect.com/r82pt4h7ks2/
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74611','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_73410@columbia.edu
 SUMMARY: Origins of Environmental Law Lecture Series: Congress Today: The Role 
  of Campaign Finance on Environmental Legislation                      
-DESCRIPTION: The Earth Institute presents Origins of Environmental Law Lecture     
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=73410': The Earth Institute presents Origins of Environmental Law Lecture     
  Series Description Introduction to Early Environmental Legislation,   
  Pre-1969. nbsp This seminar is part of a semester-long lecture series 
  entitled The Origins of Environmental Law Regulation and Evolution.   
@@ -156,7 +151,6 @@ DTEND;TZID=America/New_York:20141203T12500000
 LOCATION:Columbia University, Morningside Campus, International Affairs Building, Room 407
 CONTACT:hmartinez@ei.columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=73410','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75377@columbia.edu
@@ -197,13 +191,12 @@ DTEND;TZID=America/New_York:20141203T18000000
 LOCATION:International Affairs Building, Room 1512
 CONTACT:zid2000@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75353@columbia.edu
 SUMMARY: Sustainable Development Seminar Series: Impacts of Agricultural       
  Practices on Atmospheric Chemistry, Climate and Health                
-DESCRIPTION: The Earth Institute presents the second of the 2014-2015 Sustainable  
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75353': The Earth Institute presents the second of the 2014-2015 Sustainable  
  Development Seminar Series, Impacts of Agricultural Practices on      
  Atmospheric Chemistry, Climate and Health, with Susanne Bauer,        
  Research Scientist, Center for Climate Systems Research, NASA Goddard 
@@ -242,7 +235,6 @@ DTEND;TZID=America/New_York:20141203T18000000
 LOCATION:Columbia University, Morningside Campus, Alfred J. Lerner Hall, Satow Room
 CONTACT:pvreeland@ei.columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75353','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74766@columbia.edu
@@ -256,7 +248,6 @@ DTEND;TZID=America/New_York:20141203T20000000
 LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
 CONTACT:lem2111@columbia.edu
 URL:http://www.columbia.edu/cu/weai/Calendar/calendar_december14.html
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75383@columbia.edu
@@ -271,13 +262,12 @@ DTEND;TZID=America/New_York:20141204T13000000
 LOCATION:International Affairs Building, Room 1219
 CONTACT:zid2000@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75357@columbia.edu
 SUMMARY: The Impact of Sanctions on Russia's Energy Economy and the Global     
  Energy Market                                                         
-DESCRIPTION: Please join the Center on Global Energy Policy for a discussion with  
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75357': Please join the Center on Global Energy Policy for a discussion with  
  Dr. James Henderson, Senior Research Fellow, the Oxford Institute for 
  Energy Studies. Dr. Henderson will discuss the U.S. and European      
  sanctions imposed against Russia in light of the Ukraine crisis and   
@@ -295,7 +285,6 @@ DTEND;TZID=America/New_York:20141204T13450000
 LOCATION:International Affairs Building, Room 1501
 CONTACT:kwei@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75357','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75382@columbia.edu
@@ -311,7 +300,6 @@ DTEND;TZID=America/New_York:20141204T18000000
 LOCATION:Jerome Greene Hall, Room 107
 CONTACT:omj2101@columbia.edu
 URL:http://http://web.law.columbia.edu/human-rights-institute
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_73768@columbia.edu
@@ -361,13 +349,12 @@ DTEND;TZID=America/New_York:20141205T17000000
 LOCATION:Columbia Law School (Room TBD)
 CONTACT:pcunha@law.columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74651@columbia.edu
 SUMMARY: Undergraduate Program in Sustainable Development Speaker Series:      
  Center for Career Education (CCE)                                     
-DESCRIPTION: The Earth Institute and the Undergraduate Program in Sustainability   
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74651': The Earth Institute and the Undergraduate Program in Sustainability   
  present the Undergraduate Program in Sustainable Development Speaker  
  Series Center for Career Education (CCE) with Rebecca Schramm, Center 
  for Career Education. RSVP is required.For more information on the    
@@ -379,7 +366,6 @@ DTEND;TZID=America/New_York:20141205T13000000
 LOCATION:Columbia University Morningside Campus, Hogan Hall, Conference Room A
 CONTACT:jsotomayor@ei.columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74651','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75195@columbia.edu
@@ -401,12 +387,11 @@ DTEND;TZID=America/New_York:20141209T13300000
 LOCATION:International Affairs Building, Room 918
 CONTACT:vg2318@columbia.edu
 URL:http://www.columbia.edu/cu/weai/Calendar/calendar_december14.html
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74612@columbia.edu
 SUMMARY: PEPM Online Information Session                                       
-DESCRIPTION: Please join us for our online information session on December 10,     
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74612': Please join us for our online information session on December 10,     
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -426,13 +411,12 @@ DTEND;TZID=America/New_York:20141210T10000000
 LOCATION:Online
 CONTACT:pepm@columbia.edu
 URL:http://sipa.adobeconnect.com/r881810lido/
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74612','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_72058@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Information Session                                         
-DESCRIPTION: The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72058': The Earth Institute and the School of International and Public        
  Affairs present an information session for their Master of Public     
  Administration in Environmental Science and Policy (ESP) program.nbsp 
  Interested students will have the opportunity to learn about this     
@@ -444,7 +428,6 @@ DTEND;TZID=America/New_York:20141211T20000000
 LOCATION:Columbia University, Morningside Campus, The Faculty House
 CONTACT:st2745@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72058','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_72846@columbia.edu
@@ -477,12 +460,11 @@ DTEND;TZID=America/New_York:20141218T08300000
 LOCATION:New Delhi, India
 CONTACT:cgeg@columbia.edu
 URL:http://cgeg.sipa.columbia.edu/events-calendar
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74613@columbia.edu
 SUMMARY: PEPM Online Information Session December 17, 2014                     
-DESCRIPTION: Please join us for our online information session on December 17,     
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74613': Please join us for our online information session on December 17,     
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -502,24 +484,22 @@ DTEND;TZID=America/New_York:20141217T10000000
 LOCATION:Online
 CONTACT:pepm@columbia.edu
 URL:http://sipa.adobeconnect.com/r5jz0ch04ry/
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74613','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75401@columbia.edu
 SUMMARY: SAI SIPA Registration EVENT                                           
-DESCRIPTION: SAI SIPA Registration EVENT Full Description                          
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75401': SAI SIPA Registration EVENT Full Description                          
 DTSTART;TZID=America/New_York:20141231T10000000
 DTEND;TZID=America/New_York:20141231T12000000
 LOCATION:SAI SIPA Registration EVENT Location
 CONTACT:sc3846@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75401','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_72267@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Online Information Session                                  
-DESCRIPTION: The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72267': The Earth Institute and the School of International and Public        
  Affairs present an online information session for their Master        
  of Public Administration in Environmental Science and Policy (ESP)    
  program.nbsp Interested students will have the opportunity to learn   
@@ -535,23 +515,21 @@ DTEND;TZID=America/New_York:20150106T13000000
 LOCATION:online
 CONTACT:st2745@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72267','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75400@columbia.edu
 SUMMARY: SIPA event by SAI                                                     
-DESCRIPTION: SIPA event by SAI Full Description/Summary changed AGAIN                    
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75400': SIPA event by SAI Full Description/Summary changed                    
 DTSTART;TZID=America/New_York:20150108T10000000
 DTEND;TZID=America/New_York:20150108T12000000
 LOCATION:Columbia Morning side campus
 CONTACT:sc3846@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75400','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74550@columbia.edu
 SUMMARY: SIPA's 39th Annual Washington, D.C. Career Conference                 
-DESCRIPTION: Tuesday, January 13, 2015 All Day Career Panels and Discussion        
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74550': Tuesday, January 13, 2015 All Day Career Panels and Discussion        
  nbspFrom 845am to 425pm, there will be 16 career panels taking place  
  on various topics featuring SIPA alumni and other professionals based 
  in the DC area.nbspThe current schedule is as follows                 
@@ -1248,13 +1226,12 @@ DTEND;TZID=America/New_York:20150115T18000000
 LOCATION:Various locations in Washington, D.C. (a full schedule will be sent to registered participants)
 CONTACT:sipa.dc.conference@gmail.com
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74550','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_72268@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Online Information Session                                  
-DESCRIPTION: The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP='https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72268': The Earth Institute and the School of International and Public        
  Affairs present an online information session for their Master        
  of Public Administration in Environmental Science and Policy (ESP)    
  program.nbsp Interested students will have the opportunity to learn   
@@ -1270,7 +1247,6 @@ DTEND;TZID=America/New_York:20150205T15000000
 LOCATION:online
 CONTACT:st2745@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:<a href="#" onClick="sendEvent=window.open('https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72268','_blank','width=500,height=500,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');Register.focus();return false;" onMouseOver="window.status='Click to register';return true;" >Register</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75251@columbia.edu
@@ -1301,7 +1277,6 @@ DTEND;TZID=America/New_York:20150212T13000000
 LOCATION:International Affairs Building, Room 1219
 CONTACT:zid2000@columbia.edu
 URL:
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_73612@columbia.edu
@@ -1324,6 +1299,5 @@ DTEND;TZID=America/New_York:20150420T17300000
 LOCATION:Columbia University Morningside Campus Knox Hall, Room 208
 CONTACT:wac2112@columbia.edu
 URL:http://sai.columbia.edu
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 END:VCALENDAR
