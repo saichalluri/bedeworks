@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_74591@columbia.edu
+SUMMARY: Ten Steps to Success: Managing Your Data and Your Dissertation        
+DESCRIPTION: In this workshop hosted by the Center for Digital Research and        
+ Scholarship, well discuss steps you can take to be a more effective   
+ and efficient researcher or scholar. Learn tips and tricks to help    
+ you be a better steward of your data, your dissertation, and your     
+ future projects. No matter what your discipline or format is, careful 
+ data management will hep ensure your projects success and you datas   
+ value for future work. We will begin by discussing ways to keep your  
+ information and data safe, findable, and usable from your projects    
+ inception, through its publication, and to its next instantiation. As 
+ you work on your dissertation, you have a range of choices to make in 
+ an increasingly complex scholarly communications environment. To help 
+ you sort through your options, well review important fundamentals of  
+ copyright, publication agreements, open access, and Columbias         
+ dissertation submission process. This workshop is                     
+ fornbspgraduatenbspstudents at Columbia and its affiliates.           
+
+DTSTART;TZID=America/New_York:20141201T14000000
+DTEND;TZID=America/New_York:20141201T15000000
+LOCATION:Studio@Butler - 208 Butler Library, Columbia University
+CONTACT:kpope@columbia.edu
+URL;VALUE=URI:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=74591
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75408@columbia.edu
+SUMMARY: Economic Perspectives for Brazil in 2015                              
+DESCRIPTION: After the World Cup and the presidential election, Brazil starts      
+ preparing for a new cycle. In this session we will discuss the        
+ perspectives for the countrys economy in a context where markets      
+ expect a though year in 2015. This event is part of the course        
+ of Political, Social, and Economic Development in Brazil (Instructor  
+ Sidney N. Nakahodo).                                                  
+
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 802
+CONTACT:ilasRSVP@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75340@columbia.edu
+SUMMARY: Research Without Borders Panel: Big Open Data                         
+DESCRIPTION: Please join the Center for Digital Research and Scholarships          
+ Scholarly Communication Program for Research Without Borders Big Open 
+ Data, our second event of the academic year in our Research Without   
+ Borders panel discussion series. This event is free and open to the   
+ public. If you plan to attend, please RSVP to lwilliams@columbia.edu. 
+ How are large amounts of data managed, made sense of, and made        
+ accessible? What are the challenges of working with large open        
+ datasets, and how are different academic disciplines making use of    
+ them? In this panel discussion, researchers will explore big open     
+ data from three perspectives the humanities, journalism, and the      
+ social web.Our panelistsnbsp- David Wrisley, Associate Professor in   
+ the Department of English and the Civilization Sequence Program at    
+ the American University of Beirut Medieval Fellow at Fordham          
+ Universitys Center for Medieval Studies.nbsp- Jonathan Stray, Fellow  
+ at Columbia Universitys Tow School for Digital Journalism lead on the 
+ development of the Associated Press and the Knight Foundation         
+ Overview Project, an open-source document archive analysis system for 
+ investigative journalists.nbsp- Alice Marwick, Assistant Professor at 
+ Fordham Universitys Communications and Media Studies Department       
+ academic affiliate at the Center on Law and Information Policy (CLIP) 
+ at Fordham Law School.Our moderatornbsp- David Park, Dean of          
+ Strategic Initiatives at Columbia University senior advisor to the    
+ Executive Vice President and Dean of Faculty of the Arts and Sciences 
+ member of Columbia Universitys Institute for Data Sciences and        
+ Engineering New Media Center Director of Special Projects at the      
+ Applied Statistics Center founding member of Columbia Universitys     
+ Digital Storytelling Lab.                                             
+
+DTSTART;TZID=America/New_York:20141204T14000000
+DTEND;TZID=America/New_York:20141204T16000000
+LOCATION:Columbia University Morningside Campus Faculty House, Presidential Rooms 2 & 3
+CONTACT:lwilliams@columbia.edu
+URL;VALUE=URI:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=75340
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75461@columbia.edu
+SUMMARY: Consulta Previa: The Perils and Promise Of                            
+DESCRIPTION: In the past decade, a little known international convention, ILO 169, 
+ has become a flash point for social conflict in the region, pitting   
+ communities against investors in natural resource extraction and      
+ infrastructureand leaving governments struggling to define and        
+ implement the provisions locally. The ILO provision establishes the   
+ right of indigenous communities to be consulted on any policy that is 
+ determined to affect their culture, a right interpreted to include    
+ collective land ownership. Since its approval, Colombia (1991), Peru  
+ (1995), Guatemala (1996), and Chile (2009) have ratified the treaty,  
+ but have since struggled to develop the laws, regulations, and state  
+ capacity to enforce ILO 169.                                          
+
+DTSTART;TZID=America/New_York:20141204T19000000
+DTEND;TZID=America/New_York:20141204T21000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 802
+CONTACT:ilasRSVP@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_66212@columbia.edu
+SUMMARY: Pulmonary, Allergy, and Critical Care Medicine 2014                   
+DESCRIPTION: Title Pulmonary, Allergy, amp Critical Care Medicine 2014 Course      
+ Director(s) Neil Schluger MD Byron Thomashow, MD Scope Dates December 
+ 12, 2014 Description amp Objectives To address both common and        
+ uncommon challenges that medical practitioners face nbspin a one-day  
+ ACCME accredited course Registration Space is Limited. Early          
+ Registration is Encouraged. By Mail Complete the registration form    
+ and mail with full payment to Columbia University Department of       
+ Medicine ATTN Karen Wisdom 622 West 168th Street, PH8 East 105 New    
+ York, NY 10032 By Fax Registrants may fax the registration form with  
+ credit card information to (212) 305.8466 On-Line Registration        
+ http//columbiamedicine.org/ By Telephone (212) 342 - 2107 Additional  
+ Information Contact Department of Medicine Columbia University        
+ College of Physicians amp Surgeons nbspnbspnbspnbspnbspnbsp 622 West  
+ 168th Street, PH8 East, room 105 nbspnbspnbspnbspnbspnbsp New York,   
+ NY 10032 nbspnbspnbspnbspnbspnbsp Telephone (212) 342 - 2107          
+ nbspnbspnbspnbspnbspnbsp Fax (212) 305                                
+ - 8466 E-mail khm2101@columbia.edu http//columbiamedicinecme.org      
+
+DTSTART;TZID=America/New_York:20141212T08300000
+DTEND;TZID=America/New_York:20141212T17300000
+LOCATION:Columbia University Morningside Campus Vivian & Seymour Milstein Family Heart Center Myrna Daniels Auditorium
+CONTACT:khm2101@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_65430@columbia.edu
+SUMMARY: Enduring CME Programs                                                 
+DESCRIPTION: INTERNET CME POLICYThe Institute for the Advancement of               
+ Human Behavior (IAHB) and theOffice of Continuing Education (OCE) at  
+ the New York Academy ofMedicine (NYAM) is committed to protecting the 
+ privacy of itsmembers and customers.NYAM OCE maintains this Internet  
+ site as an information resource andservice for physicians, other      
+ health professionals, and the public.Continuing Education at the NYAM 
+ will keep your personal and creditinformation confidential when you   
+ participate in an Internet-basedCME program. Your information will    
+ never be given to anyone outsideof the NYAM program. CME collects     
+ only the information necessary toprovide you with the services that   
+ you request.DISCLAIMER STATEMENTThe opinions and recommendations      
+ expressed by faculty and otherexperts whose input is included in this 
+ program are their own. Thisenduring material is produced for          
+ educational purposes only. Use ofthe New York Academy of Medicine     
+ name implies review ofeducational format design and approach. Please  
+ review the completeprescribing information for specific drugs or      
+ combinations of drugs,including indications, contraindications,       
+ warnings, and adverse effects,before administering pharmacologic      
+ therapy to patients.STATEMENT OF RESPONSIBILITYThe New York Academy   
+ of Medicine takes responsibility forthe content, quality,             
+ and scientific integrity of this CMEactivity.INTENDED AUDIENCEThis    
+ activity has been developed for renal physicians andother health care 
+ practitionersDISCLOSURE POLICY STATEMENTThe New York Academy of       
+ Medicine relies upon invitedfaculty participants in its CME programs  
+ to provideeducational information that is objective and free of bias. 
+ Inthis spirit, and in accordance with the guidelines of theprogram    
+ sponsor, faculty participants are expected toindicate any commercial  
+ relationship that might be perceivedas a real or apparent conflict of 
+ interest.In accordance with the standards set forth by the            
+ NYAMspeakers are required to disclose any relationship                
+ toorganizations producing pharmaceutical products, medicalequipment,  
+ or other related products or services that mightbe perceived as       
+ a conflict of interest in relation to theirpresentation.No other      
+ planners or faculty have indicated that theyhave any financial        
+ interests or relationships with acommercial entity.OFF-LABEL          
+ STATEMENTThe speakers have indicated that their presentations will    
+ notreference off-label or unapproved uses of drugs or                 
+ products.HARDWARE amp SOFTWARE REQUIREMENTSPentium 800 processor or   
+ greater, Windows98/NT/2000/XP/7 or Mac OS 9/X, Microsoft Internet     
+ Explorer5.5 or later, 56K or better modem, Windows Media Player9.0 or 
+ later, 128 MB of RAM, sound card and speakers,Adobe Acrobat Reader,   
+ storage, Internet connectivity, andminimum connection speed. Monitor  
+ settings High color at800 x 600 pixels.Privacy Statementnbsp          
+
+DTSTART;TZID=America/New_York:20150226T07150000
+DTEND;TZID=America/New_York:20200608T17150000
+LOCATION:ONLINE
+CONTACT:khm2101@cumc.columbia.edu
+URL;VALUE=URI:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=65430
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_69116@columbia.edu
+SUMMARY: Update in Kidney Transplant, 2015                                     
+DESCRIPTION: Update in Kidney Transplant, 2015 Friday, April 10, 2015, from 830 AM 
+ to 500 PM Course Director(s) Waichi Wong, MD Sumit Mohan, MD-MPH      
+ http//www.columbiamedicinecme.org/Transplant2015.shtml                
+
+DTSTART;TZID=America/New_York:20150410T08300000
+DTEND;TZID=America/New_York:20150410T17000000
+LOCATION:TBA
+CONTACT:khm2101@columbia.edu
+URL;VALUE=URI:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=69116
+END:VEVENT
+END:VCALENDAR
