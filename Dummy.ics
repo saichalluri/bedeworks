@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:sundial_75320@columbia.edu
 SUMMARY: IFEP Annual Gala - faculty/staff/guests                               
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75320": You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75320": You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotos Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75316@columbia.edu
 SUMMARY: IFEP Annual Gala -- students                                          
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75316": You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75316": You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotos Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75319@columbia.edu
 SUMMARY: IFEP Annual Gala -- alumni                                            
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75319": You are cordially invited to The International Finance and Economic   
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75319": You are cordially invited to The International Finance and Economic   
  Policy ConcentrationsEleventh-Annual Fall Gala Monday, December 1,    
  2014 7-10 PM nbsp The Lotus Club 5 East 66th Street New York, NY      
  10065 nbsp Registration is required for entry. Please register        
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74611@columbia.edu
 SUMMARY: PEPM Online Information Session                                       
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74611": Please join us for our online information session on December 3,      
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74611": Please join us for our online information session on December 3,      
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 UID:sundial_73410@columbia.edu
 SUMMARY: Origins of Environmental Law Lecture Series: Congress Today: The Role 
  of Campaign Finance on Environmental Legislation                      
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=73410": The Earth Institute presents Origins of Environmental Law Lecture     
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=73410": The Earth Institute presents Origins of Environmental Law Lecture     
  Series Description Introduction to Early Environmental Legislation,   
  Pre-1969. nbsp This seminar is part of a semester-long lecture series 
  entitled The Origins of Environmental Law Regulation and Evolution.   
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 UID:sundial_75353@columbia.edu
 SUMMARY: Sustainable Development Seminar Series: Impacts of Agricultural       
  Practices on Atmospheric Chemistry, Climate and Health                
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75353": The Earth Institute presents the second of the 2014-2015 Sustainable  
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75353": The Earth Institute presents the second of the 2014-2015 Sustainable  
  Development Seminar Series, Impacts of Agricultural Practices on      
  Atmospheric Chemistry, Climate and Health, with Susanne Bauer,        
  Research Scientist, Center for Climate Systems Research, NASA Goddard 
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 UID:sundial_75357@columbia.edu
 SUMMARY: The Impact of Sanctions on Russia's Energy Economy and the Global     
  Energy Market                                                         
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75357": Please join the Center on Global Energy Policy for a discussion with  
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75357": Please join the Center on Global Energy Policy for a discussion with  
  Dr. James Henderson, Senior Research Fellow, the Oxford Institute for 
  Energy Studies. Dr. Henderson will discuss the U.S. and European      
  sanctions imposed against Russia in light of the Ukraine crisis and   
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 UID:sundial_74651@columbia.edu
 SUMMARY: Undergraduate Program in Sustainable Development Speaker Series:      
  Center for Career Education (CCE)                                     
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74651": The Earth Institute and the Undergraduate Program in Sustainability   
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74651": The Earth Institute and the Undergraduate Program in Sustainability   
  present the Undergraduate Program in Sustainable Development Speaker  
  Series Center for Career Education (CCE) with Rebecca Schramm, Center 
  for Career Education. RSVP is required.For more information on the    
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74612@columbia.edu
 SUMMARY: PEPM Online Information Session                                       
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74612": Please join us for our online information session on December 10,     
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74612": Please join us for our online information session on December 10,     
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 UID:sundial_72058@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Information Session                                         
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72058": The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72058": The Earth Institute and the School of International and Public        
  Affairs present an information session for their Master of Public     
  Administration in Environmental Science and Policy (ESP) program.nbsp 
  Interested students will have the opportunity to learn about this     
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74613@columbia.edu
 SUMMARY: PEPM Online Information Session December 17, 2014                     
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74613": Please join us for our online information session on December 17,     
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74613": Please join us for our online information session on December 17,     
  2014. To join, simply click on the link to the session below.The      
  Program in Economic Policy Management (PEPM) has become a 12-month    
  program for mid-career professionals leading to the Master of Public  
@@ -488,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75401@columbia.edu
 SUMMARY: SAI SIPA Registration EVENT                                           
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75401": SAI SIPA Registration EVENT Full Description                          
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75401": SAI SIPA Registration EVENT Full Description                          
 DTSTART;TZID=America/New_York:20141231T10000000
 DTEND;TZID=America/New_York:20141231T12000000
 LOCATION:SAI SIPA Registration EVENT Location
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 UID:sundial_72267@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Online Information Session                                  
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72267": The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72267": The Earth Institute and the School of International and Public        
  Affairs present an online information session for their Master        
  of Public Administration in Environmental Science and Policy (ESP)    
  program.nbsp Interested students will have the opportunity to learn   
@@ -519,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75400@columbia.edu
 SUMMARY: SIPA event by SAI                                                     
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75400": SIPA event by SAI Full Description/Summary changed AGAIN                   
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=75400": SIPA event by SAI Full Description/Summary changed                    
 DTSTART;TZID=America/New_York:20150108T10000000
 DTEND;TZID=America/New_York:20150108T12000000
 LOCATION:Columbia Morning side campus
@@ -529,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74550@columbia.edu
 SUMMARY: SIPA's 39th Annual Washington, D.C. Career Conference                 
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74550": Tuesday, January 13, 2015 All Day Career Panels and Discussion        
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=74550": Tuesday, January 13, 2015 All Day Career Panels and Discussion        
  nbspFrom 845am to 425pm, there will be 16 career panels taking place  
  on various topics featuring SIPA alumni and other professionals based 
  in the DC area.nbspThe current schedule is as follows                 
@@ -1231,7 +1231,7 @@ BEGIN:VEVENT
 UID:sundial_72268@columbia.edu
 SUMMARY: Master of Public Administration in Environmental Science and Policy   
  (MPA ESP) Online Information Session                                  
-DESCRIPTION;ALTREP="https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72268": The Earth Institute and the School of International and Public        
+DESCRIPTION;ALTREP="CID:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi/register.php?eventID=72268": The Earth Institute and the School of International and Public        
  Affairs present an online information session for their Master        
  of Public Administration in Environmental Science and Policy (ESP)    
  program.nbsp Interested students will have the opportunity to learn   
