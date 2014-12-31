@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_69013@columbia.edu
+SUMMARY:DESCRIPTION: Position Istvn Dek Visiting Professorship in East Central European    
+ Studies at Columbia University Columbia University invites            
+ applications for the Istvn Dek Visiting Professorship in East Central 
+ European Studies for one semester (Fall or Spring) in the academic    
+ year 2014-2015. The professorship, commemorating Professor Deks       
+ legacy of excellence in research and teaching, is open to senior      
+ scholars with active interest and accomplishments in East and Central 
+ European studies. The visiting professor will be appointed in one of  
+ the Humanities or Social Science Departments of the Faculty of Arts   
+ and Sciences and will teach two courses, one at the undergraduate     
+ level and one at the graduate level. The visitor is expected to give  
+ one public lecture and participate in the academic life of the        
+ University, whose interests in East and Central European studies are  
+ well represented on campus by the East Central European Center, the   
+ Blinken European Institute, and the Harriman Institute. Minimum       
+ qualifications Masters Degree in a relevant discipline. Distinction   
+ in research and teaching in the field of East and Central European    
+ Studies. Preferred qualifications PhD preferred. Application Deadline 
+ Open Until Filled Special Instructions to applicants All applications 
+ must be made through Columbia Universitys online Recruitment of       
+ Academic Personnel System (RAPS). Using RAPS, applicants can upload   
+ the following required materials  a letter of application curriculum  
+ vitae the names of three persons who may be asked to provide a letter 
+ of reference and a modest sample (article or book chapter)            
+ of scholarship. The letter of application should include a statement  
+ of which semester the applicant prefers, a short list of possible     
+ courses which the applicant might teach, and a description of the     
+ applicants current research interests. RAPS will accommodate uploads  
+ of maximum two (2) megabytes in size). For inquiries about the        
+ position please contact Alan Timberlake, at2205@columbia.edu. For     
+ questions about the RAPS application process please contact David     
+ Eisenberg, de2205@columbia.edu Required applicant documents for       
+ Upload Curriculum Vitae, Cover Letter, List of References, Writing,   
+ Sample/Publication 1 Columbia University                              
+ is an Equal Opportunity/Affirmative Action employer. To apply, go to  
+ academicjobs.columbia.edu/applicants/Central?quickFind=58163          
+
+DTSTART;TZID=America/New_York:20140801T00000000
+DTEND;TZID=America/New_York:20150529T23590000
+LOCATION:Humanities or Social Science Departments of the Faculty of Arts and Sciences, Columbia University
+CONTACT:vt2237@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74187@columbia.edu
+SUMMARY:DESCRIPTION: Please join the Harriman Institute and East Central European Center   
+ for a discussion aboutnbsp Suffering as a Patriotic Sentiment in      
+ Bosnia between 1840-1914 with Edin Hajdarpasic, Assistant Professor   
+ of History at Loyola University Chicago. In the wake of Romanticism,  
+ early nationalist projects proclaimed a new age of happiness of the   
+ folk, yet by the middle of the nineteenth century, national activists 
+ across Europe were busily chronicling the agonizing pain of their     
+ miserable homelands.nbsp Instead of dismissing suffering as a mere    
+ rhetorical convention, this talk argues that the monumental body of   
+ literature on this national suffering carried immense political       
+ significance, underpinning the constitution and mobilization of South 
+ Slavic nationalist sentiments throughout the nineteenth century.      
+
+DTSTART;TZID=America/New_York:20141006T13000000
+DTEND;TZID=America/New_York:20141006T15000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1201
+CONTACT:ft2439@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74264@columbia.edu
+SUMMARY:DESCRIPTION: Please join us for a delightful evening with Sylva Fisherova who will 
+ read from her poems and writings, following by a discussion and       
+ intellectual reflection. Sylva Fischerov (born 1963) is one of the    
+ most formidable Czech poets of her generation. A distinguished        
+ classicist who teaches at Charles University in Prague, she writes    
+ poetry with a vivid imagination as well as an historical reach. She   
+ has published eight volumes of poetry in Czech, and her poetry has    
+ been translated and published in numerous languages. Two earlier      
+ selections of her poems in English translation were published by      
+ Bloodaxe Books. She also writes prose as well as essays and books for 
+ children. The event is sponsored by East Central European Center,     
+ Columbia University Central and Eastern European Club, and Harriman   
+ Institute. Refreshments will be served.                               
+
+DTSTART;TZID=America/New_York:20141008T19300000
+DTEND;TZID=America/New_York:20141008T21000000
+LOCATION:Columbia University Morningside Campus Hamilton Hall, Room 709
+CONTACT:ft2439@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74282@columbia.edu
+SUMMARY:DESCRIPTION: Please join us for a lunch conversation on relations between East     
+ Central Europe and the Developing World with Dr. James Mark, the      
+ University of Exeter-based leading expert on the subject. James Mark  
+ is Professor of History at the University of Exeter in the UK. His    
+ book The Unfinished Revolution Making Sense of the Communist Past in  
+ central-eastern Europe recent book, was chosen as one of the best     
+ books of 2011 by Foreign Affairs. Professor Mark is regularly         
+ featured in various media, including BBC. Recently, he co-authored    
+ Europes 1968 Voices of Revolt. The unique framework of the event      
+ facilitates open, informal and interactive discussions on interesting 
+ topics. It is sponsored by Columbia University Central and Eastern    
+ European Club, East Central European Center, and Harriman             
+ Institute.Dr. Malgorzata Mazurek, Professor of Polish Studies at      
+ Columbia University, will be discussant facilitating the conversation.
+
+DTSTART;TZID=America/New_York:20141009T12000000
+DTEND;TZID=America/New_York:20141009T14000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1201
+CONTACT:ft2439@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74282
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74902@columbia.edu
+SUMMARY:DESCRIPTION: Please join us for an engaging Round table discussion Media, Business 
+ and Politics in Eastern Europe Public Relations Development and its   
+ Power. Three of the leading academics and business representatives    
+ will discuss the transformation of Public Relations industry in       
+ Eastern Europe, its overlap with politics and influence on those in   
+ power. Central and Eastern European countries witnessed complete      
+ restructuring of business, media and politics throughout the 1990s.   
+ Free press emerged and public relations have turned into a            
+ multimillion dollar business. Despite new ways of communications and  
+ legislative progress, journalists are still experiencing threats to   
+ their independency from (self)censorship, local media oligarchs and   
+ powerful politicians. Media, business and politics thus overlap in    
+ the region, with fascinating specifics in each country. Denisa        
+ Hejlova and Anastasiia Grynko are leading scholars focusing on Public 
+ Relations development and power in politics. They recently            
+ co-authored a book titled Eastern European Perspectives on the        
+ Development of Public Relations, the first reflection on the recent   
+ history of PR in the region. Milan Hejl is Co-Founder and Director    
+ AMI Communications, the biggest Non-Russian PR agency in Central and  
+ Eastern Europe. Filip Tucek, President of the Columbia University     
+ Central and Eastern European Club, will moderate the discussion. This 
+ event is sponsored by the East Central European Center and Columbia   
+ University Central and Eastern European (CUCEE) Club. Normal 0 false  
+ false false EN-US X-NONE X-NONE /* Style Definitions */               
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin-top0in mso-para-margin-right0in                 
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+
+DTSTART;TZID=America/New_York:20141118T12000000
+DTEND;TZID=America/New_York:20141118T14000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1219
+CONTACT:ft2439@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74902
+ 
+END:VEVENT
+END:VCALENDAR
