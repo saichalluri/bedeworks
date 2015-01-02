@@ -62,7 +62,9 @@ DESCRIPTION: Position Istvn Dek Visiting Professorship in East Central European
 
 DTSTART;TZID=America/New_York:20140801T00000000
 DTEND;TZID=America/New_York:20150529T23590000
-LOCATION:Humanities or Social Science Departments of the Faculty of Arts and Sciences, Columbia University
+LOCATION: Humanities or Social Science Departments of the Faculty of Arts and   
+ Sciences, Columbia University                                         
+
 CONTACT:vt2237@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
@@ -85,7 +87,9 @@ DESCRIPTION: Please join the Harriman Institute and East Central European Center
 
 DTSTART;TZID=America/New_York:20141006T13000000
 DTEND;TZID=America/New_York:20141006T15000000
-LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1201
+LOCATION: Columbia University Morningside Campus International Affairs          
+ Building, Room 1201                                                   
+
 CONTACT:ft2439@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +112,8 @@ DESCRIPTION: Please join us for a delightful evening with Sylva Fisherova who wi
 
 DTSTART;TZID=America/New_York:20141008T19300000
 DTEND;TZID=America/New_York:20141008T21000000
-LOCATION:Columbia University Morningside Campus Hamilton Hall, Room 709
+LOCATION: Columbia University Morningside Campus Hamilton Hall, Room 709        
+
 CONTACT:ft2439@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +138,9 @@ DESCRIPTION: Please join us for a lunch conversation on relations between East
 
 DTSTART;TZID=America/New_York:20141009T12000000
 DTEND;TZID=America/New_York:20141009T14000000
-LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1201
+LOCATION: Columbia University Morningside Campus International Affairs          
+ Building, Room 1201                                                   
+
 CONTACT:ft2439@columbia.edu
 URL:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=7428
  2
@@ -180,7 +187,9 @@ DESCRIPTION: Please join us for an engaging Round table discussion Media, Busine
 
 DTSTART;TZID=America/New_York:20141118T12000000
 DTEND;TZID=America/New_York:20141118T14000000
-LOCATION:Columbia University Morningside Campus International Affairs Building, Room 1219
+LOCATION: Columbia University Morningside Campus International Affairs          
+ Building, Room 1219                                                   
+
 CONTACT:ft2439@columbia.edu
 URL:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=7490
  2
@@ -231,7 +240,8 @@ DESCRIPTION: Please join us for the screening ofnbspOnce My Mother,
 
 DTSTART;TZID=America/New_York:20141125T18000000
 DTEND;TZID=America/New_York:20141125T21000000
-LOCATION:International Affairs Building, Room 707
+LOCATION: International Affairs Building, Room 707                              
+
 CONTACT:ft2439@columbia.edu
 URL:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=7504
  7
