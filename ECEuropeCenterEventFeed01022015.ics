@@ -20,7 +20,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sundial_69013@columbia.edu
-SUMMARY:DESCRIPTION: Position Istvn Dek Visiting Professorship in East Central European    
+SUMMARY:
+DESCRIPTION: Position Istvn Dek Visiting Professorship in East Central European    
  Studies at Columbia University Columbia University invites            
  applications for the Istvn Dek Visiting Professorship in East Central 
  European Studies for one semester (Fall or Spring) in the academic    
@@ -64,7 +65,8 @@ CONTACT:vt2237@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74187@columbia.edu
-SUMMARY:DESCRIPTION: Please join the Harriman Institute and East Central European Center   
+SUMMARY:
+DESCRIPTION: Please join the Harriman Institute and East Central European Center   
  for a discussion aboutnbsp Suffering as a Patriotic Sentiment in      
  Bosnia between 1840-1914 with Edin Hajdarpasic, Assistant Professor   
  of History at Loyola University Chicago. In the wake of Romanticism,  
@@ -84,7 +86,8 @@ CONTACT:ft2439@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74264@columbia.edu
-SUMMARY:DESCRIPTION: Please join us for a delightful evening with Sylva Fisherova who will 
+SUMMARY:
+DESCRIPTION: Please join us for a delightful evening with Sylva Fisherova who will 
  read from her poems and writings, following by a discussion and       
  intellectual reflection. Sylva Fischerov (born 1963) is one of the    
  most formidable Czech poets of her generation. A distinguished        
@@ -105,7 +108,8 @@ CONTACT:ft2439@columbia.edu
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74282@columbia.edu
-SUMMARY:DESCRIPTION: Please join us for a lunch conversation on relations between East     
+SUMMARY:
+DESCRIPTION: Please join us for a lunch conversation on relations between East     
  Central Europe and the Developing World with Dr. James Mark, the      
  University of Exeter-based leading expert on the subject. James Mark  
  is Professor of History at the University of Exeter in the UK. His    
@@ -130,7 +134,8 @@ URL:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=7428
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_74902@columbia.edu
-SUMMARY:DESCRIPTION: Please join us for an engaging Round table discussion Media, Business 
+SUMMARY:
+DESCRIPTION: Please join us for an engaging Round table discussion Media, Business 
  and Politics in Eastern Europe Public Relations Development and its   
  Power. Three of the leading academics and business representatives    
  will discuss the transformation of Public Relations industry in       
@@ -174,7 +179,8 @@ URL:https://calendar.columbia.edu/sundial/webapi/register.php?eventID=7490
 END:VEVENT
 BEGIN:VEVENT
 UID:sundial_75047@columbia.edu
-SUMMARY:DESCRIPTION: Please join us for the screening ofnbspOnce My Mother,                
+SUMMARY:
+DESCRIPTION: Please join us for the screening ofnbspOnce My Mother,                
  an award-winning film by Polish filmmakernbspSophia Turkiewicz. The   
  film will be presented by Columbia Senior                             
  LecturernbspAnnanbspFerensnbspand the event will be moderated         
