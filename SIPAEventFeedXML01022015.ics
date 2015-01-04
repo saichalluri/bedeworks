@@ -1,0 +1,1318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_74659@columbia.edu
+SUMMARY: Earth Institute Practicum; Risk, Perception, and Decision-Making      
+
+DESCRIPTION: The Earth Institute and the School of Continuing Education MSSM       
+ Practicum present Risk, Perception, and Decision-Making with Sabine   
+ Marx, Managing Director, Center for Research on Environmental         
+ Decisions, Earth Institute, Columbia University.The work of Sabine    
+ Marx falls in the area of decision making under uncertainty. Her      
+ research focuses on the use of climate information in agriculture,    
+ public health, and disaster preparedness and management. She is       
+ especially interested in the integration of climate science and       
+ social science, communication of climate information, and outreach to 
+ decision makers.The Earth Institute Practicum is designed to be       
+ a broad survey of the applications of frontier research to the        
+ practice of sustainable development and environmental policy.nbsp The 
+ Practicum is a dynamic forum featuring a different lecture each week  
+ by the directors or lead researchers representing various units from  
+ across the Earth Institute. Each week the guest lecturer will present 
+ the applications of their research and discuss the policy             
+ implications. To RSVP for this event please contact Nathan Rudder at  
+ nrudder@ei.columbia.edu. For more information on Earth Institute      
+ education programs, please click EDUCATION.For more information on    
+ the Earth Institute visit earth.columbia.edu.                         
+
+DTSTART;TZID=America/New_York:20141202T16100000
+DTEND;TZID=America/New_York:20141202T18000000
+LOCATION:Columbia University Morningside Campus Union Theological Seminary, Room 207
+CONTACT:nrudder@ei.columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74611@columbia.edu
+SUMMARY: PEPM Online Information Session                                       
+
+DESCRIPTION: Please join us for our online information session on December 3,      
+ 2014. To join, simply click on the link to the session below.The      
+ Program in Economic Policy Management (PEPM) has become a 12-month    
+ program for mid-career professionals leading to the Master of Public  
+ Administration degree. Students will start the full-time program in   
+ June and finish the following May. PEPM focuses on training           
+ professionals and policymakers in the skills required for effective   
+ design and implementation of economic policy in market economies,     
+ with a strong emphasis on the economic problems of developing and     
+ transition economies. The full-time program is especially suited for  
+ mid-career professionals who may only be able to take off a short     
+ time from their current employment. In addition to our economic       
+ policy focus, students may opt to focus on global energy management   
+ and policy, which offers a very strong set of courses focused on      
+ traditional energy markets as well as alternative energy.             
+
+DTSTART;TZID=America/New_York:20141203T09300000
+DTEND;TZID=America/New_York:20141203T10000000
+LOCATION:Online
+CONTACT:pepm@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74611
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73410@columbia.edu
+SUMMARY: Origins of Environmental Law Lecture Series: Congress Today: The Role 
+ of Campaign Finance on Environmental Legislation                      
+
+DESCRIPTION: The Earth Institute presents Origins of Environmental Law Lecture     
+ Series Description Introduction to Early Environmental Legislation,   
+ Pre-1969. nbsp This seminar is part of a semester-long lecture series 
+ entitled The Origins of Environmental Law Regulation and Evolution.   
+ Leon G. Billings and Thomas C. Jorling are the two senior staff       
+ members who led the Senate environment subcommittee which originated  
+ and developed major environmental legislation in the 1970s, including 
+ the Clean Air Act, the Clean Water Act, and the Superfund Act. Over   
+ the course of a single decade, Congress enacted a series of           
+ environmental laws that defined the direction and character of        
+ environmental policy in the US and globally. Learn about the process  
+ that led to these seminal laws from the writers of the legislation    
+ themselves.In their final talk in this seminar series, Billings and   
+ Jorling will discuss the nature of Congress today, and look at why    
+ the federal government has not taken substantial action on            
+ environmental law for the past several decades. They will look at the 
+ evolution of campaign finance laws, and will consider how campaign    
+ finance and fundraising impact policy and legislation. nbspnbsp RSVP  
+ is required for this event. Please note this lecture is part of       
+ a regularly scheduled course. Guests will join registered students in 
+ the class for the lecture and discussion. For more information about  
+ the Earth Institute education programs and certificates, please click 
+ EARTH ED.nbsp For more information on the Earth Institute, please     
+ click earth.columbia.edu.nbsp                                         
+
+DTSTART;TZID=America/New_York:20141203T11000000
+DTEND;TZID=America/New_York:20141203T12500000
+LOCATION:Columbia University, Morningside Campus, International Affairs Building, Room 407
+CONTACT:hmartinez@ei.columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=73410
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75377@columbia.edu
+SUMMARY: Central Asia in Asia: Emerging Links, Rivalries, and Opportunities    
+
+DESCRIPTION: Prevailing narratives describing Central Asian international politics 
+ tend to refer to a looming power struggle along an EastWest divide.   
+ Today, however, we see accelerating trans-regional integration across 
+ diverse Asian sub-regions (East, West, North, South, and Central),    
+ much of it bypassing the West altogether.nbspChina,nbspIndia, Iran,   
+ Israel, Japan, Pakistan, South Korea, Turkey, all have adopted        
+ Central Asia or Silk Road policies of one kind or another and have    
+ developed an increasingly noticeable political, economic and security 
+ footprint. Southeast Asian countries are equally reaching out to      
+ Central Asia both bilaterally and through ASEAN. Moreover, these new  
+ forms of pan-Asian integration have also acquired a multilateral      
+ dimension, underscored by the rise of the China-led Shanghai          
+ Cooperation Organization, the Japan plus Central Asia Dialogue, and   
+ the Conference for Interaction and Cooperation in Asia.nbspWhat will  
+ be thenbspramifications ofnbspgreater pan-Asian interconnectedness?   
+ How might these developments affect not only the foreign policy       
+ priorities of the Central Asian states, but broader issues like the   
+ rapidly shifting international order and the global balance of power? 
+ Focusing on Central Asias growing ties with China, Japan, South Korea 
+ and South East Asian countries, this panel of acclaimed international 
+ scholars will examine these evolving Central-Asia/Asia Pacific        
+ relations in thepolitical, security, and economic realms.PART I       
+ (1530-1600)nbspWelcoming ReceptionnbspPART II                         
+ (1600-1800)nbspPresentationsIntroduction (Nicola Contessi, Columbia   
+ University)China and Central Asia (Sbastien Peyrouse, George          
+ Washington University)Japan and Central Asia (Timur Dadabaev,         
+ University of Tsukuba)South Korea and Central Asia (Matteo Fumagalli, 
+ Central European University)Discussant Alexander Cooley (Columbia     
+ University)nbspPanel DiscussionImplications of growing trans-regional 
+ ties between Central Asia and the broader Asia-PacificnbspThis event  
+ is presented in partnership with the Asia Society Policy Institute.   
+
+DTSTART;TZID=America/New_York:20141203T15300000
+DTEND;TZID=America/New_York:20141203T18000000
+LOCATION:International Affairs Building, Room 1512
+CONTACT:zid2000@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75353@columbia.edu
+SUMMARY: Sustainable Development Seminar Series: Impacts of Agricultural       
+ Practices on Atmospheric Chemistry, Climate and Health                
+
+DESCRIPTION: The Earth Institute presents the second of the 2014-2015 Sustainable  
+ Development Seminar Series, Impacts of Agricultural Practices on      
+ Atmospheric Chemistry, Climate and Health, with Susanne Bauer,        
+ Research Scientist, Center for Climate Systems Research, NASA Goddard 
+ Institute for Space Studies (GISS), The Earth Institute, Columbia     
+ University, Patrick Kinney, Professor, Environmental Health Sciences, 
+ Director, Columbia Climate and Health Program, Mailman School of      
+ Public Health, Columbia University and Alexander Ruane, Adjunct       
+ Associate Research Scientist, Center for Climate Systems Research,    
+ NASA Goddard Institute for Space Studies (GISS), The Earth Institute, 
+ Columbia University.nbsp Agriculture and Climate are interrelated on  
+ multiple levels. Leading up to research questions that are studied at 
+ many Departments across Columbia University. Climate has significant  
+ impacts on conditions affecting agriculture, including temperature,   
+ carbon dioxide, and the hydrological cycle. Conditions that determine 
+ world food production, food security and public health. A topic that  
+ achieves much less attention is the fact that, agriculture has been   
+ shown to produce significant effects on climate change, primarily     
+ through the production of greenhouse gases, altering Earths land      
+ cover, and by releasing precursors of air pollutants. The use of      
+ industrial fertilizers, a crucial component of agriculture in the     
+ industrial world, and an important tool for the Developing world, has 
+ shown to be an significant contributor to air pollution. It appears   
+ it is important to enlighten not only the impact of climate on        
+ agriculture, but also the impact of agriculture on climate, which     
+ until recently, has been little discussed in climate policy, much     
+ less a focus of or major participant in policy negotiations.In this   
+ seminar we will discuss the impact of agriculture on atmospheric      
+ chemistry, the effect of air pollution on public health, and the      
+ impact of climate on food production.Open to the public.              
+ RSVP required. Photo ID required for building access.For              
+ more information on the Center for Climate Systems Research, please   
+ click ccsr.columbia.edu. For more information on the Earth Institute, 
+ please click earth.columbia.edu.                                      
+
+DTSTART;TZID=America/New_York:20141203T16000000
+DTEND;TZID=America/New_York:20141203T18000000
+LOCATION:Columbia University, Morningside Campus, Alfred J. Lerner Hall, Satow Room
+CONTACT:pvreeland@ei.columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75353
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74766@columbia.edu
+SUMMARY: East Asian Historical Thought in Comparative Perspective: What        
+ History Is, Knows, Does: THE WEST                                     
+
+DESCRIPTION: Lecture with Eelco Runia, author of Moved by the Past.                
+ No registration required. Sponsored by Weatherhead East               
+ Asian Institute and the Department of History.                        
+
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
+CONTACT:lem2111@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75383@columbia.edu
+SUMMARY: Is a Russia-Style LGBT Propaganda Law Coming to Central Asia?         
+
+DESCRIPTION: Please join the Harriman Institute for a discussion on the trajectory 
+ of LGBT rights and related laws in Central Asia. Speakers Syinat      
+ Sultanalieva and Nika Yuryeva, members of the Kyrgyz LGBT             
+ organization Labrys Moderator Tanya Domi, Adjunct Professor of        
+ International and Public Affairs                                      
+
+DTSTART;TZID=America/New_York:20141204T12000000
+DTEND;TZID=America/New_York:20141204T13000000
+LOCATION:International Affairs Building, Room 1219
+CONTACT:zid2000@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75357@columbia.edu
+SUMMARY: The Impact of Sanctions on Russia's Energy Economy and the Global     
+ Energy Market                                                         
+
+DESCRIPTION: Please join the Center on Global Energy Policy for a discussion with  
+ Dr. James Henderson, Senior Research Fellow, the Oxford Institute for 
+ Energy Studies. Dr. Henderson will discuss the U.S. and European      
+ sanctions imposed against Russia in light of the Ukraine crisis and   
+ their potential short and long-term impacts on Russias energy economy 
+ and the global energy market. Center Director Jason Bordoff will      
+ moderate a discussion following the presentation. Registration        
+ is required for in-person attendance. This event is open to press. It 
+ will also be livestreamed at energypolicy.columbia.edu/watch (no      
+ registration is required to view the livestream). Center on Global    
+ Energy Policy events are also available as podcasts via iTunes or our 
+ website and are usually available 3 to 5 days after the date of the   
+ event. For more information contact energypolicy@columbia.edu         
+
+DTSTART;TZID=America/New_York:20141204T12300000
+DTEND;TZID=America/New_York:20141204T13450000
+LOCATION:International Affairs Building, Room 1501
+CONTACT:kwei@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75357
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75382@columbia.edu
+SUMMARY: The One and the Many: The Struggle between 'Genocide' and 'Crimes     
+ against Humanity'                                                     
+
+DESCRIPTION: The Human Rights Institute invites you to an afternoon discussion     
+ with Philippe Sands, Professor of Law and Director of the Centre on   
+ International Courts and Tribunals at the University College of       
+ London.nbsp He will be speaking on The One and the Many The Struggle  
+ between Genocide and Crimes against Humanity. nbsp                    
+
+DTSTART;TZID=America/New_York:20141204T16300000
+DTEND;TZID=America/New_York:20141204T18000000
+LOCATION:Jerome Greene Hall, Room 107
+CONTACT:omj2101@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73768@columbia.edu
+SUMMARY: CLE Workshop on Investment                                            
+
+DESCRIPTION: The Columbia Center on Sustainable Investment is offering a one-day   
+ workshop with CLE credit on investment arbitration and human rights.  
+ Human rights law can affect states obligations regarding treatment of 
+ foreign investors and investments, and investment arbitrations can    
+ have important implications for human rights. Nevertheless, there     
+ remains significant uncertainty regarding whether and how to          
+ integrate human rights considerations into arbitral proceedings.This  
+ workshop willexamine which human rights issues may be implicated in   
+ investment disputes, as well as how and to what extent the issues     
+ have been handled by parties and arbitratorsprovide an overview of    
+ human rights norms and frameworks that are relevant to investors and  
+ governmentsexplore how parties might effectively raise human rights   
+ norms and issues in the course of an arbitrationevaluate the roles    
+ and obligations of tribunals in considering such argumentsA detailed  
+ program and speakers will be posted soon.The workshop is geared       
+ primarily toward counsel and arbitrators participating in investment  
+ arbitrations, as well as human rights practitioners with interest in  
+ investment disputes and their impacts. Other interested stakeholders  
+ are also welcome.Participants will receive 7 CLE credits.             
+ Registration will be required ($500 for private sector participants   
+ $200 for participants practicing in public interest, academia or      
+ government and unemployed attorneys).Registration is required. PLEASE 
+ REGISTER HERE.(Registrants will be contacted for payment following    
+ their registration).nbspInformation Regarding New York CLE            
+ CreditsColumbia Law School has been certified by the New York State   
+ Continuing Legal Education (CLE) board as an Accredited Provider of   
+ CLE programs. Under New York State CLE regulations, each              
+ live non-transitional CLE panel will provide one (1.0) credit hours   
+ that can be applied toward the Areas of Professional Practice         
+ requirement. CLE credit is awarded only for full attendance of a      
+ panel in its entirety. Attorneys attending only part of a Program are 
+ not eligible for partial credit for it, although they are most        
+ welcome to attend it. Attendance is determined by an attorneys        
+ sign-in and sign-out, as shown in the Conference registers. Please    
+ note that there will be separate registers for each CLE panel, with   
+ sign-in and sign-out required for each one. On sign-out, attorneys    
+ should also submit their completed Evaluation Form, provided at the   
+ Conference. Please note that NYS Certificates of Attendance will be   
+ sent out to the email address as it appears in the register unless    
+ otherwise noted there.                                                
+
+DTSTART;TZID=America/New_York:20141205T08300000
+DTEND;TZID=America/New_York:20141205T17000000
+LOCATION:Columbia Law School (Room TBD)
+CONTACT:pcunha@law.columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74651@columbia.edu
+SUMMARY: Undergraduate Program in Sustainable Development Speaker Series:      
+ Center for Career Education (CCE)                                     
+
+DESCRIPTION: The Earth Institute and the Undergraduate Program in Sustainability   
+ present the Undergraduate Program in Sustainable Development Speaker  
+ Series Center for Career Education (CCE) with Rebecca Schramm, Center 
+ for Career Education. RSVP is required.For more information on the    
+ Undergraduate Program in Sustainability, please click                 
+ SUSTAINABILITY.For more information on the Earth Institute, please    
+ click earth.columbia.edu.                                             
+
+DTSTART;TZID=America/New_York:20141205T12000000
+DTEND;TZID=America/New_York:20141205T13000000
+LOCATION:Columbia University Morningside Campus, Hogan Hall, Conference Room A
+CONTACT:jsotomayor@ei.columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74651
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75195@columbia.edu
+SUMMARY: Modern China Studies and the Digital Humanities: An Introduction to   
+ Computational Methods, Tools, and Data                                
+
+DESCRIPTION: Talk with Richard Jean So, Assistant Professor, English amp           
+ Comparative Literature, University of Chicago. So will offer an       
+ introduction to the digital humanities as applied to twentieth        
+ century Chinese literary and historical materials, focusing on a new  
+ Republican-era database of cultural journals produced through a       
+ collaborative venture between American universities and the Shanghai  
+ Library. The talk will offer an overview of the database, demonstrate 
+ some computational methods that one can apply to the database, and    
+ more generally, reflect on the role of the digital humanities in the  
+ study of East Asian culture and history. No registration required.    
+ Sponsored by the Weatherhead East Asian Institute.                    
+
+DTSTART;TZID=America/New_York:20141209T12000000
+DTEND;TZID=America/New_York:20141209T13300000
+LOCATION:International Affairs Building, Room 918
+CONTACT:vg2318@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74612@columbia.edu
+SUMMARY: PEPM Online Information Session                                       
+
+DESCRIPTION: Please join us for our online information session on December 10,     
+ 2014. To join, simply click on the link to the session below.The      
+ Program in Economic Policy Management (PEPM) has become a 12-month    
+ program for mid-career professionals leading to the Master of Public  
+ Administration degree. Students will start the full-time program in   
+ June and finish the following May. PEPM focuses on training           
+ professionals and policymakers in the skills required for effective   
+ design and implementation of economic policy in market economies,     
+ with a strong emphasis on the economic problems of developing and     
+ transition economies. The full-time program is especially suited for  
+ mid-career professionals who may only be able to take off a short     
+ time from their current employment. In addition to our economic       
+ policy focus, students may opt to focus on global energy management   
+ and policy, which offers a very strong set of courses focused on      
+ traditional energy markets as well as alternative energy.             
+
+DTSTART;TZID=America/New_York:20141210T09300000
+DTEND;TZID=America/New_York:20141210T10000000
+LOCATION:Online
+CONTACT:pepm@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74612
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_72058@columbia.edu
+SUMMARY: Master of Public Administration in Environmental Science and Policy   
+ (MPA ESP) Information Session                                         
+
+DESCRIPTION: The Earth Institute and the School of International and Public        
+ Affairs present an information session for their Master of Public     
+ Administration in Environmental Science and Policy (ESP) program.nbsp 
+ Interested students will have the opportunity to learn about this     
+ intensive 12-month program and explore how this degree can help start 
+ a career in environmental management, environmental policy            
+ or sustainable development.                                           
+
+DTSTART;TZID=America/New_York:20141211T18000000
+DTEND;TZID=America/New_York:20141211T20000000
+LOCATION:Columbia University, Morningside Campus, The Faculty House
+CONTACT:st2745@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=72058
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_72846@columbia.edu
+SUMMARY: Markets, Labor, and Regulation                                        
+
+DESCRIPTION: Are markets in developing and transition economies over-regulated or  
+ under-regulated? This is a perennial question in the development      
+ discourse, but one for which answers appear to come more from preset  
+ ideology rather than from context specific analysis and evidence.     
+ This conference seeks to explore the frontiers of policy analysis and 
+ research on Markets, Labor and Regulation. It will (i) consider       
+ regulation of output markets and markets for capital as well as the   
+ market for labor, (ii) pay particular attention to the enforcement of 
+ regulations, (iii) explore the links between regulation, deregulation 
+ and inequality, (iv) highlight the political economy of regulation,   
+ and (v) bring in international dimensions of regulation. Co-Sponsored 
+ by Columbia University, Cornell University, the UK Department for     
+ International Development and the World Bank By Invitation Only       
+ Normal 0 false false false EN-US X-NONE X-NONE /* Style Definitions   
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin-top0in mso-para-margin-right0in                 
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+
+DTSTART;TZID=America/New_York:20141217T08300000
+DTEND;TZID=America/New_York:20141218T08300000
+LOCATION:New Delhi, India
+CONTACT:cgeg@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74613@columbia.edu
+SUMMARY: PEPM Online Information Session December 17, 2014                     
+
+DESCRIPTION: Please join us for our online information session on December 17,     
+ 2014. To join, simply click on the link to the session below.The      
+ Program in Economic Policy Management (PEPM) has become a 12-month    
+ program for mid-career professionals leading to the Master of Public  
+ Administration degree. Students will start the full-time program in   
+ June and finish the following May. PEPM focuses on training           
+ professionals and policymakers in the skills required for effective   
+ design and implementation of economic policy in market economies,     
+ with a strong emphasis on the economic problems of developing and     
+ transition economies. The full-time program is especially suited for  
+ mid-career professionals who may only be able to take off a short     
+ time from their current employment. In addition to our economic       
+ policy focus, students may opt to focus on global energy management   
+ and policy, which offers a very strong set of courses focused on      
+ traditional energy markets as well as alternative energy.             
+
+DTSTART;TZID=America/New_York:20141217T09300000
+DTEND;TZID=America/New_York:20141217T10000000
+LOCATION:Online
+CONTACT:pepm@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74613
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75401@columbia.edu
+SUMMARY: SAI SIPA Registration EVENT                                           
+
+DESCRIPTION: SAI SIPA Registration EVENT Full Description                          
+
+DTSTART;TZID=America/New_York:20141231T10000000
+DTEND;TZID=America/New_York:20141231T12000000
+LOCATION:SAI SIPA Registration EVENT Location
+CONTACT:sc3846@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75401
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_72267@columbia.edu
+SUMMARY: Master of Public Administration in Environmental Science and Policy   
+ (MPA ESP) Online Information Session                                  
+
+DESCRIPTION: The Earth Institute and the School of International and Public        
+ Affairs present an online information session for their Master        
+ of Public Administration in Environmental Science and Policy (ESP)    
+ program.nbsp Interested students will have the opportunity to learn   
+ about this intensive 12-month program and explore how this degree can 
+ help start a career in environmental management, environmental policy 
+ or sustainable development. Application DeadlinesNovember 1, 2014     
+ Early Decision with fellowship considerationnbspJanuary 15, 2015      
+ Regular Decision with fellowship considerationOpen to the public.For  
+ more information on the ESP program please click MPA ESPFor more      
+ information on the Earth Institute please click EARTH nbsp            
+
+DTSTART;TZID=America/New_York:20150106T12000000
+DTEND;TZID=America/New_York:20150106T13000000
+LOCATION:online
+CONTACT:st2745@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=72267
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75400@columbia.edu
+SUMMARY: SIPA event by SAI                                                     
+
+DESCRIPTION: SIPA event by SAI Full Description/Summary changed                    
+
+DTSTART;TZID=America/New_York:20150108T10000000
+DTEND;TZID=America/New_York:20150108T12000000
+LOCATION:Columbia Morning side campus
+CONTACT:sc3846@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75400
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74550@columbia.edu
+SUMMARY: SIPA's 39th Annual Washington, D.C. Career Conference                 
+
+DESCRIPTION: Tuesday, January 13, 2015 All Day Career Panels and Discussion        
+ nbspFrom 845am to 425pm, there will be 16 career panels taking place  
+ on various topics featuring SIPA alumni and other professionals based 
+ in the DC area.nbspThe current schedule is as follows                 
+ nbsp845am-930amnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp       
+ Breakfast                                                             
+ nbsp930am-945amnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp       
+ Opening Address nbsp950am-1050amnbspnbspnbspnbspnbspnbspnbspnbspnbsp  
+ Economic Development and Microfinance nbspnbspnbsp                    
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ nbsp Foreign and Civil Service                                        
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Human Rights and Humanitarian Affairs                                 
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Urban and Social Policy and Planning                                  
+ nbsp1115am-1215pmnbspnbspnbspnbspnbspnbspnbsp Corporate Social        
+ Responsibility, Philanthropy, and Foundations nbspnbspnbsp            
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Environmental and Sustainable Development nbspnbspnbsp                
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ nbsp Federal Government/Capitol Hill                                  
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Multilateral Organizations nbsp200pm-300pmnbspnbspnbspnbspnbsp        
+ nbspnbspnbspnbspnbsp Conflict Resolution and Peacebuilding nbsp       
+ nbspnbspnbsp nbspnbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp              
+ nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp Energy Policy        
+ nbspnbspnbsp                                                          
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Defense, Intelligence, and Security                                   
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ Public Sector Consulting                                              
+ nbsp325pm-425pmnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp           
+ Development Consulting nbspnbspnbsp                                   
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ International Media and Communications nbspnbspnbsp nbspnbsp nbsp     
+ nbsp nbsp nbsp nbsp nbsp nbsp                                         
+ nbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp              
+ International Trade and                                               
+ Financenbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ pnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp 
+ International Security Policy and Political Risk Analysis Wednesday,  
+ January 14, 2015 Morning and Afternoon Employer Site Visits From      
+ 900am to 500pm, the Conference will offer employer site visits with a 
+ variety of companies, agencies, and organizations in the Washington,  
+ D.C. area. The employer site visits are organized by OCS and will run 
+ throughout the day. These site visits allow students to acquaint      
+ themselves with the working environment of potential employers and    
+ speak with employers in a more intimate setting. Generally, SIPA      
+ alumni and human resources (HR) representatives are present at these  
+ site visits, providing an excellent networking opportunity for        
+ students. Past site visits have included Booz Allen Hamilton,         
+ Deloitte Consulting, Grameen Bank, Inter-American Development Bank    
+ (IDB), Millennium Challenge Corporation (MCC), Population Services    
+ International, Save the Children, US Agency for International         
+ Development (USAID), US Department of the Treasury, US Environmental  
+ Protection Agency, and the World Bank. Evening Alumni/Student         
+ Networking Reception From 600pm to 800pm, there will be an            
+ Alumni/Student Networking Reception for both alumni working in the    
+ D.C. area and students who are registered for the Conference. This    
+ reception, to which approximately 150 alumni attend each year, will   
+ be held at the Four Seasons Hotel in Georgetown. Thursday, January    
+ 15, 2015 All Day Alumni Informational Interviews A list of alumni who 
+ have made themselves available for informational interviewsnbspon the 
+ final day ofnbspthe D.C. Conference will be provided to students who  
+ have registered for the Conference. Students will then independently  
+ scheduled pre-arranged, informationalnbspinterviews with these alumni 
+ any time from 900am to 500pm on Friday, January 17. This is an        
+ opportunity for students to design their own interview, learn about   
+ their career and organizational interests, and develop contacts.      
+ nbspThroughout the fall, OCS contacts D.C. metro region alumni        
+ tonbspencourage them to make themselves available for interviews with 
+ students on January 15. The list of available alumni will be provided 
+ tonbspstudents upon registering for the Conference. nbsp              
+ Accommodationsnbspand Travel Students are responsible for their own   
+ accommodations and travel. You should make arrangements that are most 
+ convenient for you some students stay with friends or family, while   
+ others book a hotel. OCS negotiates discounted group rates at hotels  
+ in Washington, D.C. on behalf of the Conference participants.         
+
+DTSTART;TZID=America/New_York:20150113T08450000
+DTEND;TZID=America/New_York:20150115T18000000
+LOCATION:Various locations in Washington, D.C. (a full schedule will be sent to registered participants)
+CONTACT:sipa.dc.conference@gmail.com
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74550
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_72268@columbia.edu
+SUMMARY: Master of Public Administration in Environmental Science and Policy   
+ (MPA ESP) Online Information Session                                  
+
+DESCRIPTION: The Earth Institute and the School of International and Public        
+ Affairs present an online information session for their Master        
+ of Public Administration in Environmental Science and Policy (ESP)    
+ program.nbsp Interested students will have the opportunity to learn   
+ about this intensive 12-month program and explore how this degree can 
+ help start a career in environmental management, environmental policy 
+ or sustainable development. Application DeadlinesNovember 1, 2014     
+ Early Decision with fellowship considerationnbspJanuary 15, 2015      
+ Regular Decision with fellowship considerationOpen to the public.For  
+ more information on the ESP program please click MPA ESPFor more      
+ information on the Earth Institute please click EARTH nbsp            
+
+DTSTART;TZID=America/New_York:20150205T14000000
+DTEND;TZID=America/New_York:20150205T15000000
+LOCATION:online
+CONTACT:st2745@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=72268
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75251@columbia.edu
+SUMMARY: Georgia and its World Bank Ease of Business Rankings                  
+
+DESCRIPTION: Please join us for a talk bynbspDr. Samuel Schuethnbspon his work on  
+ increasing Georgias ranking on the World Banks Business Index.nbspDr. 
+ Samuel Schuethnbspis a professional social scientist based at the     
+ University of Minnesota whonbspleads the design, implementation, and  
+ analysis of quantitative and qualitative research on international    
+ development projects and programs. He has                             
+ implementednbspmixed-methods research to evaluate the impact of       
+ stability and governance initiatives, measure economic growth, and    
+ construct and deconstruct indices of good governance, business        
+ confidence and competitiveness innbspEthiopia, Somalia, Jordan,       
+ Georgia (Caucasus Republic), and Afghanistan. He is an expert in the  
+ design of indicators and indices for measuring governance quality and 
+ economic development. In Georgia he evaluated a USAID project that    
+ worked with the revolutionary government of Mikhail Saakashvili to    
+ dramatically increase the countrys ranking on the World Banks Doing   
+ Business Index. This rankings ascension was used to recast the        
+ country as an emerging market instead of a post-Soviet failed state.  
+ Since completing this work in Georgia, Dr. Schueth has engaged in the 
+ evaluation, construction, and interpretation of global rankings and   
+ ratings in a variety of contexts and through different international  
+ development initiatives and publications.                             
+
+DTSTART;TZID=America/New_York:20150212T12000000
+DTEND;TZID=America/New_York:20150212T13000000
+LOCATION:International Affairs Building, Room 1219
+CONTACT:zid2000@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73612@columbia.edu
+SUMMARY: South Asia Institute: Atul Kohli, "Corporate Imperialism & East India 
+ Company"                                                              
+
+DESCRIPTION: A talk by Atul Kohli (Princeton) Corporate Imperialismnbsp East India 
+ Company RevisitednbspAtul Kohli is the David K.E. Bruce Professor of  
+ International Affairs and Professor of Politics and International     
+ Affairs at Princeton University. His principal research interests are 
+ in the areas of comparative political economy with a focus on the     
+ developing countries. He is the author of Poverty amid Plenty in the  
+ New India (2012) (a Foreign Affairs Best Book of 2012 on Asia and the 
+ Pacific) State-Directed Development Political Power and               
+ Industrialization in the Global Periphery (winner of the Charles      
+ Levine Award (2005) of the International Political Science            
+ Association) Democracy and Discontent Indias Growing Crisis of        
+ Governability (1991) and The State and Poverty in India (1987).       
+
+DTSTART;TZID=America/New_York:20150420T16000000
+DTEND;TZID=America/New_York:20150420T17300000
+LOCATION:Columbia University Morningside Campus Knox Hall, Room 208
+CONTACT:wac2112@columbia.edu
+END:VEVENT
+END:VCALENDAR
