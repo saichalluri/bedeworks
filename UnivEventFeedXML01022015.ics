@@ -1,0 +1,686 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sundial_74457@columbia.edu
+SUMMARY: Improvisation in the Arts: A Symposium                                
+
+DESCRIPTION: Romare Bearden constantly made the color he constantly looked for.    
+ His collages mirrored and enacted what critic Laura Harris calls the  
+ aesthetics of black social life, moving against the brutalities of    
+ removal and enclosure that structure global black experience and,     
+ therefore, the modern world. A Black Odyssey refers, though, not only 
+ to Afro-diasporic travel and travail but also to an anoriginary       
+ movement of in the art of the West that blackness has                 
+ come to signifythe polyrhythmic, oral-formulaic, insurgent innovation 
+ that was also Homers home away from home.In this panel,               
+ a multi-disciplinary group of artists and scholars will sit in with   
+ Bearden, gathering with and around his Odyssean practice,             
+ his restless, wandering devotion to the scrap, the fragment, the      
+ musical moment, and his abiding in and with the imagination, whose    
+ enduring philosophical racialization renders it both disposable and   
+ appropriable. The intensity of Beardens commitment to the aesthetic   
+ contact and content of black social life in its broadest dimensions   
+ will serve as an impetus for a wide-ranging discussion                
+ of the protocols and implications of improvisation in music,          
+ literature, theology, cinema, dance and critical theory. Along with   
+ Bearden and, most importantly, the audience, the panel hopes to form  
+ a new experimental band. Program ParticipantsFred Moten is author of  
+ In the Break The Aesthetics of the Black Radical Tradition, Hughsons  
+ Tavern, B. Jenkins, The Undercommons Fugitive Planning and Black      
+ Study (with Stefano Harney), The Feel Trio and The Little Edges.      
+ Moten lives in Los Angeles and teaches at the University of           
+ California, Riverside. John Akomfrah OBE, is a seminal figure in      
+ Black British Cinema and forerunner in digital cinematography. He has 
+ a body of work that is considered one of the most distinctive and     
+ innovative in contemporary Britain. Born in Ghana, to politically     
+ active parents he moved to London at an early age. He was a founding  
+ figure in the influential cine cultural group Black Audio Film        
+ Collective which was dedicated to exploring questions of Black        
+ British identity, race and class through film and media. In 1999, he  
+ set up Smoking Dogs Films - which simultaneously cohabits the worlds  
+ of broadcast, cinema and the arts - with his long term producing      
+ partners, David Lawson and Lina Gopaul. John has served on numerous   
+ boards as a governor, including the British Film Institute and Film   
+ London and has taught at a number of institutions around the world    
+ including MIT, Yale and the University of Westminster. John Akomfrah  
+ is a director, writer and theorist who creates documentaries, feature 
+ films and exhibitions that have garnered international critical       
+ acclaim. J. Kameron Carternbsp is a professor and teaches courses in  
+ both theology and black church studies. Working as a theologian, he   
+ addresses the basic areas of Christian thought, especially attending  
+ to Christology (the person and work of Jesus Christ) and theological  
+ anthropology (the human being in Christian perspective). But in       
+ engaging such matters, he does so with a view not just to the church  
+ or to Christian believers. He does so with a view to the broader      
+ humanities, particularly, with an eye toward such fields as cultural  
+ studies, gender studies, and philosophy and literature. His book Race 
+ A Theological Account (New York Oxford University Press, 2008) has    
+ recently appeared. He is presently working on a new book on the       
+ ideological uses of Jesus in the modern invention of the human, and   
+ thus in the making and sustaining of the present. Addressing this in  
+ its religious, secular, and now arguably post-secular forms,          
+ Professor Carter calls this the problem of the cultural Jesus. The    
+ project provides a theological, which at the same time is a cultural, 
+ archaeology of the present by getting inside of this problem. But     
+ beyond this, and having gotten inside of this problem, Professor      
+ Carter reimagines the identity of Jesus and the politics of his       
+ identity in light of the new, global realities of the 21st century.   
+ Danielle Goldman In her research, she analyzes the social, cultural,  
+ and historical conditions that affect how people move.                
+ She is fascinated by critical theories of the body, andnbsp tendd to  
+ think about dance as an arena for experimental relations between self 
+ and other. These interests are informed by her experience as a dancer 
+  taking class, rehearsing, and performing (most recently for the      
+ choreographers DD Dorvillier and Beth Gill). Persistent shuttling     
+ between dance practice and academic work  two worlds that she has     
+ been trying to bridge for as long as she can remember  has shown her  
+ that dance and critical theory inform each other in significant ways, 
+ revealing much about embodiment, subjectivity, and notions            
+ of identity. M. NourbeSe Philips is an unembedded poet, essayist,     
+ novelist and playwright who lives in the space-time of the City of    
+ Toronto. She practiced law in the City of Toronto for seven years     
+ before becoming a poet and writer. She has published four books of    
+ poetry including the seminal She Tries Her Tongue Her Silence Softly  
+ Breaks, one novel and three collections of essays. Her most recent    
+ work is the conceptually innovative, book-length poem Zong!, which    
+ explodes the legal archive as it relates to slavery. Among her awards 
+ are numerous Canada Council and Ontario Arts Council grants, as well  
+ as the Pushcart Prize (USA, 1981), the Casa de las Americas Prize     
+ (Cuba, 1988), the Lawrence Foundation Prize (USA, 1994), and the Arts 
+ Foundation of Toronto Writing and Publishing Award                    
+ (Toronto,1995),nbsp Dora Award finalist (1999). Her fellowships       
+ include Guggenheim (1990), McDowell (1991), and Rockefeller           
+ (Bellagio) (2005). She has been Writer-in-Residence at several        
+ universities. Matana Robertsnbsp internationally documented and       
+ Chicago-born, Matana (m (a)-ta-Nah\) Roberts is a musician, her main  
+ instrument is the alto saxophone and she works in many                
+ performance/sound mediums including improvisation, dance, poetry, and 
+ theater. She aims to expose the mystical roots and the intuitive      
+ spirit-raising traditions of American creative expression in her      
+ music. Her innovative work has forged new conceptual approaches to    
+ considering narrative, history, and political expression within       
+ improvisatory structures. Past member of the BRC Black Rock Coalition 
+ and the AACM Association for the Advancement of Creative Musicians.   
+ She holds two degrees in music performance. She is based in New York  
+ City.Online registration is required and currently open.              
+
+DTSTART;TZID=America/New_York:20141202T10000000
+DTEND;TZID=America/New_York:20141202T16000000
+LOCATION:Columbia University Morningside Campus Faculty Room, Low Memorial Library
+CONTACT:events-reply@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74457
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74206@columbia.edu
+SUMMARY: The Case Of China: How Migration Shapes Political Attitudes and       
+ Participation in Origin Communities                                   
+
+DESCRIPTION: This presentation examines the consequences of migration for          
+ political transformation in origin communities in China. Lu broadens  
+ previous scholarly focus on the transnational activism of politically 
+ conscious migrants to include unselfconscious transnationalism that   
+ is more common and potentially more influential. Yao Lu is assistant  
+ professor of sociology at Columbia University. Her research focuses   
+ on how migration and immigration intersect with social, economic, and 
+ political processes across diverse contexts. She is especially        
+ interested in understanding the role of migration in social and       
+ political change in migrant-sending areas. Information fom.barnard.edu
+
+DTSTART;TZID=America/New_York:20141202T18000000
+DTEND;TZID=America/New_York:20141202T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard Hall, Sulzberger Parlor
+CONTACT:lstuffle@barnard.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75387@columbia.edu
+SUMMARY: Old Masters: Art Spiegelman, Jules Feiffer, Alex Melamid              
+
+DESCRIPTION: Legendary artists and authors Jules Feiffer, Art Spiegelman, and Alex 
+ Melamid will discuss the history and achievements of aging artists,   
+ with a focus on artists whose best-known works were completed in the  
+ later years of their lives. The discussion will use as its starting   
+ point what renown critic Barbara Hernstein Smith called the senile    
+ sublime. From Michelangelo, to Willem de Kooning, to Chester Gould,   
+ all of whom lived into their 80s, these are artists whose later works 
+ reflect a higher state of mental freedom. It is these late works that 
+ have gained recognition at the turn of! the 21st Century.             
+ The discussion will also turn to Feiffer, an Old Master who has       
+ re-invented himself as an 85-year-old young graphic novelist, having  
+ just published Kill My Mother to great acclaim. Normal 0 false false  
+ false EN-US X-NONE X-NONE /* Style Definitions */                     
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin The event will be Livestreamed        
+ at                                                                    
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+ umbia.edu/event/old-masters-art-spiegelman-jules-feiffer-alex-melamid 
+ Normal 0 false false false EN-US X-NONE X-NONE /* Style Definitions   
+ */ table.MsoNormalTable mso-style-nameTable Normal                    
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+
+DTSTART;TZID=America/New_York:20141202T18150000
+DTEND;TZID=America/New_York:20141202T20300000
+LOCATION:Columbia University Morningside Campus The Teatro at The Italian Academy for Advanced Studies 1161 Amsterdam Avenue New York, NY 10027
+CONTACT:heymancenter@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74458@columbia.edu
+SUMMARY: A Recital for Terry Adkins (2014)                                     
+
+DESCRIPTION: George Lewis A Recital for Terry Adkins (2014) Ensemble Pamplemousse  
+ George Lewis, interactive media World Premiere A Recital for Terry    
+ Adkins is a large-scale open-form ritual with live interaction        
+ between instruments, electronic sounds, and digitized still and       
+ moving images drawn from the work of Romare Bearden and Terry Adkins. 
+ Program Participants George E. Lewis is the Edwin H. Case Professor   
+ of American Music at Columbia University. A 2002 MacArthur Fellow and 
+ a member of the Association for the Advancement of Creative Musicians 
+ (AACM) since 1971, Lewiss compositions are documented on more than    
+ 140 recordings, and have been presented by the BBC Scottish Symphony  
+ Orchestra, Boston Modern Orchestra Project, Talea Ensemble, Dinosaur  
+ Annex, Ensemble Pamplemousse, Wet Ink, Ensemble Erik Satie, Eco       
+ Ensemble, and others, with commissions from American Composers        
+ Orchestra, International Contemporary Ensemble, Harvestworks,         
+ Ensemble Either/Or, Orkestra Futura, Turning Point Ensemble, San      
+ Francisco Contemporary Music Players, 2010 Vancouver Cultural         
+ Olympiad, IRCAM, Glasgow Improvisers Orchestra, and others. Most      
+ recently, Lewis has served as Ernest Bloch Visiting Professor,        
+ University of California, Berkeley Paul Fromm Composer in Residence,  
+ American Academy in Rome and Resident Scholar, Center                 
+ for Disciplinary Innovation, University of Chicago. Lewis received    
+ the 2012 SEAMUS Award from the Society for Electro-Acoustic Music in  
+ the United States, and his widely acclaimed book, A Power Stronger    
+ Than Itself The AACM and American Experimental Music (University of   
+ Chicago Press, 2008) received the American Book Award                 
+ and the American Musicological Societys first Music in American       
+ Culture Award. Lewis and Benjamin Piekut are co-editors of the        
+ forthcoming two-volume Oxford Handbook of Critical Improvisation      
+ Studies. Composer/performer collective Ensemble Pamplemousse was      
+ founded in 2003 to provide a focal point for like-minded creators     
+ with a thirst for sonic exploration. The ensemble is a close-knit     
+ group of divergent artistic personalities, emergent from training in  
+ disparate musical fields. Their collective love for the exquisite in  
+ all sonic realms leads the ensemble to persistently discover new      
+ vistas of sound at the frayed edges of dissective instrumental        
+ performance technique. Compositions aggregate each members unique     
+ virtuosic talents into extraordinary magical moments. In the flexible 
+ moments of performance, the ensemble weaves together shapes of        
+ resonance, clusters of glitch, skitters of hyper action, and masses   
+ of absurdity into impeccable structures of unified beauty. For more   
+ information on this ensemble, please visit                            
+ http//www.ensemblepamplemousse.org/ Online registration is required   
+ and currently open.                                                   
+
+DTSTART;TZID=America/New_York:20141202T20000000
+DTEND;TZID=America/New_York:20141202T22000000
+LOCATION:Columbia University Morningside Campus St. Paul's Chapel
+CONTACT:events-reply@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74458
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74904@columbia.edu
+SUMMARY: Marcel Proust et les arts décoratifs: Art nouveau, cosmopolitisme et  
+ antisémitisme dans À la recherche du temps perdu                      
+
+DESCRIPTION: Sophie Basch, introduced by Elisabeth Ladenson Lecture in French The  
+ French coined anglicism modern style refers to the international      
+ revival of the decorative arts in the early 20th century, a blend of  
+ aesthetics and social ideas. Sophie Basch tackles for the first time  
+ the whole question of decorative arts in  la recherche in all its     
+ ramifications, in a fascinating instance of the network of            
+ connections at the heart of Prousts system. Sophie Basch              
+ is a professor of 19th and 20th century French literature at the      
+ University of Paris-Sorbonne. Her book on Proust and the decorative   
+ arts was just published by Brepols, in the collection Le Champ        
+ proustien directed by Nathalie Mauriac Dyer.                          
+
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T19300000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:ll2787@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74766@columbia.edu
+SUMMARY: East Asian Historical Thought in Comparative Perspective: What        
+ History Is, Knows, Does: THE WEST                                     
+
+DESCRIPTION: Lecture with Eelco Runia, author of Moved by the Past.                
+ No registration required. Sponsored by Weatherhead East               
+ Asian Institute and the Department of History.                        
+
+DTSTART;TZID=America/New_York:20141203T18000000
+DTEND;TZID=America/New_York:20141203T20000000
+LOCATION:Columbia University Morningside Campus International Affairs Building, Room 918
+CONTACT:lem2111@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75388@columbia.edu
+SUMMARY: Public Humanities Initiative The Justice Forum: Paradigms             
+ for Justice: Beyond Punishment                                        
+
+DESCRIPTION: There is a growing consensus across the country about the devastating 
+ consequences of mass incarceration and criminal justice policy.       
+ Increasingly, scholars, clinicians, educators, politicians and        
+ activists are examining the ways in which punishment is used in many  
+ facets of our society including schools, courts, jails and prisons.   
+ Many have found that the use of punishment as the core                
+ of the criminal justice system is more damaging tha! n useful. There  
+ is also a focus on the disproportionate use of punitive polices and   
+ practices in Black communities and low-income communities of color.   
+ This punishment paradigm needs to be replaced and people are          
+ exploring alternative approaches to harm done, discipline             
+ and conflict. This roundtable will bring together scholars,           
+ educators, clinicians, activists and community members to critically  
+ examine the utility of punishment in our society and discuss          
+ alternative approaches to justice, accountability and                 
+ safety. Speakers will discuss alternative frameworks and responses    
+ including restorative justice theory and practice in different        
+ contexts a public health approach to analyzing the causes             
+ and consequences of behavior that is currently criminalized,          
+ decarceration, and finally, the theory and work of prison             
+ abolitionists. Normal 0 false false false EN-US X-NONE X-NONE /*      
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+
+DTSTART;TZID=America/New_York:20141203T18300000
+DTEND;TZID=America/New_York:20141203T20300000
+LOCATION:Columbia Law School, Columbia University Morningside Campus Jerome Greene 104
+CONTACT:heymancenter@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75340@columbia.edu
+SUMMARY: Research Without Borders Panel: Big Open Data                         
+
+DESCRIPTION: Please join the Center for Digital Research and Scholarships          
+ Scholarly Communication Program for Research Without Borders Big Open 
+ Data, our second event of the academic year in our Research Without   
+ Borders panel discussion series. This event is free and open to the   
+ public. If you plan to attend, please RSVP to lwilliams@columbia.edu. 
+ How are large amounts of data managed, made sense of, and made        
+ accessible? What are the challenges of working with large open        
+ datasets, and how are different academic disciplines making use of    
+ them? In this panel discussion, researchers will explore big open     
+ data from three perspectives the humanities, journalism, and the      
+ social web.Our panelistsnbsp- David Wrisley, Associate Professor in   
+ the Department of English and the Civilization Sequence Program at    
+ the American University of Beirut Medieval Fellow at Fordham          
+ Universitys Center for Medieval Studies.nbsp- Jonathan Stray, Fellow  
+ at Columbia Universitys Tow School for Digital Journalism lead on the 
+ development of the Associated Press and the Knight Foundation         
+ Overview Project, an open-source document archive analysis system for 
+ investigative journalists.nbsp- Alice Marwick, Assistant Professor at 
+ Fordham Universitys Communications and Media Studies Department       
+ academic affiliate at the Center on Law and Information Policy (CLIP) 
+ at Fordham Law School.Our moderatornbsp- David Park, Dean of          
+ Strategic Initiatives at Columbia University senior advisor to the    
+ Executive Vice President and Dean of Faculty of the Arts and Sciences 
+ member of Columbia Universitys Institute for Data Sciences and        
+ Engineering New Media Center Director of Special Projects at the      
+ Applied Statistics Center founding member of Columbia Universitys     
+ Digital Storytelling Lab.                                             
+
+DTSTART;TZID=America/New_York:20141204T14000000
+DTEND;TZID=America/New_York:20141204T16000000
+LOCATION:Columbia University Morningside Campus Faculty House, Presidential Rooms 2 & 3
+CONTACT:lwilliams@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75340
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75343@columbia.edu
+SUMMARY: Cultural Resentment and Valorization in Postwar Japanese Literary     
+ Criticism: Nakamura Mitsuo's Spirit of Literature                   
+
+DESCRIPTION: Guest speaker Atsuko Ueda (Associate Professor of Japanese            
+ Literature, Princeton University) Free and open to the public. Normal 
+ 0 false false false EN-US X-NONE X-NONE /* Style Definitions */       
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-parent mso-padding-alt0in 5.4pt 0in    
+ 5.4pt mso-para-margin0in mso-para-margin-bottom.0001pt                
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin                                       
+
+DTSTART;TZID=America/New_York:20141204T18000000
+DTEND;TZID=America/New_York:20141204T19300000
+LOCATION:Columbia University Morningside Campus 403 Kent Hall
+CONTACT:donald-keene-center@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74459@columbia.edu
+SUMMARY: From Chios to 125th Street: Toward a Black Odysseus                   
+
+DESCRIPTION: By painting a black Odyssey, Romare Bearden connected the desire of   
+ African American people to return home with Homers epic. In Beardens  
+ art, the Odyssey is linked to the Freedom Riders, the Underground     
+ Railroad, Marcus Garveys steamship line, and Rosa Parks on a Mobile   
+ bus. Regardless of whether or not they knew Bearden, filmmakers have  
+ also united Homer and American blacks. In John Sayles The Brother     
+ from Another Planet (1984), an alien played by the African American   
+ actor Joe Morton lands in Harlem and spends the rest of the film      
+ trying to return to his home planet. Joel and Ethan Coens O Brother,  
+ Where Art Thou? (2000), directly based on the Odyssey, has key black  
+ characters, one of whom resembles Homer himself. There are also       
+ Homeric references in the Coens Inside Llewyn Davis (2013), including 
+ a black cat named Ulysses. To ground a black Odyssey within larger    
+ cinematic traditions, we will also watch scenes from Godards Le mpris 
+ (Contempt) (1963), in which a director seeks to make a film of the    
+ Odyssey, Joseph Stricks Ulysses (1967), based on James Joyces novel,  
+ and of course, 2001 A Space Odyssey (1968).Program ParticipantKrin    
+ Gabbard is Professor Emeritus of Comparative Literature and Cultural  
+ Studies at Stony Brook University.nbsp Since 1971, he has taught      
+ courses in cinema studies, the cultures of jazz, and the history of   
+ literature.nbsp He is the author of Hotter than That The Trumpet,     
+ Jazz, and American Culture (Farrar, Straus amp Giroux, 2009), Black   
+ Magic White Hollywood and African American Culture (Rutgers U Press,  
+ 2004), Jammin at the Margins Jazz and the American Cinema (U of       
+ Chicago Press, 1996) and Psychiatry and the Cinema (2nd ed.,          
+ 1999).nbsp He is currently writing an interpretive biography of jazz  
+ artist Charles Mingus. Online registration is required.               
+
+DTSTART;TZID=America/New_York:20141204T18300000
+DTEND;TZID=America/New_York:20141204T20300000
+LOCATION:Columbia University Morningside Campus East Gallery, Buell Hall
+CONTACT:events-reply@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=74459
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74952@columbia.edu
+SUMMARY: Cinema Thursday: Aya de Yopougon (Aya of Yop City)                    
+
+DESCRIPTION: @font-face  font-family Calibri p.MsoNormal, li.MsoNormal,            
+ div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt font-family     
+ Times New Roman div.Section1  page Section1  p.MsoNormal,             
+ li.MsoNormal, div.MsoNormal  margin 0in 0in 0.0001pt font-size 12pt   
+ font-family Times New Roman ins  text-decoration none span.msoIns     
+ text-decoration underline color black span.msoDel  text-decoration    
+ line-through color red div.Section1  page Section1  Marguerite Abouet 
+ amp Clment Oubrerie, 2010, 84 min. Location 2nd floor, Buell Hall     
+ (Maison Franaise) nbsp Based on Marguerite Abouets popular graphic    
+ novel series, this animated film follows 19-year old Aya, who would   
+ like to become a doctor one day, and her two friends, who prefer to   
+ party, through life in their Ivory Coast, working class neighborhood  
+ in the 1970s. 12.00 Normal 0 false false false EN-US X-NONE X-NONE /* 
+ Style Definitions */ table.MsoNormalTable mso-style-nameTable Normal  
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi 12.00 Normal 0 false false false EN-US  
+ X-NONE X-NONE st1\*behaviorurl(#ieooui)  /* Style Definitions */      
+ table.MsoNormalTable mso-style-nameTable Normal                       
+ mso-tstyle-rowband-size0 mso-tstyle-colband-size0 mso-style-noshowyes 
+ mso-style-priority99 mso-style-qformatyes mso-style-parent            
+ mso-padding-alt0in 5.4pt 0in 5.4pt mso-para-margin0in                 
+ mso-para-margin-bottom.0001pt mso-paginationwidow-orphan              
+ font-size11.0pt font-familyCalibri,sans-serif                         
+ mso-ascii-font-familyCalibri mso-ascii-theme-fontminor-latin          
+ mso-fareast-font-familyTimes New Roman                                
+ mso-fareast-theme-fontminor-fareast mso-hansi-font-familyCalibri      
+ mso-hansi-theme-fontminor-latin mso-bidi-font-familyTimes New Roman   
+ mso-bidi-theme-fontminor-bidi                                         
+
+DTSTART;TZID=America/New_York:20141204T19300000
+DTEND;TZID=America/New_York:20141204T22000000
+LOCATION:Columbia University Morningside Campus 2nd floor, Buell Hall
+CONTACT:ll2787@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73785@columbia.edu
+SUMMARY: Composer Portraits: Keeril Makan                                      
+
+DESCRIPTION: An arrestingly gifted young American composer (The New Yorker),       
+ Keeril Makan is an artist who delves deep, engaging with and          
+ reflecting human struggles and emotions in his work. His early        
+ compositions explored the violence of the war in Afghanistan as well  
+ as his own personal struggle with depression. In more recent works,   
+ Makan has embraced stillness, celebrating sound in and of itself, and 
+ demonstrating an elegant control of timbre and color.                 
+
+DTSTART;TZID=America/New_York:20141205T20000000
+DTEND;TZID=America/New_York:20141205T22000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:miller-arts@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75235@columbia.edu
+SUMMARY: Tell Me a Story: Family Day                                           
+
+DESCRIPTION: Tell Me A Story! FREE Romare Bearden A Black Odyssey Family Day!!     
+ nbsp Join us at the Miriam and Ira D. Wallach Art Gallery at Columbia 
+ University on Saturday 6th December from 10am  1pm for a morning of   
+ readings on Bearden themed children books, interactive jazz musical   
+ performances and family gallery tours of the Romare Bearden A Black   
+ Odyssey exhibition every 30 minutes! nbsp Our readers                 
+ are the award-wining poet Mervyn Taylor, Broadway actress Sheria      
+ Irving and movie actress Devyn Tyler!                                 
+
+DTSTART;TZID=America/New_York:20141206T10000000
+DTEND;TZID=America/New_York:20141206T13000000
+LOCATION:Columbia University Morningside Campus Miriam and Ira D. Wallach Art Gallery Schermerhorn Hall, 8th Floor
+CONTACT:wallach@columbia.edu
+URL:https://sundial-ivandev.ias-drupal7-dev.cc.columbia.edu/sundial/webapi
+ /register.php?eventID=75235
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75276@columbia.edu
+SUMMARY: CUMC Symphony Orchestra presents: Messiah Sing!                       
+
+DESCRIPTION: The CUMC Symphony Orchestra will be performing selections from        
+ Handels Messiah with soloists and choir. Musical scores will be       
+ provided for you to sing along. Start your holiday season on the      
+ right note with an afternoon of beautiful, traditional                
+ music! Refreshments will be provided.nbsp Normal 0 false false false  
+ EN-US X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable      
+ mso-style-nameTable Normal mso-tstyle-rowband-size0                   
+ mso-tstyle-colband-size0 mso-style-noshowyes mso-style-priority99     
+ mso-style-parent mso-padding-alt0in 5.4pt 0in 5.4pt                   
+ mso-para-margin-top0in mso-para-margin-right0in                       
+ mso-para-margin-bottom8.0pt mso-para-margin-left0in line-height107%   
+ mso-paginationwidow-orphan font-size11.0pt                            
+ font-familyCalibri,sans-serif mso-ascii-font-familyCalibri            
+ mso-ascii-theme-fontminor-latin mso-hansi-font-familyCalibri          
+ mso-hansi-theme-fontminor-latin About the OrchestraThe CUMC Symphony  
+ Orchestra is composed of students, faculty, and staff from the many   
+ schools and departments of Columbia University Medical Center,        
+ including GSAS, Public Health, Nursing, Dental, the College of        
+ Physicians and Surgeons, NYPH and more. Our mission is                
+ to use orchestral music and symphonic concerts to bring together the  
+ diverse population of the CUMC community, including students,         
+ teachers, researchers, clinicians, healthcare workers, staff, and     
+ patients and their families. Normal 0 false false false EN-US X-NONE  
+ X-NONE                                                                
+
+DTSTART;TZID=America/New_York:20141206T18000000
+DTEND;TZID=America/New_York:20141206T20000000
+LOCATION:Columbia University Medical Center Bard Hall Student Lounge
+CONTACT:cumc.symphony@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75337@columbia.edu
+SUMMARY: Pop-Up Concerts: Mivos Quartet                                        
+
+DESCRIPTION: Bring a friend, grab a drink, and join some of todays most            
+ interesting performers onstage at Miller Theatre on select Tuesday    
+ evenings. One of Americas most daring and ferocious new-music         
+ ensembles (The Chicago Reader) makes their Miller debut with          
+ imaginative works from three composers from across the globe. The     
+ evening includes New York guitarist and composer Patrick Higgins      
+ darkly dramatic Aletheia and twelve microludes from Romanian-born     
+ composer Gyrgy Kurtg  passionate, serene, and haunting in turns  that 
+ demonstrate the breadth of this young quartets talent. All concerts   
+ start at 6 p.m. Admission is on a first-come, first-served basis, and 
+ doors open at 530 p.m.                                                
+
+DTSTART;TZID=America/New_York:20141209T18000000
+DTEND;TZID=America/New_York:20141209T20000000
+LOCATION:Columbia University Morningside Campus Miller Theatre
+CONTACT:nsc2125@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74468@columbia.edu
+SUMMARY: Concert: Berio in NYC (1965-1972)                                     
+
+DESCRIPTION: SAI REMOVED DESCRIPTION                                               
+
+DTSTART;TZID=America/New_York:20141210T19000000
+DTEND;TZID=America/New_York:20141210T20300000
+LOCATION:Columbia University Morningside Campus Italian Academy
+CONTACT:rw2115@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_66212@columbia.edu
+SUMMARY: Pulmonary, Allergy, and Critical Care Medicine 2014                   
+
+DESCRIPTION: Title Pulmonary, Allergy, amp Critical Care Medicine 2014 Course      
+ Director(s) Neil Schluger MD Byron Thomashow, MD Scope Dates December 
+ 12, 2014 Description amp Objectives To address both common and        
+ uncommon challenges that medical practitioners face nbspin a one-day  
+ ACCME accredited course Registration Space is Limited. Early          
+ Registration is Encouraged. By Mail Complete the registration form    
+ and mail with full payment to Columbia University Department of       
+ Medicine ATTN Karen Wisdom 622 West 168th Street, PH8 East 105 New    
+ York, NY 10032 By Fax Registrants may fax the registration form with  
+ credit card information to (212) 305.8466 On-Line Registration        
+ http//columbiamedicine.org/ By Telephone (212) 342 - 2107 Additional  
+ Information Contact Department of Medicine Columbia University        
+ College of Physicians amp Surgeons nbspnbspnbspnbspnbspnbsp 622 West  
+ 168th Street, PH8 East, room 105 nbspnbspnbspnbspnbspnbsp New York,   
+ NY 10032 nbspnbspnbspnbspnbspnbsp Telephone (212) 342 - 2107          
+ nbspnbspnbspnbspnbspnbsp Fax (212) 305                                
+ - 8466 E-mail khm2101@columbia.edu http//columbiamedicinecme.org      
+
+DTSTART;TZID=America/New_York:20141212T08300000
+DTEND;TZID=America/New_York:20141212T17300000
+LOCATION:Columbia University Morningside Campus Vivian & Seymour Milstein Family Heart Center Myrna Daniels Auditorium
+CONTACT:khm2101@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_74273@columbia.edu
+SUMMARY: Barnard in the City                                                   
+
+DESCRIPTION: Join us for a talk that explores Barnards multifaceted relationship   
+ to the city it calls home. Panelists consider a variety of topics,    
+ from real-estate history and how Barnard became a campus, to student  
+ activism in the progressive era, and how Barnard became a cultural    
+ presence and a patron of the arts. Whether were tracing how Barnards  
+ onetime remoteness in the former fortress of Morningside Heights gave 
+ way to its influence on its changing and developing neighborhood, or  
+ the unionization drive of the 1980s and the Colleges subsequent       
+ reputation as an employer, youll gain a rare and nuanced perspective  
+ on the countrys most sought-after womens college. Information         
+ 212.854.5938                                                          
+
+DTSTART;TZID=America/New_York:20141216T18000000
+DTEND;TZID=America/New_York:20141216T19300000
+LOCATION:Columbia University Morningside Campus Barnard College Barnard Hall, Sulzberger Parlor
+CONTACT:lstuffle@barnard.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_75399@columbia.edu
+SUMMARY: sai uni event                                                         
+
+DESCRIPTION: sai univ full description or summary                                  
+
+DTSTART;TZID=America/New_York:20141222T10000000
+DTEND;TZID=America/New_York:20141227T10000000
+LOCATION:dev location
+CONTACT:sc3846@columbia.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:sundial_73612@columbia.edu
+SUMMARY: South Asia Institute: Atul Kohli, "Corporate Imperialism & East India 
+ Company"                                                              
+
+DESCRIPTION: A talk by Atul Kohli (Princeton) Corporate Imperialismnbsp East India 
+ Company RevisitednbspAtul Kohli is the David K.E. Bruce Professor of  
+ International Affairs and Professor of Politics and International     
+ Affairs at Princeton University. His principal research interests are 
+ in the areas of comparative political economy with a focus on the     
+ developing countries. He is the author of Poverty amid Plenty in the  
+ New India (2012) (a Foreign Affairs Best Book of 2012 on Asia and the 
+ Pacific) State-Directed Development Political Power and               
+ Industrialization in the Global Periphery (winner of the Charles      
+ Levine Award (2005) of the International Political Science            
+ Association) Democracy and Discontent Indias Growing Crisis of        
+ Governability (1991) and The State and Poverty in India (1987).       
+
+DTSTART;TZID=America/New_York:20150420T16000000
+DTEND;TZID=America/New_York:20150420T17300000
+LOCATION:Columbia University Morningside Campus Knox Hall, Room 208
+CONTACT:wac2112@columbia.edu
+END:VEVENT
+END:VCALENDAR
