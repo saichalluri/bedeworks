@@ -43,7 +43,7 @@
                     $.ajax({
                         'url': yql_url,
                         'data': {
-                            'q': 'SELECT * FROM json WHERE url="' + url + '"',
+                            'q': 'SELECT * FROM json WHERE url="' + encodeURIComponent(url) + '"',
                             'format': 'json',
                             'jsonCompat': 'new',
                         },
