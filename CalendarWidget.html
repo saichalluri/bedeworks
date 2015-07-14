@@ -83,7 +83,7 @@
                 eventRender: function (event, element) {
 		    element.find('.fc-event-title').html(event.title);
 		},
-		viewRender: function(view) {              
+		viewDisplay: function(view) {              
     			if(typeof(timelineInterval) != 'undefined'){
       				window.clearInterval(timelineInterval); 
     			}
