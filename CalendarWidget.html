@@ -44,7 +44,9 @@
                     //Prod Journalism
                     //var url  = 'https://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(((vpath=%22/public/aliases/Category/Journalism%22)%20and%20(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22))%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22))&skinName=list-json&count=200&start=20150701&end=20150730';
                     //Dev Athletics
-                    var url = 'https://caldev.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&query=Sports&skinName=list-json&count=10&start=20150701&end=20150731';
+                    //var url = 'https://caldev.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&query=Sports&skinName=list-json&count=10&start=20150701&end=20150731';
+                    //Test History 
+                    var url = 'https://caltest.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(categories.href=%22/public/.bedework/categories/org/History%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=10&start=20150701&end=20150731'
                     url  = url .replace(/(start=)[^\&]+/, '$1' + start.format('YYYYMMDD'));
 		    url  = url .replace(/(end=)[^\&]+/, '$1' + end.format('YYYYMMDD'));
                     $.ajax({
