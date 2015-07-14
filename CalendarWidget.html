@@ -83,14 +83,10 @@
                 eventRender: function (event, element) {
 		    element.find('.fc-event-title').html(event.title);
 		},
-		viewDisplay: function(view) {              
-    			if(typeof(timelineInterval) != 'undefined'){
-      				window.clearInterval(timelineInterval); 
-    			}
-    			timelineInterval = window.setInterval(setTimeline, 300000);
-	    		try {
-	      			setTimeline();
-	    		} catch(err) {}
+		viewRender: function(view) {              
+		    	try {
+		            setTimeline();
+		        } catch (err) {}
   		}
                     // The URL provided by Bedework JSON feed does not work
                     //eventClick: function(event) {
