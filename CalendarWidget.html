@@ -75,7 +75,7 @@
                                     });
 									console.log("Title set : " + events[i].title);
                                 }
-                                console.log(events);
+                                //console.log(events);
                                 callback(events);
                             }
                         },
@@ -85,7 +85,10 @@
                 eventRender: function (event, element) {
 		    element.find('.fc-event-title').html(event.title);
 		},
-		
+		viewRender: function (view, element) {
+			console.log(view.start);
+			console.log(view.end);
+        	},
             })
         });
         
