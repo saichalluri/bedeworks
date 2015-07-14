@@ -86,8 +86,8 @@
 		    element.find('.fc-event-title').html(event.title);
 		},
 		viewRender: function (view, element) {
-			console.log(new Date(view.start.longdate).toISOString());
-			console.log(new Date(view.end.longdate).toISOString());
+			console.log(view.start.format('L'));
+			console.log(view.end.format('L'));
         	},
             })
         });
