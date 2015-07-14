@@ -47,8 +47,8 @@
                     var yql_url = 'https://query.yahooapis.com/v1/public/yql';
                     //var url = 'https://goo.gl/EnEEiH';
                     //var url = 'http://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&query=sundial&skinName=list-json&count=200&start=20150701&end=20150730';
-                    var queryString  = 'https://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(((vpath=%22/public/aliases/Category/Journalism%22)%20and%20(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22))%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22))&skinName=list-json&count=200';
-                    var url = queryString.append($.param(queryVars));
+                    var url  = 'https://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(((vpath=%22/public/aliases/Category/Journalism%22)%20and%20(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22))%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22))&skinName=list-json&count=200';
+                    url  = $.param(queryVars);
                     $.ajax({
                         'url': yql_url,
                         'data': {
