@@ -73,7 +73,7 @@
                                         allDay:evallday,
                                         url: evurl
                                     });
-									console.log("Title set : " + events[i].title);
+			            //console.log("Title set : " + events[i].title);
                                 }
                                 //console.log(events);
                                 callback(events);
@@ -86,8 +86,8 @@
 		    element.find('.fc-event-title').html(event.title);
 		},
 		viewRender: function (view, element) {
-			console.log(view.start);
-			console.log(view.end);
+			console.log(new Date(view.start.longdate).toISOString());
+			console.log(new Date(view.end.longdate).toISOString());
         	},
             })
         });
