@@ -1,0 +1,264 @@
+
+<DOCTYPE html>
+<html>
+
+<head>
+    <title>My Page</title>
+    <!-- CSS -->
+	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.0/css/bootstrap-combined.min.css" rel="stylesheet" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.css" rel="stylesheet" />
+   	<link href=" https://code.ionicframework.com/ionicons/2.0.0/css/ionicons.min.css" rel="stylesheet" />
+   	
+   	<!-- SCRIPTS -->
+	<script class="cssdesk" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
+	<script class="cssdesk" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js" type="text/javascript"></script>
+	<script class="cssdesk" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.0/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js'></script>
+	<script class="cssdesk" src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/fullcalendar.min.js" type="text/javascript"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.3/lang-all.js'></script>
+    	<script src='//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.1.0/moment-timezone-with-data.js'></script> 
+   	<script src='https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.15/require.min.js'></script> 
+    
+    <script>
+        $(document).ready(function() {
+            $('#calendar').fullCalendar({
+                header: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'month,basicWeek,basicDay'
+                },
+                eventLimit: {
+	            'agenda': 6, // adjust to 6 only for agendaWeek/agendaDay
+	            'default': true // give the default value to other views
+	    	},
+	    	//defaultView: "agendaDay",
+                // add event name to title attribute on mouseover
+                eventMouseover: function(event, jsEvent, view) {
+                    if (view.name !== 'agendaDay') {
+                        $(jsEvent.target).attr('title', event.title);
+                    }
+                },
+                events: function(start, end, timezone, callback) {
+                    var yql_url = 'https://query.yahooapis.com/v1/public/yql';
+                    //var url = 'https://goo.gl/EnEEiH';
+                    //var url = 'http://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&query=sundial&skinName=list-json&count=200&start=20150701&end=20150730';
+                    //Prod Journalism
+                    //var url  = 'https://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(((vpath=%22/public/aliases/Category/Journalism%22)%20and%20(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22))%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22))&skinName=list-json&count=200&start=20150701&end=20150730';
+                    //Dev Athletics
+                    //var url = 'https://caldev.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/UniversityEvents%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&query=Sports&skinName=list-json&count=10&start=20150701&end=20150731';
+                    //Test History 
+                    var url = 'https://caltest.cc.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href!=%22/public/.bedework/categories/sys/Ongoing%22)%20and%20(categories.href=%22/public/.bedework/categories/org/History%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&count=200&start=20150701&end=20150731'
+                    url  = url .replace(/(start=)[^\&]+/, '$1' + start.format('YYYYMMDD'));
+		    url  = url .replace(/(end=)[^\&]+/, '$1' + end.format('YYYYMMDD'));
+                    $.ajax({
+                        'url': yql_url,
+                        'data': {
+                            'q': 'SELECT * FROM json WHERE url="' + url + '"',
+                            'format': 'json',
+                            'jsonCompat': 'new',
+                        },
+                        'dataType': 'jsonp',
+                        'success': function(response) {
+                            if (response.error) {
+                                console.log(response.error.description);
+                            } else {
+                                var events = [];
+                                var info = response.query.results.bwEventList.events;
+                                console.log(response.query.results.bwEventList.events);
+                                for (var i = 0; i < info.length; i++) {
+                                    var ev = info[i];
+                                    var title = ev.summary;
+                                    var evtstart = new Date(ev.start.longdate).toISOString();
+                                    var evtend = new Date(ev.end.longdate).toISOString();
+                                    var evid = ev.guid;
+                                    var evurl = ev.eventlink;
+                                    var evallday = Boolean(ev.start.allDay);
+                                    events.push({
+                                        title: title,
+                                        start: evtstart,
+                                        end: evtend,
+                                        id: evid,
+                                        allDay:evallday,
+                                        url: evurl
+                                    });
+			            //console.log("Title set : " + events[i].title);
+                                }
+                                //console.log(events);
+                                callback(events);
+                            }
+                        },
+                    });
+                    
+                },
+                eventRender: function (event, element) {
+		    element.find('.fc-event-title').html(event.title);
+		},
+	    })
+        });
+        
+    </script>
+    <style>
+        body {
+            margin: 40px 10px;
+            padding: 0;
+            
+            
+        }
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+            
+        }
+        a.fc-event{
+            height: 34px;
+        }
+        .fc-time {
+    		display:none;
+	}
+	#columbiaBar {
+	  background-color: #174581;
+	  color: white;
+ 	 height: 22px;
+	}
+	#columbiaBar .container {
+  	  position: relative;
+	}
+	#columbiaBar #ColumbiaUniversityTitle img {
+	  width: 283px;
+	  margin: 2px 0;
+	}
+	#header {
+         position: fixed;
+	  margin: 0 0 1px 0;
+         top: 0;
+         left: 0;
+         width: 100%;
+	}
+#siteLogo img {
+  width: 684px;
+}
+        /* FOOTER */
+#footer {
+  clear: both;
+  width: 100%;
+  margin-top: 1em;
+  padding: 20px;
+  color: #fff;
+  background-color: #666;
+  font-size: 0.9em;
+}
+#footer a {
+  color: #fff;
+}
+#footer a:hover {
+  color: #eee;
+}
+#rightFoot {
+  float: right;
+  text-align: right;
+  font-size: 0.9em;
+}
+#rightFoot li {
+  display: inline-block;
+  list-style: none;
+}
+#rightFootMenu li {
+  text-transform: uppercase;
+  margin-left: 2em;
+}
+    #rightFootIcons img {
+  height: 25px;
+}
+#masthead {
+  margin: 0;
+  padding: 35px 0 0;
+  top: 0;
+         left: 0;
+         width: 100%;
+position: relative;
+}
+#masthead h1 {
+  margin: 0;
+}
+#img-responsive{display:block;height:auto;max-width:100%}
+</style>
+</head>
+
+<body>
+<header id="header">
+<div id="columbiaBar">
+<div class="container">
+<div id="ColumbiaUniversityTitle">
+<a href="http://www.columbia.edu/">
+<img alt="Columbia University in the City of New York" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/ColumbiaWebIdentityWhiteonKO.png">
+</a>
+</div>
+</div>
+</div>
+<div id="masthead">
+<div class="container">
+<h1 id="siteLogo">
+::before
+<a title="Columbia University History Events" href="https://caltest.cc.columbia.edu/cal">
+<img alt="Columbia University Events" class="img-responsive" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles//ColumbiaWebIdentityWhiteonKO.png">
+</a>
+</h1>
+::after
+</div>
+</div>
+</header>
+    <div id='calendar'></div>
+
+
+<footer id="footer">
+<div class="container">
+<div id="rightFoot">
+<ul id="rightFootMenu">
+<li>
+<a href="https://caltest.cc.columbia.edu/eventsubmit">Submit an Event</a>
+</li>
+<li>
+<a href="mailto:calendar-admin@columbia.edu">Calendar Help</a>
+</li>
+<li>
+<a href="https://caltest.cc.columbia.edu/admin">Manage Your Calendar</a>
+</li>
+</ul>
+<ul id="rightFootIcons">
+<li>
+<a href="https://www.youtube.com/user/columbiauniversity">
+<img alt="YouTube" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/YouTubeIcon.png">
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/columbia">
+<img alt="Facebook" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/FacebookIcon.png">
+</a>
+</li>
+<li>
+<a href="https://twitter.com/columbia">
+<img alt="Twitter" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/TwitterIcon.png">
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+ColumbiaUniversity/posts">
+<img alt="Google+" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/Google+Icon.png">
+</a>
+</li>
+<li>
+<a href="https://instagram.com/columbia">
+<img alt="Instagram" src="https://caltest.cc.columbia/calendars/CalendarWidgetFiles/InstagramIcon.png">
+</a>
+</li>
+</ul>
+</div>
+<a href="https://www.google.com/maps/place/116+St+-+Columbia+University/@40.807722,-73.96411,15z/data=!4m2!3m1!1s0x0:0xef95e560e3c952a1">116th Street and Broadway, New York, NY 10027</a>
+<br>
+<a href="http://www.columbia.edu/node/111.html">© 2015 Columbia University</a>
+</div>
+</footer>
+</body>
+
+</html>
+
+
